@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aemg-docs/clientlibs"/>
+    <filter root="/apps/aemg-docs/components"/>
+    <filter root="/apps/aemg-docs/i18n"/>
+</workspaceFilter>

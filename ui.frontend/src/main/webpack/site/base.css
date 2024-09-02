@@ -1,0 +1,111 @@
+/*
+Copyright 2022 Adobe
+All Rights Reserved.
+
+NOTICE: Adobe permits you to use, modify, and distribute this file in
+accordance with the terms of the Adobe license agreement accompanying
+it.
+*/
+/* Base styles */
+html {
+  @apply text-gray-700;
+}
+
+button,
+select,
+a {
+  @apply focus:ring focus:ring-blue-400 focus:ring-opacity-75 focus:outline-none;
+}
+
+select {
+  @apply p-1 mx-0 my-2 text-base text-gray-600 bg-transparent border border-gray-400 rounded;
+  @apply focus:border-gray-600 focus:text-gray-800;
+}
+
+body {
+  font-family: Roboto;
+}
+
+.cmp-dita-topic-content .newpar{
+  display: none;
+}
+
+#topic-title{
+  margin: 2rem 0;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.cmp-languagenavigation--langnavtoggle{
+  padding: 0 2em;
+  /* border: 2px solid black; */
+  border-radius: .5rem;
+  display: flex;
+  cursor: pointer;
+}
+
+#langNavToggleHeader a{
+  margin-right: 1rem
+}
+
+.cmp-languagenavigation {
+  position: fixed;
+  z-index: 1000;
+  width: fit-content;
+  display: none;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 1px 4px #00000026;
+  border: 1px solid #CACACA;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.cmp-languagenavigation.showMenu{
+  display: block;
+  li {
+    min-height: 2rem;
+    padding: 0.25rem 1rem; 
+  }
+  li:hover{
+    @apply text-gray-800;
+    background-color: #2C2C2C0F; 
+  }
+
+}
+
+#page-details{
+  display: flex;
+
+  .cmp-title{
+    margin: 0.5rem;
+    display: flex;
+    align-items: center;
+    height: 1rem;
+    line-height: 1rem;
+    text-align: center;
+  }
+
+  .cmp-title::before {
+    content: '';
+    width: 0.3rem;
+    height: 0.3rem;
+    background-color: #6E6E6E;
+    border-radius: 0.3rem;
+    margin-right: 0.75rem;
+    }
+    :first-child{
+      margin-left: 0;
+    }
+    :first-child::before {
+      width: 0;
+      height: 0;
+      margin:0
+    }
+}
+
+
+#topic-page{
+  margin: 0 2rem;
+}
