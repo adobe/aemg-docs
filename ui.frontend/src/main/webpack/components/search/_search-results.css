@@ -155,11 +155,6 @@ it.
   margin-left: 0.25rem;
 }
 
-#js-searchResults-endData {
-  display: none !important;
-}
-
-
 @media (max-width: 768px) {
   #cmp-search-page-result .search__field--view {
     margin: 0;
