@@ -70,7 +70,7 @@ The second part of the ui.frontend module build process leverages the [aem-clien
 
 ###  Page Inclusion
 
-`clientlib-site` and `clientlib-dependencies` categories are included on pages via the Page Policy configuration as part of the default template. To view the policy, edit the **Content Page Template**  > **Page Information** > **Page Policy**.
+`clientlib-site` and `clientlib-dependencies` categories are included on pages via the Page Policy configuration as part of the default template. To view the policy, edit the **Blank Page Template**  > **Page Information** > **Page Policy**.
 
 The final inclusion of client libraries on the sites page is as follows:
 
