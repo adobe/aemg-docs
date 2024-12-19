@@ -180,13 +180,13 @@ fieldset, ol, ul {
 }
 
 .new.newpar.section.aem-Grid-newComponent {
-  display: none;
+  /* display: none; */
 }
 .new.newpar.section {
-  display: none;
+  /* display: none; */
 }
 #topic-page{
-  height: 100%;
+  /* height: 100%; */
 }
 
 *[data-tcx-rotate = '270deg'] {
@@ -200,7 +200,7 @@ fieldset, ol, ul {
 }
 
 #topic-page > .aem-Grid{
-  height: 100%;
+  /* height: 100%; */
 
 }
 
@@ -238,9 +238,9 @@ fieldset, ol, ul {
 }
 
 .root .cmp-container {
-  height: 100%;
+  /* height: 100%; */
 }
 
 .root .cmp-container .main {
-  min-height: calc(100% - 17.0rem);
+  /* min-height: calc(100% - 17.0rem); */
 }
