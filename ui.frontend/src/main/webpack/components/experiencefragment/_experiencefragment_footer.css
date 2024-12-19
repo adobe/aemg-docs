@@ -13,6 +13,12 @@ it.
     color: #1532AD;
     height: 12.875rem;
 
+    .xf-content-height {
+        & > .cmp-container {
+            height: 100%;
+        }
+    }
+
     .aem-Grid {
         grid-template-columns: 4fr 4fr 4fr 4fr;
         display: grid;
