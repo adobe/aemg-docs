@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="2fbe6e99-6335-4f3e-83f2-a033e7ad26ef">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:18.087-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:18.087-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T11:33:17.446+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-07-09T11:32:54.419+05:30|92f358b7-dfba-49b1-9d20-b3a7db8d18da|2025-07-09T11:29:12.106+05:30|14|0"
+        fmUuid="GUID-a7345872-660c-43db-bde2-d147736af405">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?>&#xa;&lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c148 79.164050, 2019/10/01-18:03:16        &quot;>&#xa; &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;>&#xa;  &lt;rdf:Description rdf:about=&quot;&quot;&#xa;    xmlns:dam=&quot;http://www.day.com/dam/1.0&quot;&#xa;    xmlns:tiff=&quot;http://ns.adobe.com/tiff/1.0/&quot;&#xa;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#xa;   dam:Physicalheightininches=&quot;2.9024150371551514&quot;&#xa;   dam:Physicalwidthininches=&quot;5.554861068725586&quot;&#xa;   dam:Fileformat=&quot;PNG&quot;&#xa;   dam:Progressive=&quot;no&quot;&#xa;   dam:extracted=&quot;2025-05-23T04:05:50.153-04:00&quot;&#xa;   dam:Bitsperpixel=&quot;32&quot;&#xa;   dam:MIMEtype=&quot;image/png&quot;&#xa;   dam:Physicalwidthindpi=&quot;72&quot;&#xa;   dam:Physicalheightindpi=&quot;72&quot;&#xa;   dam:Numberofimages=&quot;1&quot;&#xa;   dam:Numberoftextualcomments=&quot;0&quot;&#xa;   dam:sha1=&quot;6f3001d06a91af2f6af0e0062342d2f2d344c9d3&quot;&#xa;   dam:size=&quot;160016&quot;&#xa;   tiff:ImageLength=&quot;209&quot;&#xa;   tiff:ImageWidth=&quot;400&quot;&#xa;   dc:format=&quot;image/png&quot;&#xa;   dc:modified=&quot;2025-07-09T11:32:54.384+05:30&quot;/>&#xa; &lt;/rdf:RDF>&#xa;&lt;/x:xmpmeta>&#xa;&lt;?xpacket end=&quot;r&quot;?>&#xa;"
+            dam:extracted="{Date}2025-07-09T11:33:16.463+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}2.9024150371551514"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}5.554861068725586"
+            dam:Progressive="no"
+            dam:sha1="c6fcfd51de296fd41620a8b2f148ac3e797cc413"
+            dam:size="{Long}161070"
+            dc:format="image/png"
+            dc:modified="{Date}2025-07-09T11:32:54.384+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:32:54.384+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}209"
+            tiff:ImageWidth="{Long}400"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8ab0a978-e60d-454e-9bff-68fa17d03726">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:23.098-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:23.098-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="manufacturinng-toc-icon.svg"
+        cq:parentPath="/content/dam/fsi/common-images/icons"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T11:33:08.501+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="9.0"
+        fmPostProcessedAt="2025-07-09T11:29:20.679+05:30|ccd1c42f-df31-4744-8f26-f032ebee49fb|2025-07-09T11:29:20.556+05:30|14|0"
+        fmUuid="GUID-fc741c3f-f1fe-4e9e-9a2d-421eb163243f">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:33:06.795+05:30"
+            dam:sha1="a13e111d63d12eecde0b7382822d1033ee54d521"
+            dam:size="{Long}1750"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:32:53.616+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:32:53.616+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="062d11e6-7a00-4cfd-9a62-3e8ece81e9c2">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:23.098-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:23.098-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T13:04:45.127+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-07-09T11:29:21.762+05:30|d43ebf3d-4166-41c9-ba20-59742b775d46|2025-07-09T11:29:21.555+05:30|14|0"
+        fmUuid="GUID-cb7920a6-831f-4eb4-aaaf-2e20c689cade">
+        <metadata
+            dam:extracted="{Date}2025-07-09T13:04:43.407+05:30"
+            dam:sha1="65d8e05c39e2f2233b937e367ad744d50211ad4d"
+            dam:size="{Long}1663"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:32:44.504+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:32:44.503+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

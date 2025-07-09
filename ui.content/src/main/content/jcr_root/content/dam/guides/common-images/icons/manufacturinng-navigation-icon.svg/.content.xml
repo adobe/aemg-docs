@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="3d392d8d-16db-442d-97d5-f50a7da49bc9">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:23.720-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:23.720-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="manufacturinng-navigation-icon.svg"
+        cq:parentPath="/content/dam/fsi/common-images/icons"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T11:33:21.201+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="9.0"
+        fmPostProcessedAt="2025-07-09T11:29:24.407+05:30|887c699e-ab55-4c89-a2fd-994b885adad8|2025-07-09T11:29:24.255+05:30|14|0"
+        fmUuid="GUID-c2e5437f-edda-4bd6-be15-d937d2b4b202">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:33:20.228+05:30"
+            dam:sha1="e7081cdf47c83e17c6267cb3c50c65cd691d8fd8"
+            dam:size="{Long}898"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:32:58.159+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:32:58.158+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
