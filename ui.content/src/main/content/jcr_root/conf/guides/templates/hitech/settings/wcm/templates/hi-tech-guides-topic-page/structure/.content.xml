@@ -11,7 +11,7 @@
                 layout="responsiveGrid">
             <breadcrumb
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="guides-components/components/breadcrumb"
+                    sling:resourceType="guides-components/components/breadcrumb2"
                     arrowIcon="/content/dam/guides/common-images/icons/right-arrow-gray.svg"
                     homeIcon="/content/dam/guides/common-images/icons/home.svg"
                     disableShadowing="false"
