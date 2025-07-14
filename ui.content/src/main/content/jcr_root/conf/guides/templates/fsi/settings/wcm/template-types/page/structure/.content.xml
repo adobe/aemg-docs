@@ -5,18 +5,18 @@
         cq:deviceGroups="[mobile/groups/responsive]"
         cq:template="/conf/guides/templates/fsi/settings/wcm/templates/page-content"
         jcr:primaryType="cq:PageContent"
-        sling:resourceType="aemguides/components/page">
+        sling:resourceType="guides-components/components/page">
         <root
             jcr:primaryType="nt:unstructured"
-            sling:resourceType="aemguides/components/container"
+            sling:resourceType="guides-components/components/container"
             layout="responsiveGrid">
             <experiencefragment-header
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="aemguides/components/experiencefragment"
-                fragmentVariationPath="/content/experience-fragments/fsi/en/us/header/master"/>
+                sling:resourceType="guides-components/components/experiencefragment"
+                fragmentVariationPath="/content/experience-fragments/guides/fsi/en/us/header/master"/>
             <container
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="aemguides/components/container"
+                sling:resourceType="guides-components/components/container"
                 editable="{Boolean}true"
                 layout="responsiveGrid"/>
         </root>

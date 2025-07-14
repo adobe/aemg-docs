@@ -22,7 +22,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="AEM Guides Language Navigation - Experience Fragment"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    navigationRoot="/content/aemguides"
+                    navigationRoot="/content/guides"
                     structureDepth="1">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                 </policy_xfm>

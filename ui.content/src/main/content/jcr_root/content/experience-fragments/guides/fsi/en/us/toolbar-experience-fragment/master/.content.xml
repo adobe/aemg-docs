@@ -35,18 +35,18 @@
                 filterSearchIcon="/content/dam/guides/common-images/icons/search.svg"
                 arrowIcon="/content/dam/guides/common-images/icons/ch-right-arrow.svg"
                 collapseIcon="/content/dam/guides/common-images/icons/collapse-icon.png"
-                navigationRoot="/content/fsi"
+                navigationRoot="/content/guides/fsi"
                 structureStart="4"/>
             <version-selector
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="guides-components/components/version-selector"
-                rootPagePath="/content/fsi"
+                rootPagePath="/content/guides/fsi"
                 skipLevels="3"/>
             <language-navigation
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="guides-components/components/languagenavigation2"
                 languageNavIcon="/content/dam/guides/common-images/icons/language.svg"
-                navigationRoot="/content/fsi"
+                navigationRoot="/content/guides/fsi"
                 structureDepth="2"/>
             <social-share
                 jcr:primaryType="nt:unstructured"
@@ -58,7 +58,7 @@
                 sling:resourceType="guides-components/components/pdf-export"
                 downloadIconPath="/content/dam/guides/common-images/icons/pdf.svg"
                 pdfPath="/content/dam/fmdita-outputs/pdfs/smart-security-latest.pdf"/>
-            <copy-link
+            <copy-link-component
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="guides-components/components/copy-link"
                 copyLinkIcon="/content/dam/guides/common-images/icons/link.svg"/>

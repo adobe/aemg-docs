@@ -3,7 +3,7 @@
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="cq:Page">
     <rep:policy/>
-    <aemguides jcr:primaryType="nt:unstructured">
+    <guides-components jcr:primaryType="nt:unstructured">
         <components jcr:primaryType="nt:unstructured">
             <form jcr:primaryType="nt:unstructured">
                 <container jcr:primaryType="nt:unstructured">
@@ -22,7 +22,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="AEM Guides Language Navigation - Experience Fragment"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    navigationRoot="/content/aemguides"
+                    navigationRoot="/content/guides"
                     structureDepth="1">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                 </policy_xfm>
@@ -362,7 +362,7 @@
                 </policy_1740104968094>
             </tableofcontents>
         </components>
-    </aemguides>
+    </guides-components>
     <wcm jcr:primaryType="nt:unstructured">
         <foundation jcr:primaryType="nt:unstructured">
             <components jcr:primaryType="nt:unstructured">
