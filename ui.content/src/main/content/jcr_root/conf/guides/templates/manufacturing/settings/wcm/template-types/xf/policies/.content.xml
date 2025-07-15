@@ -5,7 +5,7 @@
         jcr:primaryType="nt:unstructured"
         sling:resourceType="wcm/core/components/policies/mappings">
         <root
-            cq:policy="aemguides/components/container/policy_1575040440977"
+            cq:policy="guides-components/components/container/policy_1575040440977"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/core/components/policies/mapping"/>
     </jcr:content>

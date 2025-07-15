@@ -13,7 +13,7 @@
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:name="search-icon.png"
-        cq:parentPath="/content/dam/manufacturing/manufacturing-assets"
+        cq:parentPath="/content/dam/guides/manufacturing-assets"
         dam:assetState="processed"
         jcr:lastModified="{Date}2025-07-09T11:33:26.836+05:30"
         jcr:lastModifiedBy="admin"

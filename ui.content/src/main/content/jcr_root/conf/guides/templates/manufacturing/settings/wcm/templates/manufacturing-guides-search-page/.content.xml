@@ -4,7 +4,7 @@
     <jcr:content
         cq:lastModified="{Date}2024-12-24T08:15:02.717+05:30"
         cq:lastModifiedBy="admin"
-        cq:templateType="/conf/manufacturing/settings/wcm/template-types/page"
+        cq:templateType="/conf/guides/templates/manufacturing/settings/wcm/template-types/page"
         jcr:description="Manufacturing Guides Search page Template"
         jcr:primaryType="cq:PageContent"
         jcr:title="Manufacturing Guides Search Template"

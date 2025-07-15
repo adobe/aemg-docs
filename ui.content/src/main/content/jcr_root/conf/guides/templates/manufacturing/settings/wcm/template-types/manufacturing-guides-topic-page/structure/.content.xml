@@ -3,30 +3,26 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[mobile/groups/responsive]"
-        cq:template="/conf/manufacturing/settings/wcm/templates/manufacturing-guides-topic-page"
+        cq:template="/conf/guides/templates/manufacturing/settings/wcm/templates/manufacturing-guides-topic-page"
         jcr:primaryType="cq:PageContent"
-        sling:resourceType="aemguides/components/guides-pages/manufacturing/manufacturing-guides-topic-page">
+        sling:resourceType="guides-components/components/guides-pages/manufacturing/manufacturing-guides-topic-page">
         <root
             jcr:primaryType="nt:unstructured"
-            sling:resourceType="aemguides/components/container"
+            sling:resourceType="guides-components/components/container"
             layout="responsiveGrid">
             <experiencefragment-header
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="aemguides/components/experiencefragment"
-                fragmentVariationPath="/content/experience-fragments/manufacturing/en/us/header/master"/>
+                sling:resourceType="guides-components/components/experiencefragment"
+                fragmentVariationPath="/content/experience-fragments/guides/manufacturing/en/us/header/master"/>
             <container
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="aemguides/components/container"
+                sling:resourceType="guides-components/components/container"
                 editable="{Boolean}true"
                 layout="responsiveGrid"/>
             <experiencefragment
-                jcr:created="{Date}2024-12-17T14:36:22.609+05:30"
-                jcr:createdBy="admin"
-                jcr:lastModified="{Date}2024-12-19T16:39:21.406+05:30"
-                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="aemguides/components/experiencefragment"
-                fragmentVariationPath="/content/experience-fragments/manufacturing/en/us/footer/master"/>
+                sling:resourceType="guides-components/components/experiencefragment"
+                fragmentVariationPath="/content/experience-fragments/guides/manufacturing/en/us/footer/master"/>
         </root>
         <cq:responsive jcr:primaryType="nt:unstructured">
             <breakpoints jcr:primaryType="nt:unstructured">

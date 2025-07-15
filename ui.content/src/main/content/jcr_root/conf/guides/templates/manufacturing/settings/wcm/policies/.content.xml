@@ -3,7 +3,7 @@
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="cq:Page">
     <rep:policy/>
-    <aemguides jcr:primaryType="nt:unstructured">
+    <guides-components jcr:primaryType="nt:unstructured">
         <components jcr:primaryType="nt:unstructured">
             <form jcr:primaryType="nt:unstructured">
                 <container jcr:primaryType="nt:unstructured">
@@ -12,7 +12,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Content Form"
                         sling:resourceType="wcm/core/components/policy/policy"
-                        components="[/apps/aemguides/components/form/button,/apps/aemguides/components/form/hidden,/apps/aemguides/components/form/options,/apps/aemguides/components/form/text]">
+                        components="[/apps/guides-components/components/form/button,/apps/guides-components/components/form/hidden,/apps/guides-components/components/form/options,/apps/guides-components/components/form/text]">
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </form-container>
                 </container>
@@ -211,7 +211,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Page Root"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    components="[group:AEM Guides - Content,/apps/aemguides/components/form/container,group:AEM Guides - Structure]">
+                    components="[group:AEM Guides - Content,/apps/guides-components/components/form/container,group:AEM Guides - Structure]">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                     <cq:authoring jcr:primaryType="nt:unstructured">
                         <assetToComponentMapping jcr:primaryType="nt:unstructured">
@@ -220,19 +220,19 @@
                                 assetGroup="media"
                                 assetMimetype="image/*"
                                 droptarget="image"
-                                resourceType="aemguides/components/image"/>
+                                resourceType="guides-components/components/image"/>
                             <mapping_1575030843388
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="content"
                                 assetMimetype="text/html"
                                 droptarget="experiencefragment"
-                                resourceType="aemguides/components/experiencefragment"/>
+                                resourceType="guides-components/components/experiencefragment"/>
                             <mapping_1575030853128
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="media"
                                 assetMimetype="[text/html,application/vnd.adobe.contentfragment]"
                                 droptarget="contentfragment"
-                                resourceType="aemguides/components/contentfragment"/>
+                                resourceType="guides-components/components/contentfragment"/>
                         </assetToComponentMapping>
                     </cq:authoring>
                 </policy_1574694950110>
@@ -241,7 +241,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Page Content"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    components="[group:AEM Guides - Content,/apps/aemguides/components/form/container]">
+                    components="[group:AEM Guides - Content,/apps/guides-components/components/form/container]">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                     <cq:authoring jcr:primaryType="nt:unstructured">
                         <assetToComponentMapping jcr:primaryType="nt:unstructured">
@@ -250,19 +250,19 @@
                                 assetGroup="media"
                                 assetMimetype="image/*"
                                 droptarget="image"
-                                resourceType="aemguides/components/image"/>
+                                resourceType="guides-components/components/image"/>
                             <mapping_1575030260142
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="content"
                                 assetMimetype="text/html"
                                 droptarget="experiencefragment"
-                                resourceType="aemguides/components/experiencefragment"/>
+                                resourceType="guides-components/components/experiencefragment"/>
                             <mapping_1575030269139
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="media"
                                 assetMimetype="[text/html,application/vnd.adobe.contentfragment]"
                                 droptarget="contentfragment"
-                                resourceType="aemguides/components/contentfragment"/>
+                                resourceType="guides-components/components/contentfragment"/>
                         </assetToComponentMapping>
                     </cq:authoring>
                 </policy_1574695586800>
@@ -279,7 +279,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="XF Root"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    components="[group:Guides Component,group:AEM Guides - Content,/apps/aemguides/components/form/container]">
+                    components="[group:Guides Component,group:AEM Guides - Content,/apps/guides-components/components/form/container]">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                     <cq:authoring jcr:primaryType="nt:unstructured">
                         <assetToComponentMapping jcr:primaryType="nt:unstructured">
@@ -288,19 +288,19 @@
                                 assetGroup="media"
                                 assetMimetype="image/*"
                                 droptarget="image"
-                                resourceType="aemguides/components/image"/>
+                                resourceType="guides-components/components/image"/>
                             <mapping_1575030843388
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="content"
                                 assetMimetype="text/html"
                                 droptarget="experiencefragment"
-                                resourceType="aemguides/components/experiencefragment"/>
+                                resourceType="guides-components/components/experiencefragment"/>
                             <mapping_1575030853128
                                 jcr:primaryType="nt:unstructured"
                                 assetGroup="media"
                                 assetMimetype="[text/html,application/vnd.adobe.contentfragment]"
                                 droptarget="contentfragment"
-                                resourceType="aemguides/components/contentfragment"/>
+                                resourceType="guides-components/components/contentfragment"/>
                         </assetToComponentMapping>
                     </cq:authoring>
                 </policy_1575040440977>
@@ -362,12 +362,12 @@
                 </policy_1740104968094>
             </tableofcontents>
         </components>
-    </aemguides>
+    </guides-components>
     <wcm jcr:primaryType="nt:unstructured">
         <foundation jcr:primaryType="nt:unstructured">
             <components jcr:primaryType="nt:unstructured">
                 <responsivegrid jcr:primaryType="nt:unstructured">
-            
+
                 </responsivegrid>
             </components>
         </foundation>

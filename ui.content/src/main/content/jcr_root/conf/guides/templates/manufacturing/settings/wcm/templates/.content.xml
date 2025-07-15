@@ -3,7 +3,6 @@
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="cq:Page">
     <manufacturing-guides-topic-page/>
-    <page-content/>
     <manufacturing-xf-web-variation/>
     <rep:policy/>
 </jcr:root>
