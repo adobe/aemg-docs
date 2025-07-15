@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ab180747-9598-4030-946e-27dfc668e718">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:22.404-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:22.404-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="foward.svg"
+        cq:parentPath="/content/dam/aemguides/common-images/icons"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T13:04:43.845+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-07-09T11:29:17.759+05:30|0d9c5d45-44a2-4961-8796-cad28db4a149|2025-07-09T11:29:17.567+05:30|14|0"
+        fmUuid="GUID-0f325f33-7490-4b13-936b-6547c7d23071">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:32:53.646+05:30"
+            dam:sha1="0f477be73d312756379afd120a19db1770c3f078"
+            dam:size="{Long}877"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:32:43.223+05:30"
+            jcr:lastModified="{Date}2025-07-09T13:04:43.843+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

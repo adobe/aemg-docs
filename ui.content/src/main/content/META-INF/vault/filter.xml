@@ -4,4 +4,8 @@
     <filter root="/content/aemg-docs" mode="merge"/>
     <filter root="/content/dam/aemg-docs" mode="merge"/>
     <filter root="/content/experience-fragments/aemg-docs" mode="merge"/>
+    <filter root="/conf/guides" mode="merge"/>
+    <filter root="/content/guides" mode="merge"/>
+    <filter root="/content/dam/guides" mode="merge"/>
+    <filter root="/content/experience-fragments/guides" mode="merge"/>
 </workspaceFilter>

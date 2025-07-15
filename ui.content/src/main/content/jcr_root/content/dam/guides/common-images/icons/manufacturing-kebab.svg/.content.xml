@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e57313aa-db60-441a-bff3-f6ca17e6989b">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:19.776-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:19.776-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="manufacturing-kebab.svg"
+        cq:parentPath="/content/dam/fsi/common-images/icons"
+        dam:assetState="processing"
+        jcr:lastModified="{Date}2025-07-09T11:33:06.275+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="9.0"
+        fmPostProcessedAt="2025-07-09T11:29:13.239+05:30|2cbb71a7-8e2c-45a9-9533-dc8b17d60ae4|2025-07-09T11:29:13.188+05:30|14|0"
+        fmUuid="GUID-f5657776-b266-45e7-8946-69ddf161b095">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:32:44.540+05:30"
+            dam:sha1="70abf2e580b568c5f0495041757a6650d8c0f2a2"
+            dam:size="{Long}1475"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:33:06.275+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:33:06.273+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

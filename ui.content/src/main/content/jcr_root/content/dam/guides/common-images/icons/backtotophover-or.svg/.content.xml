@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="fd5369c4-0902-4c53-a7ba-779504ef2e49">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:18.927-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:18.927-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="backtotophover-or.svg"
+        cq:parentPath="/content/dam/fsi/common-images/icons"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T11:33:01.625+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-07-09T11:29:12.576+05:30|aa0de172-6d51-4d72-9541-a7ae4fb99057|2025-07-09T11:29:12.529+05:30|14|0"
+        fmUuid="GUID-904b3e58-32ed-4079-8265-f8a21a20920a">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:33:00.586+05:30"
+            dam:sha1="757f4773e14e0e3718dd098a20e651a94c26f7b6"
+            dam:size="{Long}1142"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:32:51.634+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:32:51.633+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

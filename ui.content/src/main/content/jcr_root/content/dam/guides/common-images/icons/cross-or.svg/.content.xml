@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="eafc56f6-a09d-4e5a-83e5-0b1d198e0348">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-06-20T10:13:19.776-04:00"
+        cq:lastReplicated_publish="{Date}2025-06-20T10:13:19.776-04:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicatedBy_publish="admin"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="cross-or.svg"
+        cq:parentPath="/content/dam/fsi/common-images/icons"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T11:33:30.501+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-07-09T11:29:13.750+05:30|2c2238bf-6bc5-4ad2-bd06-cd7312b773ac|2025-07-09T11:29:13.691+05:30|14|0"
+        fmUuid="GUID-9231eaf7-f1af-44db-9e67-ee575a6aac6c">
+        <metadata
+            dam:extracted="{Date}2025-07-09T11:33:29.331+05:30"
+            dam:sha1="b3016cc70df93222eb01fa6bb74bde22177e9f3f"
+            dam:size="{Long}1501"
+            dc:format="image/svg+xml"
+            dc:modified="{Date}2025-07-09T11:33:29.301+05:30"
+            jcr:lastModified="{Date}2025-07-09T11:33:29.300+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
