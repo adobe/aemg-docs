@@ -29,6 +29,7 @@
                 <search
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="guides-components/components/search2"
+                    searchIcon="/content/dam/guides/common-images/icons/searchheader.svg"
                     searchRoot="/content/guides/fsi/en/en_us"/>
                 <ctaList jcr:primaryType="nt:unstructured">
                     <item0
