@@ -13,7 +13,7 @@
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:name="backtotophover-or.svg"
-        cq:parentPath="/content/dam/fsi/common-images/icons"
+        cq:parentPath="/content/dam/guides/common-images/icons"
         dam:assetState="processed"
         jcr:lastModified="{Date}2025-07-09T11:33:01.625+05:30"
         jcr:lastModifiedBy="admin"
