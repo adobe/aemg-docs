@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b1ccb103-72ad-4fe8-9627-8dff84486ff4">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-03-26T06:11:30.580-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-03-26T06:11:19.649-04:00|b1ccb103-72ad-4fe8-9627-8dff84486ff4|2025-03-26T06:11:19.170-04:00|14|0"
+        fmUuid="GUID-cf4d6149-b046-4186-b9aa-836825bcbba8"
+        pdfType="Map"
+        sourcePath="/content/dam/sandbox/en/demoassets/dita-sample-content-car-insurance/car-insurance-knowledge-base.ditamap">
+        <metadata
+            dam:Author="Frank Ralf"
+            dam:extracted="{Date}2025-03-26T06:11:28.688-04:00"
+            dam:numPages="{Long}47"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="9f3b3987fdbdc2d48154908b0160d7b33fff735c"
+            dam:size="{Long}24410185"
+            dc:creator="[Frank Ralf]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:format="application/pdf"
+            dc:title="Car Insurance Knowledge Base"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Car Insurance Knowledge Base"
+            xmp:CreateDate="{Date}2025-03-12T11:15:54.000-04:00"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-03-12T20:45:54.000+05:30"
+            xmp:ModifyDate="{Date}2025-03-12T11:15:54.000-04:00"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

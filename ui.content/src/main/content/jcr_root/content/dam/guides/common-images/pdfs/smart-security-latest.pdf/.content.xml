@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="028611d7-51f6-4235-88ba-e5f635d8ab63">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-05-20T09:08:11.930-04:00"
+        cq:lastReplicated_publish="{Date}2025-05-20T09:08:11.930-04:00"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-03-26T06:11:32.593-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus,cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-03-26T06:11:19.077-04:00|028611d7-51f6-4235-88ba-e5f635d8ab63|2025-03-26T06:11:18.904-04:00|14|0"
+        fmUuid="GUID-9cccc13d-76e9-4a11-8463-b64f7b206886"
+        pdfType="Map"
+        sourcePath="/content/dam/sandbox/en/demoassets/dita-sample-content_IT/Smart-security.ditamap">
+        <metadata
+            dam:extracted="{Date}2025-03-26T06:11:31.452-04:00"
+            dam:numPages="{Long}65"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="4e9bfe1962ab11090276aa77ebf40063ebdfdb70"
+            dam:size="{Long}1685025"
+            dc:format="application/pdf"
+            dc:subject="[Adobe Security Inc.,Smart Security]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="Smart security"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Smart security"
+            pdf:Keywords="Adobe Security Inc., Smart Security"
+            xmp:CreateDate="{Date}2025-03-12T11:13:57.000-04:00"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-03-12T20:43:57.000+05:30"
+            xmp:ModifyDate="{Date}2025-03-12T11:13:57.000-04:00"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

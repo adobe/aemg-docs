@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:tags="[]"
+        cq:tags="[experience-fragments:variation/web]"
         cq:template="/conf/guides/templates/manufacturing/settings/wcm/templates/manufacturing-xf-web-variation"
         cq:xfMasterVariation="{Boolean}true"
         cq:xfVariantType="web"
-        jcr:isCheckedOut="{Boolean}true"
-        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Header"
         jcr:uuid="20e0bbe6-3cf9-47a0-87f4-b8891c7ce154"
@@ -23,7 +21,7 @@
                 languageIcon="/content/dam/guides/asset.jpg"
                 lightLogo="/content/dam/guides/common-images/icons/Logo.svg"
                 logo="/content/dam/guides/common-images/icons/Logo.svg"
-                logoLink="/content/manufacturing/guides-site-home-page"
+                logoLink="/content/guides/manufacturing"
                 placeholderText="Search Here"
                 profileIcon="/content/dam/guides/asset.jpg"
                 searchIcon="/content/dam/guides/common-images/icons/searchheader.svg"

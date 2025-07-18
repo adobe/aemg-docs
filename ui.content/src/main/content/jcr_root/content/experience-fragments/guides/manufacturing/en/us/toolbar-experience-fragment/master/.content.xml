@@ -4,6 +4,7 @@
     <jcr:content
         cq:tags="[experience-fragments:variation/web]"
         cq:template="/conf/guides/templates/manufacturing/settings/wcm/templates/manufacturing-component-config-xf-web-variation"
+        cq:xfMasterVariation="{Boolean}true"
         cq:xfVariantType="web"
         jcr:primaryType="cq:PageContent"
         jcr:title="Site Wide Component Configurations"
@@ -59,7 +60,7 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="guides-components/components/pdf-export"
                 downloadIconPath="/content/dam/guides/common-images/icons/manufacturing-export.svg"
-                pdfPath="/content/dam/fmdita-outputs/pdfs/smart-security-latest.pdf"/>
+                pdfPath="/content/dam/guides/common-images/pdfs/smart-security-latest.pdf"/>
             <copy-link-component
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="guides-components/components/copy-link"

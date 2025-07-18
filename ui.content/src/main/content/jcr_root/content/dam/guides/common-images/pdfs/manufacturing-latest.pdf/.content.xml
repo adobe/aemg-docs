@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="079fba78-3b0d-408c-aa9f-9e891019c5cb">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-04-08T03:13:31.810-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmPostProcessedAt="2025-04-08T03:13:31.141-04:00|079fba78-3b0d-408c-aa9f-9e891019c5cb|2025-04-08T03:13:31.096-04:00|14|0"
+        fmUuid="GUID-23849c0b-f039-4432-8965-0ebe37ef7ae4"
+        pdfType="Map"
+        sourcePath="/content/dam/en/dita-sample-content-manufacturing-machinery/Electro-pneumatic-gantry-robot.ditamap">
+        <metadata
+            dam:Author="Robert P. Robertson"
+            dam:extracted="{Date}2025-04-08T03:13:31.300-04:00"
+            dam:numPages="{Long}59"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="7b1eedbf755e6db9fd0a563587c009912b988ebf"
+            dam:size="{Long}1532019"
+            dc:creator="[Robert P. Robertson]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:format="application/pdf"
+            dc:title="Electro-pneumatic gantry robot"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Electro-pneumatic gantry robot"
+            xmp:CreateDate="{Date}2025-04-08T03:11:01.000-04:00"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-04-08T12:41:01.000+05:30"
+            xmp:ModifyDate="{Date}2025-04-08T03:11:01.000-04:00"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

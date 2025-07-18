@@ -58,7 +58,7 @@
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="guides-components/components/pdf-export"
                     downloadIconPath="/content/dam/guides/common-images/icons/pdf.svg"
-                    pdfPath="/content/dam/fmdita-outputs/pdfs/smart-security-latest.pdf"/>
+                    pdfPath="/content/dam/guides/common-images/pdfs/smart-security-latest.pdf"/>
             <copy-link-component
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="guides-components/components/copy-link"
