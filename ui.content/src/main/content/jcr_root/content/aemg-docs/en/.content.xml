@@ -14,12 +14,11 @@
         pwaCachestrategy="staleWhileRevalidate"
         pwaDisplay="standalone"
         pwaOrientation="any">
-        <image jcr:primaryType="nt:unstructured">
-            <file/>
-        </image>
+        <image jcr:primaryType="nt:unstructured"/>
     </jcr:content>
     <search/>
     <signin/>
     <docs/>
     <support/>
+    <hi-tech-landing/>
 </jcr:root>

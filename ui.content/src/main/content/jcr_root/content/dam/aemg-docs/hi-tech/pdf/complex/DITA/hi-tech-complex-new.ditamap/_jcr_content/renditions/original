@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-9392d343-9564-48d4-8d5c-f841619fb137">
+  <title>Hi-Tech Complex new</title>
+  <bookmeta>
+    <critdates><created date="May 2025"></created>
+    </critdates>
+    <prodinfo>
+      <prodname>HyperTech RTX 1000 Modules Tuning and Compliance Guide</prodname>
+      <vrmlist><vrm version="2024.38"></vrm>
+      </vrmlist>
+      <brand>Hi-Tech Brand</brand>
+    </prodinfo>
+    <bookid><booknumber>83-384-48</booknumber>
+    </bookid><bookrights><copyrfirst><year>2013</year>
+    </copyrfirst><bookowner><organization>Adobe</organization>
+    </bookowner>
+    </bookrights><data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <mapref format="ditamap" href="glossary/glossary.ditamap" type="map">
+    </mapref>
+    <booklists><toc></toc>
+    </booklists>
+  </frontmatter>
+  <chapter href="usb-2-0-tuning-guide.dita" type="topic">
+  </chapter>
+  <chapter href="advance-technology-camprison.dita" type="topic">
+  </chapter>
+  <chapter href="multiple-column-view.dita" type="topic">
+  </chapter>
+  <chapter href="advanced-technologies-in-semiconductor-and-aviation-industries.dita" type="topic">
+  </chapter>
+  <chapter href="multiple-column-view.dita" type="topic">
+  </chapter>
+  <chapter href="steps.dita" type="task">
+  </chapter>
+  <backmatter>
+    <booklists><tablelist></tablelist><figurelist></figurelist><indexlist></indexlist>
+      <glossarylist>
+      </glossarylist>
+    </booklists>
+  </backmatter>
+</bookmap>

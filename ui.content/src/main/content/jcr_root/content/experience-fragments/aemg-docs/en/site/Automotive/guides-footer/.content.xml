@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2025-03-03T07:53:11.886Z"
+        cq:lastModifiedBy="prashant.singh@deptagency.com"
+        cq:lastReplicated="{Date}2025-03-04T16:47:24.121Z"
+        cq:lastReplicated_publish="{Date}2025-03-04T16:47:24.121Z"
+        cq:lastReplicatedBy="pooja.pashte@deptagency.com"
+        cq:lastReplicatedBy_publish="pooja.pashte@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:tags="[]"
+        cq:template="/libs/cq/experience-fragments/components/experiencefragment/template"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Guides Footer"
+        jcr:uuid="00d49dfa-5d5e-4b08-898e-2d96c4ab22c7"
+        sling:resourceType="cq/experience-fragments/components/experiencefragment"/>
+    <guides-footer/>
+</jcr:root>

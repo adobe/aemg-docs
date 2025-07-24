@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64">
+  <title>fsi_complex</title>
+  <bookmeta>
+    <critdates>
+      <created date="2024"/>
+    </critdates>
+    <prodinfo>
+      <prodname>Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="2024.38"/>
+      </vrmlist>
+      <brand>FSI Brand</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2015</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+    <mapref format="ditamap" href="GUID-4bf0e5d1-5592-4ec4-a4a2-0a85ac8fe6d9.ditamap" type="map">
+    </mapref>
+    <!--  put glossary map here--><!-- <mapref format="ditamap" href="Glossary/glossary-.ditamap" type="map">    </mapref> -->
+  </frontmatter>
+  <chapter href="GUID-1c2a0877-3844-4d66-86ba-e7fc214bf822.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0.dita" type="task">
+  </chapter>
+  <chapter href="GUID-6ff2142a-76aa-49c2-8473-4970576baf62.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-db71b989-110a-4cf2-869f-f07f1718638a.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-c6603892-4759-4e00-813f-0377a4bf631f.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-36efc796-e4f9-4b4e-b512-1622f5ae2aed.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-80385748-a7d9-4995-a6eb-da4e41bc50cb.dita" type="topic">
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist/>
+      <glossarylist>
+      </glossarylist>
+      <figurelist/>
+      <tablelist/>
+    </booklists>
+  </backmatter>
+</bookmap>

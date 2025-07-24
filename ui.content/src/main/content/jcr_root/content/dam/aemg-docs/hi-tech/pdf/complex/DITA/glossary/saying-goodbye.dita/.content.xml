@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="67cb8c07-3eba-4519-8287-ba6c7fed9c4b">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.550+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_ce974735-3674-4f89-89ab-65851b4bb3ec"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Saying goodbye"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-09T18:13:53.158+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-goodbye.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:56.504+05:30"
+            dam:sha1="20545e168b2bd07944433bde556dae22e1299b1b"
+            dam:size="{Long}309"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:48.143+05:30"
+            dc:title="Saying goodbye"
+            jcr:lastModified="{Date}2025-07-09T18:13:54.452+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

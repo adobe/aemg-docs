@@ -1,0 +1,69 @@
+package com.adobe.aem.dxml.aemgdocs.core.models;
+
+import javax.annotation.PostConstruct;
+
+import org.apache.commons.lang3.StringUtils;
+import org.apache.sling.api.SlingHttpServletRequest;
+import org.apache.sling.api.resource.Resource;
+import org.apache.sling.api.resource.ValueMap;
+import org.apache.sling.models.annotations.Exporter;
+import org.apache.sling.models.annotations.Model;
+import org.apache.sling.models.annotations.injectorspecific.ScriptVariable;
+import org.apache.sling.models.annotations.injectorspecific.Self;
+import org.apache.sling.models.annotations.injectorspecific.SlingObject;
+import org.jetbrains.annotations.NotNull;
+
+import com.adobe.cq.export.json.ComponentExporter;
+import com.adobe.cq.export.json.ExporterConstants;
+import com.day.cq.wcm.api.Page;
+
+@Model(adaptables = SlingHttpServletRequest.class, adapters = { Searchbar.class, ComponentExporter.class }, resourceType = { SearchBarImpl.RESOURCE_TYPE })
+@Exporter(name = ExporterConstants.SLING_MODEL_EXPORTER_NAME, extensions = ExporterConstants.SLING_MODEL_EXTENSION)
+public class SearchBarImpl implements Searchbar {
+
+    protected static final String RESOURCE_TYPE = "aemg-docs/components/sites-components/searchbar";
+
+    @Self
+    private SlingHttpServletRequest request;
+
+    @ScriptVariable
+    private Page currentPage;
+
+    @ScriptVariable
+    private ValueMap properties;
+
+    @SlingObject
+    private Resource resource;
+    private boolean hidebutton = false;
+    private String resultPage;
+
+    @PostConstruct
+    private void initModel() {
+        resultPage = properties.get(PN_RESULT_PAGE, String.class);
+
+        if (StringUtils.isNotEmpty(resultPage)) {
+            resultPage = Utils.getURL(request, currentPage.getPageManager(), resultPage);
+        }
+
+        if (properties.containsKey(PN_HIDE_BUTTON)) {
+            hidebutton = true;
+        }
+    }
+
+    @Override
+    public boolean getHideButton() {
+        return hidebutton;
+    }
+
+    @Override
+    public String getResultpage() {
+        return resultPage;
+    }
+
+    @NotNull
+    @Override
+    public String getExportedType() {
+        return resource.getResourceType();
+    }
+
+}

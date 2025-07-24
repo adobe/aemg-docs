@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_8b673c21-ea33-4d19-90ee-975640e8cff5">
+  <title>debit_card</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""/><indexterm>Higher Daily Purchase Limits</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body><!-- Chapter 1: Luxury Experiences and Travel Perks -->
+    <section id="luxury-experiences">
+      <title outputclass="chapter_sub-titles">Luxury Experiences and Travel Perks</title>
+      <p>Enjoy exclusive benefits designed to elevate your experience with the FSI Premier Visa Signature Debit Card.</p>
+    </section>
+    <!-- VIP Access to Prestigious Hotels -->
+    <section id="vip-hotel-access">
+      <title outputclass="chapter_sub-titles">VIP Access to Prestigious Hotels</title>
+      <p>Benefit from VIP guest status at over 900 prestigious properties worldwide, including:</p>
+      <ul>
+        <li>Mandarin Oriental</li>
+        <li>Conrad</li>
+        <li>Fairmont</li>
+        <li>Astoria</li>
+        <li>And many more luxury brands.</li>
+      </ul>
+      <p>These benefits are available through the Visa Luxury Hotel Collection program.</p>
+    </section>
+    <!-- Airport Assistance & Limousine Transfers -->
+    <section id="airport-assistance">
+      <title outputclass="chapter_sub-titles">Airport Assistance Limousine Transfers</title>
+      <p>Access exclusive discounts for:</p>
+      <ul>
+        <li>Airport assistance</li>
+        <li>Limousine transfers worldwide</li>
+      </ul>
+      <p>Enjoy seamless travel, wherever you are.</p>
+    </section>
+    <!-- Additional Hotel Perks -->
+    <section id="hotel-perks">
+      <title outputclass="chapter_sub-titles">Additional Hotel Perks</title>
+      <p>Receive added benefits during your hotel stays, including:</p>
+      <ul>
+        <li>Automatic room upgrades (subject to availability)</li>
+        <li>Extended check-out times</li>
+        <li>USD 25 food and beverage credit at select hotels</li>
+      </ul>
+    </section>
+    <!-- Chapter 2: Increased Spending Power and Security Features -->
+    <section id="spending-power-security">
+      <title outputclass="chapter_sub-titles">Increased Spending Power and Security Features</title>
+      <p>Enjoy increased spending flexibility and robust security measures with your FSI Premier Visa Signature Debit Card.</p>
+    </section>
+    <!-- Higher Daily Purchase Limits -->
+    <section id="purchase-limits">
+      <title outputclass="chapter_sub-titles">Higher Daily Purchase Limits</title>
+      <p>Benefit from higher daily limits on purchases:</p>
+      <ul>
+        <li>₹4 lakhs for ATM, POS, and online transactions</li>
+        <li>₹2 lakhs for contactless payments</li>
+      </ul>
+    </section>
+    <!-- Transaction Limits & Security -->
+    <section id="transaction-security">
+      <title outputclass="chapter_sub-titles">Transaction Limits Security</title>
+      <p>Control your spending with enhanced security features:</p>
+      <ul>
+        <li>Set transaction limits for you and your children’s cards</li>
+        <li>Control permitted transaction types for added protection</li>
+      </ul>
+    </section>
+    <!-- Comprehensive Insurance Coverage -->
+    <section id="insurance-coverage">
+      <title outputclass="chapter_sub-titles">Comprehensive Insurance Coverage</title>
+      <p>Feel secure with maximum coverage of ₹5 lakhs, protecting you from:</p>
+      <ul>
+        <li>Lost cards</li>
+        <li>Card skimming</li>
+        <li>Online fraud</li>
+      </ul>
+    </section>
+    <!-- Chapter 3: Exclusive Dining and Lifestyle Benefits -->
+    <section id="dining-lifestyle">
+      <title outputclass="chapter_sub-titles">Exclusive Dining and Lifestyle Benefits</title>
+    </section>
+    <!-- EazyDiner Prime Membership -->
+    <section id="eazydiner-membership">
+      <title outputclass="chapter_sub-titles">EazyDiner Prime Membership</title>
+      <p>Receive a complimentary 3-month EazyDiner Prime Membership with the FSI Premier Visa Signature Debit Card, offering:</p>
+      <ul>
+        <li>Up to 50% off at over 3,000 top-tier restaurants and bars across India and Dubai</li>
+        <li>Exclusive dining experiences and discounts</li>
+      </ul>
+    </section>
+    <!-- Visa Dine and Save Program -->
+    <section id="visa-dine-save">
+      <title outputclass="chapter_sub-titles">Visa Dine and Save Program</title>
+      <p>Enjoy additional dining discounts through the Visa Dine and Save program:</p>
+      <ul>
+        <li>Up to 20% off at participating restaurants worldwide</li>
+      </ul>
+    </section>
+       <div outputclass="footnote">
+      <p outputclass="footnote-text"><sup outputclass="footnote-number">1</sup> A GB (gigabyte) is equal to 1000 million bytes.</p>
+    </div>
+     <hazardstatement type="danger">
+      <messagepanel>
+        <typeofhazard>Rotating Blade</typeofhazard>
+        <consequence>Risk of severe injury from moving parts in electric vehicle systems.</consequence>
+        <howtoavoid>Ensure all power sources are disconnected before performing maintenance or servicing.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+
+    <hazardstatement type="warning">
+      <messagepanel>
+        <typeofhazard>Hot Surfaces</typeofhazard>
+        <consequence>Touching heated parts of the battery or motor may cause burns.</consequence>
+        <howtoavoid>Always wear appropriate protective gear and allow components to cool before handling.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+
+    <hazardstatement type="caution">
+      <messagepanel>
+        <typeofhazard>Lifting Hazard</typeofhazard>
+        <consequence>Lifting heavy vehicle parts incorrectly may result in injury.</consequence>
+        <howtoavoid>Follow proper lifting techniques and safety guidelines.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+
+    <hazardstatement type="notice">
+      <messagepanel>
+        <typeofhazard>Battery Low</typeofhazard>
+        <howtoavoid>Check the battery status regularly and charge the vehicle before the battery reaches critically low levels.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+  </body>
+</topic>

@@ -1,0 +1,41 @@
+   Eligible Categories
+   The below table sets out the list of eligible categories for high-tech projects together with the eligibility criteria for each category and examples of any relevant exclusions.
+       Eligible Categories
+             Technology Area
+             Hi-Tech Industry Category
+             Eligibility Criteria
+             Examples/Exclusions
+             AI and Machine Learning
+             Artificial Intelligence Solutions
+                 Development and deployment of AI algorithms and systems
+                 Advancements in machine learning models for predictive analytics, autonomous decision-making, and data processing
+                 Technologies focused on enhancing AI capabilities across industries (e.g., healthcare, finance, autonomous vehicles)
+                Examples:
+                 Natural Language Processing (NLP) applications, Autonomous Vehicles (AI-driven systems), Smart Robotics, AI-powered healthcare diagnostics, AI chatbots, AI-enhanced cybersecurity solutions
+                Exclusions, include, but are not limited to:
+                 Projects with high carbon emissions due to inefficient energy usage in data processing centers
+                 AI solutions that exacerbate data privacy issues without robust protection measures
+             Cloud Computing
+             Cloud Infrastructure and Services
+                 Development, maintenance, and expansion of cloud infrastructure services
+                 Technologies that enable scalable cloud platforms, storage solutions, and computational services
+                 Adoption of green data centers and cloud services for energy-efficient computing
+                Examples:
+                 Cloud computing platforms (AWS, Microsoft Azure, Google Cloud), Edge computing solutions, Cloud-based SaaS applications, Energy-efficient data centers
+                Exclusions, include, but are not limited to:
+                 Cloud services running on non-renewable energy sources
+                 Data centers with significant cooling inefficiencies or high carbon footprints
+             Renewable Tech
+             Green Tech Solutions for Clean Energy
+                 Development of hardware and software that promotes renewable energy generation or energy storage
+                 Smart grid technologies that optimize energy distribution using advanced algorithms
+                 Energy-efficient devices for residential and commercial use (e.g., smart thermostats, energy-saving appliances)
+                Examples:
+                 Smart grids, Solar energy management systems, Energy storage solutions like batteries and supercapacitors, IoT-based energy monitoring devices
+                Exclusions, include, but are not limited to:
+                 Non-energy-efficient products that increase the overall demand for energy consumption
+                 Technologies relying on non-renewable or pollutive energy sources
+     All Eligible Assets will, to the extent applicable, adhere to industry sustainability and ethical technology standards, including regulations for data security, responsible AI, and green computing practices. We also ensure that technologies align with international agreements and standards on carbon neutrality and resource efficiency.
+     The memory storage capacity of the computer is 2 GB 1 with error correcting support.
+      1 A GB (gigabyte) is equal to 1000 million bytes.
+     These policies can be found on the relevant high-tech company's website for further reference.

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e1511c0b-fdee-4e30-ab9b-15a1b9764157">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.087+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[cruise-control.dita,drive-modes.dita,battery.dita,airbags.dita,inter-governmental-agreement--iga-.dita,foreign-financial-institution--ffi-.dita,tax-identification-number--tin-.dita]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_0d6e54ae-042d-42b5-bbfe-6aaa39a4a4ab"
+        fmditaKeydefrefs="[\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/cruise-control.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/drive-modes.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/battery.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/airbags.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/inter-governmental-agreement--iga-.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/foreign-financial-institution--ffi-.dita,\,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/tax-identification-number--tin-.dita]"
+        fmditaKeySpace="\{&quot;cruise-control&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/cruise-control.dita&quot;,&quot;iga&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/inter-governmental-agreement--iga-.dita&quot;,&quot;drive-modes&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/drive-modes.dita&quot;,&quot;airbags&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/airbags.dita&quot;,&quot;ffi&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/foreign-financial-institution--ffi-.dita&quot;,&quot;tin&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/tax-identification-number--tin-.dita&quot;,&quot;battery&quot;:&quot;/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/battery.dita&quot;}"
+        fmditaMaprefs="[]"
+        fmditaTitle="glossary"
+        fmditaTopicrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.760+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for map"
+        templateTitle="Map">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:41.048+05:30"
+            dam:sha1="355368da0d1341edb9adf61a0146798571d7bd25"
+            dam:size="{Long}725"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:06.054+05:30"
+            dc:title="glossary"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.087+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- map/map "
+            docstate="Draft">
+            <namedoutputs jcr:primaryType="nt:unstructured">
+                <aemsite
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-17T12:40:02.767+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="AEM Site"
+                    fmdita-outputType="AEMSITE"
+                    lastModified="2025-07-17T12:40:02.767+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <pdf
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-17T12:40:02.767+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="PDF"
+                    fmdita-outputType="PDF"
+                    lastModified="2025-07-17T12:40:02.767+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <html5
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-17T12:40:02.767+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="HTML5"
+                    fmdita-outputType="HTML5"
+                    lastModified="2025-07-17T12:40:02.767+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <epub
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-17T12:40:02.767+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="EPUB"
+                    fmdita-outputType="EPUB"
+                    lastModified="2025-07-17T12:40:02.767+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <custom
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-17T12:40:02.768+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="CUSTOM"
+                    fmdita-outputType="CUSTOM"
+                    lastModified="2025-07-17T12:40:02.768+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+            </namedoutputs>
+        </metadata>
+    </jcr:content>
+</jcr:root>

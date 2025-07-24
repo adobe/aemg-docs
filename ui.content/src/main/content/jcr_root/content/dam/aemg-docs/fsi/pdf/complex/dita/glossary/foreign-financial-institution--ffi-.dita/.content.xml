@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="dfec5cf2-442b-4b5e-9377-bb41d5b1a8a6">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.260+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_963aa71b-5ec3-4b28-89f8-55b22fabc33b"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Foreign Financial Institution (FFI)"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.752+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/foreign-financial-institution--ffi-.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:33.786+05:30"
+            dam:sha1="9fb833eaa40b64794127f22b2f10b39f307400c3"
+            dam:size="{Long}556"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:06.401+05:30"
+            dc:title="Foreign Financial Institution (FFI)"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.260+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

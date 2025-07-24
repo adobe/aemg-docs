@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:Folder">
+    <jcr:content
+        dam:noThumbnail="{Boolean}true"
+        jcr:created="{Date}2024-12-02T10:50:41.854+05:30"
+        jcr:createdBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="pdf"
+        sourcing="false">
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

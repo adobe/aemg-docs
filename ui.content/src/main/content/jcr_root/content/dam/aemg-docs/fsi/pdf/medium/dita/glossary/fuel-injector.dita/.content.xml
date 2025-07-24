@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="3d4a6ad2-8ae5-4deb-ac1c-7f39c34cb4d6">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:39.413+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_32634284-351f-4ced-ba9f-87ea31a5b5cb"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Fuel Injector"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:59.110+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/glossary/fuel-injector.dita"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.440+05:30"
+            dam:sha1="0c696ccbe9374d0adadfc869126135c777c4a47f"
+            dam:size="{Long}309"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:13.911+05:30"
+            dc:title="Fuel Injector"
+            jcr:lastModified="{Date}2025-07-17T12:40:39.413+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

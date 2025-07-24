@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f484c6a1-3c84-4ad6-a3ff-dfa8a4862e5f">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-05T11:33:48.249Z"
+        cq:lastReplicated_publish="{Date}2025-03-05T11:33:48.249Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.182+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        pdfType="Map"
+        sourcePath="/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/azentiobanking-map.ditamap">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:37.004+05:30"
+            dam:numPages="{Long}21"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="c5a59771917ed56a060fd83af5015180818f663c"
+            dam:size="{Long}110716"
+            dc:format="application/pdf"
+            dc:modified="{Date}2025-07-17T12:40:14.208+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-17T12:40:42.132+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            xmp:CreateDate="{Date}2024-11-29T13:33:46.000+05:30"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-07-17T12:40:14.000+05:30"
+            xmp:ModifyDate="{Date}2025-07-17T12:40:14.000+05:30"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

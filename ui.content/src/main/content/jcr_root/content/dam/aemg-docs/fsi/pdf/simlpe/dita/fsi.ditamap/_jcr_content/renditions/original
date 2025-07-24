@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6">
+  <title>FSI</title>
+  <bookmeta>
+    <critdates>
+      <created date="2024"/>
+    </critdates>
+    <prodinfo>
+      <prodname>Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="1.0"/>
+      </vrmlist>
+      <brand>HSBC</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2013</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <chapter href="GUID-4d77a60c-6d05-40ca-9d21-17540db08462.dita" type="topic">
+    <topicref href="GUID-1e4073d3-eed0-49cf-9d02-82e8a561e45d.dita" type="topic">
+      <topicref href="GUID-4d77a60c-6d05-40ca-9d21-17540db08462.dita" type="topic">
+      </topicref>
+    </topicref>
+  </chapter>
+  <chapter href="GUID-1e4073d3-eed0-49cf-9d02-82e8a561e45d.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-2418bd62-f0ae-462b-b1ca-e2ce46684be2.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-8c7c1fe5-498d-4d74-9176-061583a96911.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-55007b7e-67eb-480a-b525-8172b3ba0a40.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-b53542ac-831d-4a18-bac5-1066bfbfdb1d.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0.dita" type="task">
+  </chapter>
+</bookmap>

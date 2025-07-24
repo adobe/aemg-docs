@@ -1,0 +1,23 @@
+   Eligible Assets Evaluation and Selection Process
+      The Eligible Assets evaluation and selection process seeks to ensure that an amount equivalent to the net proceeds of any Green Financing Transaction is allocated to assets qualifying as Eligible Assets. 
+     Bar Chart
+             Year
+              Assets Evaluation 
+              Selection Process 
+             2020
+             12
+             15
+             2021
+             19
+             9
+             2022
+             3
+             5
+             2024
+             5
+             8
+      As part of fsi financing approval process, the initial screening by the Sustainable Finance Forum (step 1 in the diagram above) will assess the asset(s) and endorse/approve the categorisation/labelling of the transactions in accordance with the FSI Group’s internal framework for classifying financing and investments as sustainable15 and the relevant principles issued by the Loan Market Associations (LMA, APLMA, LSTA16 ). FSI has developed an internal single, bank-wide sustainability taxonomy, to assist in the determination of whether a technology or activity is eligible to be classified as green or sustainable. The Sustainable Taxonomy is based on international standards and best practice, for example the Climate Bonds Taxonomy. The categorisation of activities as green or sustainable is conditional on certain criteria being met, and it also allows for regional variations.
+          The Battery Pack 
+          Power Electronics and Controllers 
+          Environmental and Economic Benefits 
+          Barriers to Widespread Adoption 

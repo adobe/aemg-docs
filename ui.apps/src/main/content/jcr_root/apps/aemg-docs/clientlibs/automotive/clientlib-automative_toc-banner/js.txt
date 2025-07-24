@@ -1,0 +1,3 @@
+#base=js
+
+automative_toc-banner.js

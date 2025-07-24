@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ddb684c6-f52a-4d2e-84a2-1ab627e4c279">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:41.760+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_5ceb7604-d17d-451c-baab-8c65ec9364fe"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Head-Up Display (HUD)"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:59.405+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/glossary/head-up-display--hud-.dita"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:35.326+05:30"
+            dam:sha1="5788202030489bb70690e14369948863b4b93a46"
+            dam:size="{Long}364"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:14.107+05:30"
+            dc:title="Head-Up Display (HUD)"
+            jcr:lastModified="{Date}2025-07-17T12:40:41.760+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

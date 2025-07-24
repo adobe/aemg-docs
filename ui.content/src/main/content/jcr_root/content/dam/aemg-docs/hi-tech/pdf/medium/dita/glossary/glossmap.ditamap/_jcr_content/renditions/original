@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
+<map id="_e3080d45-4ec0-4864-9f14-571cb2a8eb8e">
+  <title>glossmap</title>
+  <glossref href="head-up-display--hud-.dita" keys="hud" type="topic">
+  </glossref>
+  <glossref href="fuel-injector.dita" keys="fi">
+  </glossref>
+  <glossref href="electronic-stability-control--esc-.dita" keys="esc">
+  </glossref>
+  <glossref href="battery.dita" keys="bat">
+  </glossref>
+</map>

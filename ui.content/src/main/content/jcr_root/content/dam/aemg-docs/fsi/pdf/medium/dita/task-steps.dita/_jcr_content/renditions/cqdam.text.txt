@@ -1,0 +1,10 @@
+   Task Steps
+     Once you have set up your vehicle maintenance system, you need to perform a series of tasks to ensure the vehicle is in top condition.
+         Inspect
+         Inspect the vehicle's engine, tires, and fluid levels to ensure everything is functioning properly before starting the maintenance process.
+         Replace
+         Replace old engine oil and filters, as well as worn-out brake pads, ensuring your vehicle's performance remains optimal.
+         Test
+         Test the battery, lights, and electronic systems to confirm all components are in good working order, reducing the risk of failures.
+         Clean
+         Clean the vehicle, both inside and out, to maintain its appearance and prevent wear and tear caused by dirt and grime accumulation.

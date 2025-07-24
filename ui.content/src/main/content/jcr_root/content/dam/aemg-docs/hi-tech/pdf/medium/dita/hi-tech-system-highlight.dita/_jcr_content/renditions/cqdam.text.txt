@@ -1,0 +1,57 @@
+   Hi-Tech System Highlight
+           A secondary, explanatory line
+/* html code give below */
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+</head>
+<body>
+   <h1>My First Heading</h1>
+   <p>My first paragraph.</p>
+</body>
+</html>
+/* Css code give below */
+body {
+ background-color: lightblue;
+}
+h1 {
+ color: white;
+ text-align: center;
+}
+p {
+ font-family: verdana;
+}
+/* Js code give below */
+let arr = ["scale", "happy", "strength", "peace", "happy", "happy"];
+// Function to remove duplicates from an array
+function removeDuplicates(arr) {
+return arr.filter((item, index) => arr.indexOf(item) === index);
+}
+// Display the original array
+document.getElementById("originalArray").innerText = arr;
+// Remove duplicates and display the modified array
+let uniqueArr = removeDuplicates(arr);
+document.getElementById("uniqueArray").innerText = uniqueArr;
+// Also log the result to the console
+console.log(uniqueArr);
+       The all-new AI-Driven Quantum Processor
+       The Quantum Processor represents a groundbreaking leap in computational power, merging quantum mechanics with AI-driven performance to solve problems once thought unsolvable.
+       A secondary, explanatory line
+       Make sure that the screen displays  File successfully created before proceeding to the next stage of the task.
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
+       The power produced by the electrohydraulic dam was 10 10 more than the older electric plant. The difference was H 2O.
+       Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
+     Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+and summer's lease hath all too short a date...
+       Crafted with Precision in Smart Manufacturing
+       The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics.
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
+       Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.
+       MEMO: Automotive Team Fun Day Remember to bring your favorite car care tool, racing gloves, or other automotive gear to tomorrow's fun day outing at Speedway Park. Volunteers needed for the pit stop challenge.
+       Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. 
+       Example: Using the P Element
+       This is an example of how to use the P element in HTML to create paragraphs.

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="GUID-9495ed6b-25ac-43f7-8dca-f93f5fbb5f8f" outputclass="hi-tech_topic-template">
+  <title>Preferred Tools for USB Characterization at HiTech</title>
+  <body>
+    <section outputclass="col-container-1">
+      <div outputclass="col-1">
+        <p>Preferred Tools for USB Characterization at <text>HiTech</text> </p>
+      </div>
+      <div outputclass="col-2">
+        <p outputclass="desc_circle">A</p>
+        <p outputclass="col-subtitle">HiTech typically utilizes Tektronix oscilloscopes for USB characterization</p>
+        <ol>
+          <li>Due to their high precision, reliable performance, and compatibility with USB compliance testing requirements.</li>
+          <li>These oscilloscopes are well-suited for capturing and analyzing high-speed signals to ensure adherence to USB standards.</li>
+        </ol>
+      </div>
+      <div outputclass="col-3">
+        <p outputclass="desc_circle">B</p>
+        <p outputclass="col-subtitle">HiTech typically utilizes Tektronix oscilloscopes for USB characterization</p>
+        <ol>
+          <li>Due to their high precision, reliable performance, and compatibility with USB compliance testing requirements.</li>
+          <li>These oscilloscopes are well-suited for capturing and analyzing high-speed signals to ensure adherence to USB standards.</li>
+        </ol>
+      </div>
+    </section>
+    <section outputclass="section2_text-image-wrapper">
+      <div outputclass="section2_text-wrapper">
+        <p outputclass="para-text">When opting for oscilloscopes from other manufacturers, it is essential to verify that they support the bandwidth, sampling rate, and protocol decoding capabilities required for accurate USB signal analysis.</p>
+        <p outputclass="info"> Following USB-IF guidelines ensures effective USB characterization and device compliance with performance standards. </p>
+        <p outputclass="note-text"/>
+      </div>
+      <div outputclass="fig_image-wrapper">
+        <fig id="fig_2">
+          <title>Figure 1: Full Speed Device with pull up resistor connected to D+</title>
+          <image href="GUID-931320d8-b562-44b0-9789-94ef66376945.png" id="image_2">
+          <alt>circuit-device</alt>
+          </image>
+        </fig>
+      </div>
+    </section>
+    <note>Although it is possible to try to increase termination as a last resort, HiTech does not recommend adjusting termination values.</note>
+  </body>
+</topic>

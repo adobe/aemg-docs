@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_cf63226a-4b0b-4a6a-822a-8955a75c9b6e">
+  <title>Additional Information</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""/><indexterm>FATCA Information Requests</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <section id="w-form-customer-guidance">
+      <title outputclass="chapter_sub-titles">W Form and Customer Guidance</title>
+      <p>Please click for the IRS W forms, including instructions on how to complete them.</p>
+      <p>In order to provide customers with further support when completing IRS W Forms, we have provided some additional customer guidance for:</p>
+      <p> <b>W-9</b>, <b>W-8BEN</b>, and <b>W-8BEN-E</b>. </p>
+    </section>
+    <!-- Section for Withholding Statements -->
+    <section id="withholding-statements">
+      <title outputclass="chapter_sub-titles">Withholding Statements</title>
+      <p>A range of Withholding Statements have been produced, which can be used when providing a Form W-8IMY.</p>
+    </section>
+    <!-- Section for Global Intermediary Identification Numbers -->
+    <section id="giin">
+      <title outputclass="chapter_sub-titles">Global Intermediary Identification Numbers</title>
+      <p>FSI has published its Global Intermediary Identification Numbers (FSI GIINs).</p>
+    </section>
+    <!-- Section for FATCA Information by Country -->
+    <section id="fatca-country-info">
+      <title outputclass="chapter_sub-titles">Find out more about FATCA in your country or territory</title>
+      <p>To find out more about FATCA in your country or territory (including relevant tax forms and guidance) and how it affects you, please select the appropriate business line (and country or territory, if relevant) from the navigation headings above.</p>
+      <p>Country or territory pages will continue to be updated with the most recent information as it becomes available.</p>
+    </section>
+    <div>
+      <fig expanse="column">
+        <title>The Handshake</title>
+        <image href="GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png" placement="break">
+        <alt>The Handshake</alt>
+        </image>
+      </fig>
+    </div>
+    <!-- Section for FATCA Information Requests -->
+    <section id="fatca-info-requests">
+      <title outputclass="chapter_sub-titles">FATCA Information Requests</title>
+      <p>We may be contacting you to request further information or documentation in order to verify your tax status under FATCA. Please note that you may receive more than one request for information if you have multiple relationships with different members of the FSI Group.</p>
+      <p>It is important that you respond to all requests for tax information even if you believe you have already supplied the requested information.</p>
+    </section>
+    <!-- Section for Professional Tax Advisor -->
+    <section id="tax-advisor">
+      <title outputclass="chapter_sub-titles">Tax Advisor Contact</title>
+      <p>If you have any further queries regarding FATCA or local legislation and your tax position, please contact a professional tax advisor, as FSI is unable to provide tax advice.</p>
+    </section>
+   <p/>
+    <p><abbreviated-form keyref="drive-modes"/></p>
+    <p><abbreviated-form keyref="battery"/></p>
+    <p><abbreviated-form keyref="cruise-control"/></p>
+    <p><abbreviated-form keyref="airbags"/></p>
+  </body>
+</topic>

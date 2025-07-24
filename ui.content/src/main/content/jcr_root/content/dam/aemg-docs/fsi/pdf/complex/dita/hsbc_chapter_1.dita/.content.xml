@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7d720f0e-e3bf-485e-bc06-906019d22ea8">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}22"
+        dam:processingId="56c7b1eb-0a7b-44c0-815b-a02c38a973b9"
+        dam:processingRenditions="[cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.colors.json,cq5dam.preview.pdf,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.48.48.png,cq5dam.preview.mp4]"
+        dam:processingRequestedDate="{Date}2025-03-27T13:13:40.402Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:38.966+05:30"
+        jcr:lastModifiedBy="kajal.tambe@deptagency.com"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-7b64a8ca-687a-457a-92aa-116000c96638.png,GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_a0769d50-58af-4f3c-9962-cf1a18044896"
+        fmditaImages="[\,GUID-7b64a8ca-687a-457a-92aa-116000c96638.png,\,GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmditaObjects="[]"
+        fmditaTitle="Purpose of the guide"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:58.210+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_chapter_1.dita"
+        fmUuid="GUID-80385748-a7d9-4995-a6eb-da4e41bc50cb"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:38.932+05:30"
+            dam:sha1="fe248a80ad87dab429ab872dce9ba5d12acc7e00"
+            dam:size="{Long}4863"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:07.261+05:30"
+            dc:title="hsbc_chapter_1"
+            jcr:lastModified="{Date}2025-07-17T12:40:38.429+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
+<map id="_0d6e54ae-042d-42b5-bbfe-6aaa39a4a4ab">
+  <title>glossary</title>
+  <glossref href="cruise-control.dita" keys="cruise-control">
+  </glossref>
+  <glossref href="drive-modes.dita" keys="drive-modes">
+  </glossref>
+  <glossref href="battery.dita" keys="battery">
+  </glossref>
+  <glossref href="airbags.dita" keys="airbags">
+  </glossref>
+  <glossref href="inter-governmental-agreement--iga-.dita" keys="iga">
+  </glossref>
+  <glossref href="foreign-financial-institution--ffi-.dita" keys="ffi">
+  </glossref>
+  <glossref href="tax-identification-number--tin-.dita" keys="tin">
+  </glossref>
+</map>

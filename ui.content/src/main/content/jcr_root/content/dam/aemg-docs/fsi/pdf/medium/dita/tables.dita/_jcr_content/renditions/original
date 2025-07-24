@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_728d536e-5563-4566-a7d0-494f7720a913"><title>Tables</title>
+<shortdesc>An advanced comparison of financial products, including performance metrics, costs, and sustainability impact.</shortdesc>
+<body>
+    <table>
+      <title>Table: Advanced Financial Product Comparison</title>
+      <tgroup cols="6">
+        <colspec colname="col"/>
+        <colspec colname="col_1"/>
+        <colspec colname="col_2"/>
+        <colspec colname="col_3"/>
+        <colspec colname="col_4"/>
+        <colspec colname="col_5"/><!-- Header row with multiple header columns -->
+        <thead>
+          <row>
+            <entry>Product Type</entry>
+            <entry>Interest Rate (%)</entry>
+            <entry>Term Length (years)</entry>
+            <entry>Risk Level</entry>
+            <entry>Sustainability Score</entry>
+            <entry>Fees ($)</entry>
+          </row>
+        </thead>
+        <!-- Table body with detailed data -->
+        <tbody>
+          <row>
+            <entry>Savings Account</entry>
+            <entry>1.5</entry>
+            <entry>–</entry>
+            <entry>Low</entry>
+            <entry>High</entry>
+            <entry>5</entry>
+          </row>
+          <row>
+            <entry>Fixed Deposit</entry>
+            <entry>3.0</entry>
+            <entry>5</entry>
+            <entry>Low</entry>
+            <entry>Medium</entry>
+            <entry>10</entry>
+          </row>
+          <row>
+            <entry>Equity Mutual Fund</entry>
+            <entry>7.5</entry>
+            <entry>10</entry>
+            <entry>High</entry>
+            <entry>Low</entry>
+            <entry>15</entry>
+          </row>
+          <!-- Grouping related financial products -->
+          <row>
+            <entry>Low-Risk Products (Savings + Fixed Deposit)</entry>
+            <entry>2.25</entry>
+            <entry>2.5</entry>
+            <entry>Low</entry>
+            <entry>High</entry>
+            <entry>7.5</entry>
+          </row>
+          <!-- Footer row with a summary of the entire financial product comparison -->
+          <row>
+            <entry><b>Total</b></entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>

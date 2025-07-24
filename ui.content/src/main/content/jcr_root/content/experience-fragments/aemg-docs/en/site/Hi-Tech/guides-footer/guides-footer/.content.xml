@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2025-03-04T07:27:07.853Z"
+        cq:lastModifiedBy="prashant.singh@deptagency.com"
+        cq:lastReplicated="{Date}2025-03-04T07:37:55.715Z"
+        cq:lastReplicated_publish="{Date}2025-03-04T07:37:55.715Z"
+        cq:lastReplicatedBy="prashant.singh@deptagency.com"
+        cq:lastReplicatedBy_publish="prashant.singh@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:tags="[]"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/xf-web-variation"
+        cq:xfVariantType="web"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Guides Footer"
+        jcr:uuid="5d1ba62f-cced-417d-8897-cca6cf602cba"
+        sling:resourceType="aemg-docs/components/xfpage">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <guides_footer
+                jcr:created="{Date}2025-02-20T16:02:50.940+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-03-04T07:27:07.783Z"
+                jcr:lastModifiedBy="prashant.singh@deptagency.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/guides-footer"
+                fileReference="/content/dam/aemg-docs/sites-assets/hi-tech/HiTech-footer.png"/>
+        </root>
+    </jcr:content>
+</jcr:root>

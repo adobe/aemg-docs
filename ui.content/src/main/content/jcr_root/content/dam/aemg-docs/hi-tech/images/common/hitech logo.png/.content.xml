@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7c4a1f95-a4e1-4d36-a681-fb4708fa436e">
+    <jcr:content
+        dam:assetState="processed"
+        dam:jobId="16497230-3b14-47f2-b4cd-1f9c1cc5cd37"
+        dam:processingAttempts="{Long}1"
+        dam:processingId="027803fd-afed-4301-9cf3-170c09ebdfdf"
+        dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cq5dam.preview.mp4,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cqdam.metadata.xml,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2025-02-25T09:32:00.100Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:53.444+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        fmUuid="GUID-20e81d98-617a-45c8-957c-5fa89f800597">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            cq:tags="[properties:orientation/landscape]"
+            cq:tags_xmpArrayType="rdf:Bag"
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?> &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c148 79.164050, 2019/10/01-18:03:16        &quot;>  &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;>   &lt;rdf:Description rdf:about=&quot;&quot;     xmlns:dam=&quot;http://www.day.com/dam/1.0&quot;     xmlns:tiff=&quot;http://ns.adobe.com/tiff/1.0/&quot;     xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;     xmlns:photoshop=&quot;http://ns.adobe.com/photoshop/1.0/&quot;     xmlns:cq=&quot;http://www.day.com/jcr/cq/1.0&quot;    dam:Physicalheightininches=&quot;0.5416945219039917&quot;    dam:Physicalwidthininches=&quot;1.958433985710144&quot;    dam:Fileformat=&quot;PNG&quot;    dam:Progressive=&quot;no&quot;    dam:extracted=&quot;2025-07-09T17:29:34.781+05:30&quot;    dam:Bitsperpixel=&quot;32&quot;    dam:MIMEtype=&quot;image/png&quot;    dam:Comments=&quot;XML:com.adobe.xmp: &amp;lt;?xpacket begin=&amp;quot;﻿&amp;quot; id=&amp;quot;W5M0MpCehiHzreSzNTczkc9d&amp;quot;?&amp;gt;&amp;#xA;&amp;lt;x:xmpmeta xmlns:x=&amp;quot;adobe:ns:meta/&amp;quot; x:xmptk=&amp;quot;Adobe XMP Core 5.6-c148 79.164050, 2019/10/01-18:03:16        &amp;quot;&amp;gt;&amp;#xA; &amp;lt;rdf:RDF xmlns:rdf=&amp;quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&amp;quot;&amp;gt;&amp;#xA;  &amp;lt;rdf:Description rdf:about=&amp;quot;&amp;quot;&amp;#xA;    xmlns:dam=&amp;quot;http://www.day.com/dam/1.0&amp;quot;&amp;#xA;    xmlns:tiff=&amp;quot;http://ns.adobe.com/tiff/1.0/&amp;quot;&amp;#xA;    xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot;&amp;#xA;    xmlns:photoshop=&amp;quot;http://ns.adobe.com/photoshop/1.0/&amp;quot;&amp;#xA;    xmlns:cq=&amp;quot;http://www.day.com/jcr/cq/1.0&amp;quot;&amp;#xA;   dam:Physicalheightininches=&amp;quot;0.5416945219039917&amp;quot;&amp;#xA;   dam:Physicalwidthininches=&amp;quot;1.958433985710144&amp;quot;&amp;#xA;   dam:Fileformat=&amp;quot;PNG&amp;quot;&amp;#xA;   dam:Progressive=&amp;quot;no&amp;quot;&amp;#xA;   dam:extracted=&amp;quot;2025-03-04T13:37:35.166+05:30&amp;quot;&amp;#xA;   dam:Bitsperpixel=&amp;quot;32&amp;quot;&amp;#xA;   dam:MIMEtype=&amp;quot;image/png&amp;quot;&amp;#xA;   dam:Physicalwidthindpi=&amp;quot;144&amp;quot;&amp;#xA;   dam:Physicalheightindpi=&amp;quot;144&amp;quot;&amp;#xA;   dam:Numberofimages=&amp;quot;1&amp;quot;&amp;#xA;   dam:Numberoftextualcomments=&amp;quot;0&amp;quot;&amp;#xA;   dam:sha1=&amp;quot;f237fbecd8944f4de84fda0df1e90d5022349a3f&amp;quot;&amp;#xA;   dam:size=&amp;quot;4794&amp;quot;&amp;#xA;   tiff:ImageLength=&amp;quot;78&amp;quot;&amp;#xA;   tiff:ImageWidth=&amp;quot;282&amp;quot;&amp;#xA;   dc:format=&amp;quot;image/png&amp;quot;&amp;#xA;   dc:modified=&amp;quot;2025-07-09T17:29:31.592+05:30&amp;quot;&amp;#xA;   photoshop:ColorMode=&amp;quot;3&amp;quot;&amp;gt;&amp;#xA;   &amp;lt;dam:predictedColors&amp;gt;&amp;#xA;    &amp;lt;rdf:Bag&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;13100&amp;lt;/rdf:li&amp;gt;&amp;#xA;    &amp;lt;/rdf:Bag&amp;gt;&amp;#xA;   &amp;lt;/dam:predictedColors&amp;gt;&amp;#xA;   &amp;lt;dam:colorDistribution rdf:parseType=&amp;quot;Resource&amp;quot;/&amp;gt;&amp;#xA;   &amp;lt;tiff:BitsPerSample&amp;gt;&amp;#xA;    &amp;lt;rdf:Seq&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;8&amp;lt;/rdf:li&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;8&amp;lt;/rdf:li&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;8&amp;lt;/rdf:li&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;8&amp;lt;/rdf:li&amp;gt;&amp;#xA;    &amp;lt;/rdf:Seq&amp;gt;&amp;#xA;   &amp;lt;/tiff:BitsPerSample&amp;gt;&amp;#xA;   &amp;lt;cq:tags&amp;gt;&amp;#xA;    &amp;lt;rdf:Bag&amp;gt;&amp;#xA;     &amp;lt;rdf:li&amp;gt;properties:orientation/landscape&amp;lt;/rdf:li&amp;gt;&amp;#xA;    &amp;lt;/rdf:Bag&amp;gt;&amp;#xA;   &amp;lt;/cq:tags&amp;gt;&amp;#xA;  &amp;lt;/rdf:Description&amp;gt;&amp;#xA; &amp;lt;/rdf:RDF&amp;gt;&amp;#xA;&amp;lt;/x:xmpmeta&amp;gt;&amp;#xA;&amp;lt;?xpacket end=&amp;quot;r&amp;quot;?&amp;gt;&amp;#xA;&quot;    dam:Physicalwidthindpi=&quot;144&quot;    dam:Physicalheightindpi=&quot;144&quot;    dam:Numberofimages=&quot;1&quot;    dam:Numberoftextualcomments=&quot;1&quot;    dam:sha1=&quot;23a4b7dd71d6aeec04f8bb907dbf9224a4ef2ef4&quot;    dam:size=&quot;7249&quot;    tiff:ImageLength=&quot;78&quot;    tiff:ImageWidth=&quot;282&quot;    dc:format=&quot;image/png&quot;    dc:modified=&quot;2025-07-09T17:29:31.592+05:30&quot;    photoshop:ColorMode=&quot;3&quot;>    &lt;dam:predictedColors>     &lt;rdf:Bag>      &lt;rdf:li>13100&lt;/rdf:li>     &lt;/rdf:Bag>    &lt;/dam:predictedColors>    &lt;dam:colorDistribution rdf:parseType=&quot;Resource&quot;/>    &lt;tiff:BitsPerSample>     &lt;rdf:Seq>      &lt;rdf:li>8&lt;/rdf:li>      &lt;rdf:li>8&lt;/rdf:li>      &lt;rdf:li>8&lt;/rdf:li>      &lt;rdf:li>8&lt;/rdf:li>     &lt;/rdf:Seq>    &lt;/tiff:BitsPerSample>    &lt;dc:title>     &lt;rdf:Alt>      &lt;rdf:li xml:lang=&quot;x-default&quot;/>     &lt;/rdf:Alt>    &lt;/dc:title>    &lt;cq:tags>     &lt;rdf:Bag>      &lt;rdf:li>properties:orientation/landscape&lt;/rdf:li>     &lt;/rdf:Bag>    &lt;/cq:tags>   &lt;/rdf:Description>  &lt;/rdf:RDF> &lt;/x:xmpmeta> &lt;?xpacket end=&quot;r&quot;?> "
+            dam:extracted="{Date}2025-07-09T18:13:53.364+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}144"
+            dam:Physicalheightininches="{Decimal}0.5416945219039917"
+            dam:Physicalwidthindpi="{Long}144"
+            dam:Physicalwidthininches="{Decimal}1.958433985710144"
+            dam:predictedColors="{Long}[13100]"
+            dam:predictedColors_xmpArrayType="rdf:Bag"
+            dam:Progressive="no"
+            dam:sha1="8ed6f2501af39c2664067abf28ac475aa3a78100"
+            dam:size="{Long}10491"
+            dc:format="image/png"
+            dc:modified="{Date}2025-07-09T17:29:31.592+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-09T18:13:52.243+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}78"
+            tiff:ImageWidth="{Long}282"
+            docstate="Draft">
+            <imageFeatures
+                jcr:lastModified="{Date}2025-02-25T09:32:19.053Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2025-02-25T09:32:19.061Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}1.0"
+                    name="WHITE"
+                    rank="{Long}1"
+                    rgb="{Long}[252,252,252]"/>
+            </dam:colorDistribution>
+            <predictedTags jcr:primaryType="nt:unstructured"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

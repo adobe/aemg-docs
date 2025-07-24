@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="_dcdb3da5-1bd0-4464-9bcb-4cbd6eab0816" xml:lang="en_CA">
+  <title>EV-Book Map</title>
+  <bookmeta>
+    <critdates>
+      <created date="2024"></created>
+    </critdates>
+    <prodinfo>
+      <prodname>Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="1.0"></vrm>
+      </vrmlist>
+      <brand>HSBC</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2013</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc></toc>
+    </booklists>
+  </frontmatter>
+  <chapter href="eligible-categories.dita" type="topic">
+  </chapter>
+  <chapter href="electric-vehicles.dita" type="topic">
+  </chapter>
+  <chapter href="eligible-assets.dita" type="topic">
+  </chapter>
+  <chapter href="sustainable-finance.dita" type="topic">
+  </chapter>
+  <chapter href="tables.dita" type="topic">
+  </chapter>
+  <chapter href="vehicle-highlight.dita" type="topic">
+  </chapter>
+</bookmap>

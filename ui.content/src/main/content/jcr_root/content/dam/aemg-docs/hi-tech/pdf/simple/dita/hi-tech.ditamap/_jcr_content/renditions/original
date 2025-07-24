@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="_5509d89f-3a9f-48d7-b2a6-53cca324f697">
+  <title>hitech-simple</title>
+  <bookmeta>
+    <linktext/>
+    <critdates>
+      <created date="10-12-2024"/>
+    </critdates>
+    <prodinfo>
+      <prodname>HyperTech RTX 1000 Modules Tuning and Compliance Guide</prodname>
+      <vrmlist>
+        <vrm version="2024.38"/>
+      </vrmlist>
+      <brand/>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2013</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <chapter href="GUID-9495ed6b-25ac-43f7-8dca-f93f5fbb5f8f.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-c197c839-ae8e-4167-97be-a741a890bfea.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-c197c839-ae8e-4167-97be-a741a890bfea.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-86c4589d-966e-4490-840f-96aa7909c66e.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-901e89f5-5f4f-4710-bc66-b4e9261d8c28.dita" type="task">
+  </chapter>
+</bookmap>
