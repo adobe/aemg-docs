@@ -1,3 +1,0 @@
-#base=js
-
-automoitve_toc.js

@@ -1,3 +1,0 @@
-#base=css
-
-automotive_global.css

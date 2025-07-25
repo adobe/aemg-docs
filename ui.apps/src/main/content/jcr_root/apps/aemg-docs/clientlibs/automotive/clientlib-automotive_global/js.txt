@@ -1,3 +1,0 @@
-#base=js
-
-automotive_global.js

@@ -1,3 +1,0 @@
-#base=js
-
-fsi-landing-banner.js

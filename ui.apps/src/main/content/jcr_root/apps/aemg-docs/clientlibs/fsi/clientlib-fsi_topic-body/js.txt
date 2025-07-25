@@ -1,3 +1,0 @@
-#base=js
-
-fsi_topic-body.js

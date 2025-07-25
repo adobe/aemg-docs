@@ -1,3 +1,0 @@
-#base=js
-
-global-search.js

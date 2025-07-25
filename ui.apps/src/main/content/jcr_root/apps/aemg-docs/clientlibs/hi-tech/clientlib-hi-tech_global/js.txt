@@ -1,3 +1,0 @@
-#base=js
-
-hi-tech_global.js

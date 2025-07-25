@@ -1,3 +1,0 @@
-#base=css
-
-content-feedback.css

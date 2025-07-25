@@ -1,3 +1,0 @@
-#base=css
-
-automotive_landing.css

@@ -1,3 +1,0 @@
-#base=js
-
-hi-tech_topic-body.js
