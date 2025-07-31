@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b5306772-1ea0-47e6-ad33-5a00640401d2">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicated_publish="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}54"
+        dam:processingId="72fcdd0a-29aa-4b96-8ab3-ed789ad51e0b"
+        dam:processingRenditions="[cq5dam.preview.mp4,cqdam.metadata.xml,cq5dam.preview.pdf,cqdam.machine.metadata.features.json,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.colors.json]"
+        dam:processingRequestedDate="{Date}2025-03-17T13:34:44.299Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.578+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_ae149e3b-57eb-49af-9c48-1681d5b61dd9,example"
+        fmditaImages="[\,GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmditaObjects="[]"
+        fmditaTitle="sample_dita"
+        fmditaXrefs="[\,https://www.oxygenxml.com/dita/1.3/specs/langRef/base/dl.html]"
+        fmPostProcessedAt="2025-07-17T12:39:58.577+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/sample_dita.dita"
+        fmUuid="GUID-6ff2142a-76aa-49c2-8473-4970576baf62"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.918+05:30"
+            dam:sha1="7c6d597acdf57699a03793c78df0c80871af32f9"
+            dam:size="{Long}8120"
+            dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:08.813+05:30"
+            dc:title="sample_dita"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.578+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

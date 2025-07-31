@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:created="{Date}2025-01-29T12:52:35.565+05:30"
+        jcr:createdBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="images"
+        sourcing="false">
+        <folderThumbnail/>
+    </jcr:content>
+    <common/>
+    <landscape/>
+    <portrait/>
+    <moon.png/>
+    <moon-light.png/>
+</jcr:root>

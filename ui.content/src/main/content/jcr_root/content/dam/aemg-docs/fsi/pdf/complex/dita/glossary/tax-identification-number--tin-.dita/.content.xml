@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b1d3dfa5-c662-4f50-bfd2-9c5fb8b57b0c">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:38.161+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_71ff56c8-7f57-492b-ba6c-68e385006fbd"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Tax Identification Number (TIN)"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.787+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/tax-identification-number--tin-.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.324+05:30"
+            dam:sha1="dcff6083323f3eb33ca85b1a5523be2065371f1c"
+            dam:size="{Long}436"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:00.355+05:30"
+            dc:title="Tax Identification Number (TIN)"
+            jcr:lastModified="{Date}2025-07-17T12:40:38.161+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

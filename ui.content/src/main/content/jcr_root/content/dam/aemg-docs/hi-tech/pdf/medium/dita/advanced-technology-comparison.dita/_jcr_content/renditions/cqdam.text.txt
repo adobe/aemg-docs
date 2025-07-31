@@ -1,0 +1,41 @@
+   Testing of Advanced Technology Comparison
+   An advanced comparison of key Hi-Tech systems, including performance metrics, costs, and environmental impact.
+       Table: Advanced Technology Comparison
+             Technology Type
+             Processing Power (TFLOPS)
+             Energy Efficiency (W/TFLOP)
+             Latency (ms)
+             CO₂ Emissions (g/kWh)
+             Cost per Unit ($)
+             AI Accelerator (ASIC)
+             200
+             20
+             2
+             50
+             3000
+             Quantum Computer (QPU)
+             500
+             40
+             5
+             30
+             10000
+             High-Performance GPU
+             80
+             100
+             10
+             75
+             1200
+             AI and Quantum Tech Group
+             780
+             60
+             5.7
+             45
+             2500
+              Total
+             –
+             –
+             –
+             –
+             –
+     The officer left a note saying  You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.
+     The advantages of using    DB2 Universal Database are well known.

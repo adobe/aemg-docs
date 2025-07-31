@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.397+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+        jcr:primaryType="cq:PageContent"
+        jcr:title="sample_dita"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/sample_dita.dita"
+        fmUuidOfSource="GUID-6ff2142a-76aa-49c2-8473-4970576baf62"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/sample_dita.dita"
+        topicUUID="GUID-6ff2142a-76aa-49c2-8473-4970576baf62"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="sample_dita.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The online article &lt;span class=&quot;cite display-inline&quot;>Specialization in the Darwin Information Typing Architecture&lt;/span> provides a detailed explanation of how to define new topic types.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;dl class=&quot;dl&quot;>&lt;div class=&quot;dlhead&quot;>&lt;dt class=&quot;dthd&quot;>Image File View Selection&lt;/dt>&lt;dd class=&quot;ddhd&quot;>Resulting Information&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>File Type&lt;/dt>&lt;dd class=&quot;dd&quot;>Image's file extension&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Image Class&lt;/dt>&lt;dd class=&quot;dd&quot;>Image is raster, vector, metafile or 3D&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Number of pages&lt;/dt>&lt;dd class=&quot;dd&quot;>Number of pages in the image&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Fonts&lt;/dt>&lt;dd class=&quot;dd&quot;>Names of the fonts contained within a vector image&lt;/dd>&lt;/div>&lt;/dl>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;> The Battery Pack &lt;/li>&lt;li class=&quot;li&quot;> Power Electronics and Controllers &lt;/li>&lt;li class=&quot;li&quot;> Environmental and Economic Benefits &lt;/li>&lt;/ul>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;ol_container div&quot; data-attr-outputclass=&quot;ol_container&quot;>&lt;div class=&quot;p&quot;>Best First-Person Shooters&lt;/div>&lt;ol class=&quot;ol&quot;>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Half-Life 2&lt;/b> Fight aliens, wear a head crab, learn about gravity &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Halo: Combat Evolved&lt;/b> Fight aliens, wear an AI, learn about screen peeking siblings &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Team Fortress 2&lt;/b> Fight non-alien residents, wear hats, learn about teamwork &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Tribes&lt;/b> Ski, slip, and slide your way to victory &lt;/li>&lt;/ol>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The officer left a note saying &lt;q class=&quot;q display-inline&quot;>You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.&lt;/q>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;figure class=&quot;fig&quot; data-attr-expanse=&quot;column&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>The Green Ecology&lt;/figcaption>&lt;span class=&quot;placement-break align-&quot;>&lt;img src=&quot;&quot; class=&quot;image&quot; data-attr-placement=&quot;break&quot;>&lt;/span>&lt;/figure>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;tip note&quot; data-attr-type=&quot;tip&quot;>&lt;span class=&quot;prefix-content&quot;>Tip: &lt;/span>Tip Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;caution note&quot; data-attr-type=&quot;caution&quot;>&lt;span class=&quot;prefix-content&quot;>Caution: &lt;/span> Caution Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;danger note&quot; data-attr-type=&quot;danger&quot;>&lt;span class=&quot;prefix-content&quot;>Danger: &lt;/span>Danger Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-10
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;restriction note&quot; data-attr-type=&quot;restriction&quot;>&lt;span class=&quot;prefix-content&quot;>Restriction: &lt;/span>Restriction Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-11
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>A &lt;em class=&quot;term display-inline&quot;>reference implementation&lt;/em> of DITA implements the standard, fallback behaviors intended for DITA elements.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The memory storage capacity of the computer is 2 GB&lt;sup class=&quot;footnote-ref ph sup&quot; data-attr-outputclass=&quot;footnote-ref&quot;>1&lt;/sup> with error correcting support.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-13
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;footnote div&quot; data-attr-outputclass=&quot;footnote&quot;>&lt;div class=&quot;footnote-text p&quot; data-attr-outputclass=&quot;footnote-text&quot;>&lt;sup class=&quot;footnote-number ph sup&quot; data-attr-outputclass=&quot;footnote-number&quot;>1&lt;/sup> A GB (gigabyte) is equal to 1000 million bytes.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-14
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;xrefinfo p&quot; data-attr-outputclass=&quot;xrefinfo&quot;> Information about dl : &lt;a class=&quot;xref&quot; href=&quot;https://www.oxygenxml.com/dita/1.3/specs/langRef/base/dl.html&quot; data-attr-href=&quot;https://www.oxygenxml.com/dita/1.3/specs/langRef/base/dl.html&quot; data-attr-scope=&quot;external&quot;>&amp;lt;dl&amp;gt;&lt;/a>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-15
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>Unplug the unit &lt;i class=&quot;ph i display-inline&quot;>before&lt;/i> placing the metal screwdriver against the terminal screw.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-16
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;b class=&quot;ph b display-inline&quot;>STOP!&lt;/b> This is &lt;b class=&quot;ph b display-inline&quot;>very&lt;/b> important!&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-17
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;example&quot; class=&quot;example&quot;>&lt;div class=&quot;p&quot;>Example&lt;/div>&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>Example of the p element&lt;/code>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-18
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;example&quot;>&lt;div class=&quot;p&quot;>Example&lt;/div>&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus.&lt;/code>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-19
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;> This is a sample of my favorite sonnet. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-20
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;pre-white-space lines&quot; data-attr-xml:space=&quot;preserve&quot;>&lt;br>&#xa;Shall I compare thee to a summer's day?&lt;br>&#xa;Thou art more lovely and more temperate:&lt;br>&#xa;Rough winds do shake the darling buds of May,&lt;br>&#xa;and summer's lease hath all too short a date:&lt;br>&#xa;...&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-21
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;pre class=&quot;pre-white-space pre&quot; data-attr-xml:space=&quot;preserve&quot;>&lt;br>&#xa;MEMO: programming team fun day&lt;br>&#xa;Remember to bring a kite, softball glove, or other favorite&lt;br>&#xa;outdoor accessory to tomorrow's fun day outing at Zilker Park.&lt;br>&#xa;Volunteers needed for the dunking booth.&lt;br>&#xa; &lt;/pre>"
+                            textIsRich="{Boolean}true"/>
+                        <text-22
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;> &lt;em class=&quot;term display-inline&quot;> This is a sample of my favorite sonnet. &lt;/em>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-23
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The advantages of using &lt;span class=&quot;&quot; data-attr-tmtype=&quot;tm&quot; data-attr-trademark=&quot;DB2 Universal Database&quot;> DB2 Universal Database™&lt;/span> are well known.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-24
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;i class=&quot;ph i display-inline&quot;>The latest electric vehicles&lt;/i> are revolutionizing the automotive industry with their sustainable technology and zero-emission performance. Example of Italic&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-25
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The car's speedometer shows &lt;sup class=&quot;ph sup&quot;>250&lt;/sup> miles per hour, showcasing its world-class engineering and performance capabilities.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-26
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The tire pressure should be set to &lt;sub class=&quot;ph sub display-inline&quot;>32&lt;/sub> PSI for optimal driving safety and comfort.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-27
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>For coding enthusiasts, &lt;span class=&quot;ph tt display-inline&quot;>car_model = &quot;Mustang GT&quot;&lt;/span> is an example of how to store vehicle information in a programming context.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-28
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>Check out the &lt;u class=&quot;ph u display-inline&quot;>sporty carbon fiber hood&lt;/u> on the latest car models, which combines aesthetics with functionality.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-29
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The previous model has been &lt;span class=&quot;ph line-through display-inline&quot;>discontinued&lt;/span>, making room for the new, more advanced version.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-30
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The new electric car comes with an &lt;span class=&quot;ph overline display-inline&quot;>improved battery system&lt;/span>, offering longer driving ranges and faster charging times. example of overline&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-31
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The online article &lt;span class=&quot;cite display-inline&quot;>Innovations in Automotive Electrification&lt;/span> provides an in-depth look into how electric vehicle models are changing the automotive landscape.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="5a471b96-93eb-4915-b827-7ff9faa2dd58">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicated_publish="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}7"
+        dam:processingId="345c767a-b676-462f-8cda-665fd1bf20bd"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cq5dam.preview.pdf,cq5dam.preview.mp4,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json]"
+        dam:processingRequestedDate="{Date}2025-04-02T07:14:15.770Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.198+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Task"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-17T12:39:58.679+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/task.dita"
+        fmUuid="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0"
+        guidesDirectParentMaps="[GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        guidesParentMaps="[GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        templateDescription="Template for task topic"
+        templateTitle="Task">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:38.986+05:30"
+            dam:sha1="a56882d8ea4a75b829e9cb2c181030d5d207d9f1"
+            dam:size="{Long}1408"
+            dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:09.122+05:30"
+            dc:title="Task"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.198+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic task/task "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

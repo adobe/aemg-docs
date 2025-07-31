@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="07225319-13a2-4bda-9405-0d824de3c4ac">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicated_publish="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicatedBy="krishna.mulik@deptagency.com"
+        cq:lastReplicatedBy_publish="krishna.mulik@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:38.900+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_db013647-7120-46ff-bfed-9c3b32cc2472"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle=" Digital Transformation in BFSI: Revolutionizing the Industry"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:58.930+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/electric-vehicles.dita"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:38.862+05:30"
+            dam:sha1="ecc0275b20e2a5289f3b0e631fed1cd3cd229828"
+            dam:size="{Long}4520"
+            dc:description="A dedicated Green Finance Committee will assess and approve projects based on their environmental benefits and alignment with green financing standards."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:07.973+05:30"
+            dc:title="Electric Vehicles"
+            jcr:lastModified="{Date}2025-07-17T12:40:35.167+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

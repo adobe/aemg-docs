@@ -1,0 +1,31 @@
+   Test
+       Host Mode Testing Registers
+       Table 1 lists the USB 2.0 registers that must be toggled to force Test J, Test K, Test SE0 NAK, and Test Packet on the respective USB ports.
+             1
+           During the characterization stage of a USB device, ensuring compliance with the relevant specifications often involves fine-tuning various hardware parameters
+             2
+           One such parameter is the HS_CURR_LEVEL (High-Speed Current Level), which can be adjusted by directly modifying the corresponding USB register specified in Table 2 of the relevant documentation.
+               Description
+               Register Name and Setting
+               Normal Operations
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0000
+               Test J
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0001
+               Test K
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0010
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+               Test SE0 NAK
+               X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011
+         HS_CURR_LEVEL Offset Adjustment Procedure
+         If the default values are not suitable to the customer design, adjust the HS_CURR_LEVEL register to pass the USB HS eye diagram.
+          Follow this procedure: 1. Adjust the HS_CURR_LEVEL register as described in the "Tuning Procedure and Registers" section to pass the USB HS eye diagram.
+       Do not apply a global overwrite HS_CURR_LEVEL value for all silicon. Software should read the fuse USB drive strength and add an offset to it.

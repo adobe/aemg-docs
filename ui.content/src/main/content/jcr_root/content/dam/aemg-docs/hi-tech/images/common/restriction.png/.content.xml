@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8877dc38-adcc-4d25-8d50-dd3461ee9643">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}1"
+        dam:processingId="bd840b8c-84c9-43a1-aa8d-5f1fc13a76b0"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cqdam.machine.metadata.colors.json,cq5dam.preview.pdf,cq5dam.preview.mp4,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2025-03-07T07:34:37.457Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:53.111+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        fmUuid="GUID-08697b5a-22e0-41d1-8b30-d46b380f5e81">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            cq:tags="[properties:orientation/square]"
+            cq:tags_xmpArrayType="rdf:Bag"
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="Software: www.inkscape.org&#xa;"
+            dam:extracted="{Date}2025-07-09T18:13:52.969+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}96"
+            dam:Physicalheightininches="{Decimal}5.332666873931885"
+            dam:Physicalwidthindpi="{Long}96"
+            dam:Physicalwidthininches="{Decimal}5.332666873931885"
+            dam:predictedColors="{Long}[1100]"
+            dam:predictedColors_xmpArrayType="rdf:Bag"
+            dam:Progressive="no"
+            dam:sha1="e8a417aa58e42021d3c1384cae223770c6000231"
+            dam:size="{Long}31016"
+            dc:format="image/png"
+            dc:modified="{Date}2025-07-09T17:29:36.411+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-09T18:13:52.914+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}512"
+            tiff:ImageWidth="{Long}512"
+            xmp:CreatorTool="www.inkscape.org"
+            docstate="Draft">
+            <imageFeatures
+                jcr:lastModified="{Date}2025-03-07T07:35:00.664Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.666Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}1.0"
+                    name="RED"
+                    rank="{Long}1"
+                    rgb="{Long}[240,0,47]"/>
+            </dam:colorDistribution>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <stop_sign
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.618Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.952"
+                    isCustom="{Boolean}false"
+                    name="stop sign"/>
+                <traffic_sign
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.619Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.926"
+                    isCustom="{Boolean}false"
+                    name="traffic sign"/>
+                <road_sign
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.620Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.888"
+                    isCustom="{Boolean}false"
+                    name="road sign"/>
+                <minimalist_photography
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.620Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.867"
+                    isCustom="{Boolean}false"
+                    name="minimalist photography"/>
+                <clipart
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.621Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.805"
+                    isCustom="{Boolean}false"
+                    name="clipart"/>
+                <web_icon
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.622Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.782"
+                    isCustom="{Boolean}false"
+                    name="web icon"/>
+                <stop
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.623Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.755"
+                    isCustom="{Boolean}false"
+                    name="stop"/>
+                <circle
+                    jcr:lastModified="{Date}2025-03-07T07:35:06.623Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.751"
+                    isCustom="{Boolean}false"
+                    name="circle"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

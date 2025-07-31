@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.381+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Eligible Assets Evaluation and Selection Process"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemguidesDALP/fsi/pdf/complex/dita/eligible-assets-evaluation-and-selection-process.dita"
+        fmUuidOfSource="GUID-1c2a0877-3844-4d66-86ba-e7fc214bf822"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemguidesDALP/fsi/pdf/complex/dita/eligible-assets-evaluation-and-selection-process.dita"
+        topicUUID="GUID-1c2a0877-3844-4d66-86ba-e7fc214bf822"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="eligible-assets-evaluation-and-selection-process.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;> The Eligible Assets evaluation and selection process seeks to ensure that an amount equivalent to the net proceeds of any Green Financing Transaction is allocated to assets qualifying as Eligible Assets. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;chart-container div&quot; data-attr-outputclass=&quot;chart-container&quot;>Bar Chart&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;table_2&quot; class=&quot;eligibility-bar-table table&quot; data-attr-outputclass=&quot;eligibility-bar-table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;colgroup>&lt;col name=&quot;col1&quot; style=&quot;width: 33.333333333333336%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;1*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; style=&quot;width: 33.333333333333336%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;1*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; style=&quot;width: 33.333333333333336%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;1*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Year&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;> Assets Evaluation &lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;> Selection Process &lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>2020&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>12&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>15&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>2021&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>19&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>9&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>2022&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>3&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>5&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>2024&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>8&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;graph-content div&quot; data-attr-outputclass=&quot;graph-content&quot;> As part of fsi financing approval process, the initial screening by the Sustainable Finance Forum (step 1 in the diagram above) will assess the asset(s) and endorse/approve the categorisation/labelling of the transactions in accordance with the FSI Group’s internal framework for classifying financing and investments as sustainable15 and the relevant principles issued by the Loan Market Associations (LMA, APLMA, LSTA16 ). FSI has developed an internal single, bank-wide sustainability taxonomy, to assist in the determination of whether a technology or activity is eligible to be classified as green or sustainable. The Sustainable Taxonomy is based on international standards and best practice, for example the Climate Bonds Taxonomy. The categorisation of activities as green or sustainable is conditional on certain criteria being met, and it also allows for regional variations.&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;> The Battery Pack &lt;/li>&lt;li class=&quot;li&quot;> Power Electronics and Controllers &lt;/li>&lt;li class=&quot;li&quot;> Environmental and Economic Benefits &lt;/li>&lt;li class=&quot;li&quot;> Barriers to Widespread Adoption &lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

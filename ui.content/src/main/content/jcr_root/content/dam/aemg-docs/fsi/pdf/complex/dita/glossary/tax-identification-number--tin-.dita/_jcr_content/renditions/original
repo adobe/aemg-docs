@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="_71ff56c8-7f57-492b-ba6c-68e385006fbd">
+  <glossterm>Tax Identification Number (TIN)</glossterm>
+  <glossdef> A US IRS specific term: tax identification number.
+For an individual this would be their US social security number, for an entity their employer identification number. </glossdef>
+</glossentry>

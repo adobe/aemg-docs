@@ -1,0 +1,15 @@
+   Preferred Tools for USB Characterization at HiTech
+         Preferred Tools for USB Characterization at  HiTech 
+         A
+         HiTech typically utilizes Tektronix oscilloscopes for USB characterization
+           Due to their high precision, reliable performance, and compatibility with USB compliance testing requirements.
+           These oscilloscopes are well-suited for capturing and analyzing high-speed signals to ensure adherence to USB standards.
+         B
+         HiTech typically utilizes Tektronix oscilloscopes for USB characterization
+           Due to their high precision, reliable performance, and compatibility with USB compliance testing requirements.
+           These oscilloscopes are well-suited for capturing and analyzing high-speed signals to ensure adherence to USB standards.
+         When opting for oscilloscopes from other manufacturers, it is essential to verify that they support the bandwidth, sampling rate, and protocol decoding capabilities required for accurate USB signal analysis.
+          Following USB-IF guidelines ensures effective USB characterization and device compliance with performance standards. 
+           Figure 1: Full Speed Device with pull up resistor connected to D+
+           circuit-device
+     Although it is possible to try to increase termination as a last resort, HiTech does not recommend adjusting termination values.

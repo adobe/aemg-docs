@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-10T20:16:43.174+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/hitech-topic"
+        dc:description="A seamless blend of innovation and creativity, delivering exceptional results"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Advanced Technologies in Semiconductor and Aviation Industries"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/advanced-technologies-in-semiconductor-and-aviation-industries.dita"
+        fmUuidOfSource="GUID-8e1d9467-32d6-416a-9e93-0b4a4e8a60f7"
+        indexPath="/content/aemg-docs/en/hi-tech-landing"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/hi-tech-landing"
+        mapParent="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        mapUUID="GUID-9392d343-9564-48d4-8d5c-f841619fb137"
+        preset="hi-tec"
+        presetid="hi-tec"
+        rootMapUUID="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        sitePath="/content/aemg-docs/en/hi-tech-landing"
+        siteTitle="hi-tech-landing"
+        sourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/advanced-technologies-in-semiconductor-and-aviation-industries.dita"
+        topicUUID="GUID-8e1d9467-32d6-416a-9e93-0b4a4e8a60f7"
+        tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+        uuid="advanced-technologies-in-semiconductor-and-aviation-industries.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;content-figure-image content-figure-image-landscape div&quot; data-attr-outputclass=&quot;content-figure-image content-figure-image-landscape&quot;>&lt;figure id=&quot;fig_2&quot; class=&quot;fig&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>Full Speed Device with pull up resistor connected to D+&lt;/figcaption>&lt;div class=&quot;images-main-container images-main-container-landscape div&quot; data-attr-outputclass=&quot;images-main-container images-main-container-landscape&quot;>&lt;div class=&quot;image-num-container image-num-container-landscape div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape&quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>1&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_18&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;div class=&quot;image-num-container image-num-container-landscape div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape&quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>2&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_15&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;div class=&quot;image-num-container image-num-container-landscape  div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape &quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>3&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_17&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;/div>&lt;/figure>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Semiconductor Industry: The Backbone of Modern Technology&lt;/h2>&lt;div class=&quot;p&quot;>The semiconductor industry is foundational to the Hi-Tech sector, powering everything from consumer electronics to aerospace technologies. Chips, which are produced through intricate fabrication processes, enable performance, connectivity, and the development of artificial intelligence and machine learning systems.&lt;/div>&lt;div class=&quot;p&quot;>The advantages of using &lt;span class=&quot;&quot; data-attr-tmtype=&quot;tm&quot; data-attr-trademark=&quot;DB2 Universal Database&quot;> DB2 Universal Database™&lt;/span> are well known.&lt;/div>&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;goodbye&quot;>Saying goodbye&lt;/span>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The semiconductor industry is foundational to the Hi-Tech sector, powering everything from consumer electronics to aerospace technologies. Chips, which are produced through intricate fabrication processes, enable performance, connectivity, and the development of artificial intelligence and machine learning systems.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Evolution of Semiconductor Manufacturing&lt;/h2>&lt;div class=&quot;p&quot;>Semiconductor manufacturing has rapidly evolved from simple transistors to highly complex integrated circuits. As demands for faster processors and smaller form factors grow, manufacturers have developed innovative fabrication techniques, such as photolithography, to etch increasingly smaller components into silicon chips. This progression has fueled advancements in computing power, mobile devices, and artificial intelligence (AI) applications.&lt;/div>&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;hello&quot;>Saying hello&lt;/span>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;tip note&quot; data-attr-type=&quot;tip&quot;>&lt;span class=&quot;prefix-content&quot;>Tip: &lt;/span>This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;caution note&quot; data-attr-type=&quot;caution&quot;>&lt;span class=&quot;prefix-content&quot;>Caution: &lt;/span>Please be cautious and ensure that you double-check all the details before proceeding, as any small mistake could lead to unexpected complications or errors.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;danger note&quot; data-attr-type=&quot;danger&quot;>&lt;span class=&quot;prefix-content&quot;>Danger: &lt;/span>This is a dangerous warning that should not be ignored under any circumstances; failure to follow the guidelines provided here could result in serious consequences or harm to yourself or others.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;restriction note&quot; data-attr-type=&quot;restriction&quot;>&lt;span class=&quot;prefix-content&quot;>Restriction: &lt;/span>There are certain restrictions you must adhere to in this situation, as failing to follow the rules could lead to delays, issues, or violations of legal or organizational policies.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>The Role of AI and Quantum Computing in Semiconductor Development&lt;/h2>&lt;div class=&quot;p&quot;>Artificial Intelligence (AI) and quantum computing are expected to revolutionize the semiconductor industry. AI is already being leveraged to optimize the design and manufacturing processes of chips, while quantum computing holds the potential to solve problems that classical computers cannot address. These technologies are paving the way for faster, more powerful processors that will define the future of computing across all sectors.&lt;/div>&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;pediatrcian&quot;>pediatrician&lt;/span>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-10
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;danger note hazardstatement&quot; data-attr-type=&quot;danger&quot;>&lt;span class=&quot;prefix-content&quot;>Danger: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Rotating blade.&lt;/li>&lt;li class=&quot;li consequence&quot;>Moving parts can crush and cut.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Follow lockout procedure before servicing.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-11
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Challenges in Semiconductor Production&lt;/h2>&lt;div class=&quot;p&quot;>While the semiconductor industry continues to push the boundaries of innovation, challenges persist. The increasing complexity of chip designs and the need for nanometer-level precision in production have driven costs up. Additionally, supply chain disruptions, particularly the sourcing of rare materials and semiconductor fabrication equipment, remain key concerns in the industry.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;warning note hazardstatement&quot; data-attr-type=&quot;warning&quot;>&lt;span class=&quot;prefix-content&quot;>Warning: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Hot surfaces inside.&lt;/li>&lt;li class=&quot;li consequence&quot;>Contact might cause burn.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Wear protective gear before servicing internal parts.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-13
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Aviation Industry and Advanced Flight Technologies&lt;/h2>&lt;div class=&quot;p&quot;>The aviation industry is experiencing a technological renaissance with advancements in flight technologies. From electric and hybrid aircraft to autonomous flight systems, the aviation sector is rapidly integrating cutting-edge technologies to improve efficiency, safety, and environmental sustainability.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-14
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;notice note hazardstatement&quot; data-attr-type=&quot;notice&quot;>&lt;span class=&quot;prefix-content&quot;>Notice: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Battery low&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Push and hold for charge state test.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-15
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Electric Aircraft and Sustainable Aviation&lt;/h2>&lt;div class=&quot;p&quot;>Electric aircraft represent a significant shift toward sustainability in the aviation industry. These aircraft use battery-powered electric engines or hybrid propulsion systems, reducing their reliance on traditional jet fuel. This move aligns with global goals to reduce &lt;i class=&quot;ph i display-inline&quot;> italicized &lt;/i> carbon emissions and promote cleaner, more energy-efficient travel in the skies.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-16
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;> Caution: Indicates a potentially hazardous situation which, if not avoided, &lt;b class=&quot;ph b display-inline&quot;>might&lt;/b> result in minor or moderate injury.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-17
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;caution note hazardstatement&quot; data-attr-type=&quot;caution&quot;>&lt;span class=&quot;prefix-content&quot;>Caution: &lt;/span>&lt;ul id=&quot;messagepanel_1&quot; class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Lifting Hazard. &lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Might result in injury.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;> See safety manual for lifting instructions.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-18
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Autonomous Flight Systems&lt;/h2>&lt;div class=&quot;p&quot;>Autonomous flight systems are poised &lt;span class=&quot;ph overline display-inline&quot;> This is a demo with overline &lt;/span> to transform the aviation industry, reducing the need for human intervention in flight operations. These systems leverage AI, machine learning, and advanced sensors to automate tasks such as navigation, takeoff, and landing. As safety protocols improve, autonomous systems will offer the potential for more efficient and cost-effective flight operations.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-19
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Chip Technologies in Aerospace and Aviation&lt;/h2>&lt;div class=&quot;p&quot;>In aerospace, advanced semiconductor technologies play a crucial role in enabling the development of cutting-edge flight systems, &lt;b class=&quot;ph b display-inline&quot;> give it more importance. &lt;/b> from autopilot to advanced navigation and communication tools. Chips are essential for the operation of everything from in-flight entertainment systems to satellite communications and onboard safety monitoring.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-20
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Challenges in Aerospace Chip Production&lt;/h2>&lt;div class=&quot;p&quot;>Aerospace chip manufacturers face unique challenges in producing chips that must withstand extreme conditions, such as high altitudes, temperature fluctuations, and radiation exposure. The specialized nature of these chips requires&lt;span class=&quot;ph line-through display-inline&quot;>This text is crossed out with line-through&lt;/span> rigorous testing and certification processes to ensure they perform reliably in mission-critical aerospace applications.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-21
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;restriction note hazardstatement&quot; data-attr-type=&quot;restriction&quot;>&lt;span class=&quot;prefix-content&quot;>Restriction: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Might result in injury.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Lifting Hazard&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>See safety manual for lifting instructions.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-22
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;xref&quot; href=&quot;GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98.dita#GUID-ad0ae6f5-eaa9-4d7d-9f81-97c84309bc2e&quot; data-attr-href=&quot;GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98.dita#GUID-ad0ae6f5-eaa9-4d7d-9f81-97c84309bc2e&quot; data-attr-scope=&quot;local&quot;>Advanced Technologies in Semiconductor and Aviation Industries&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-23
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>A &lt;em class=&quot;term display-inline&quot;>reference implementation&lt;/em> of DITA implements the standard, fallback behaviors intended for DITA elements.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-24
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The memory storage capacity of the computer is 2 GB&lt;sup class=&quot;footnote-ref ph sup&quot; data-attr-outputclass=&quot;footnote-ref&quot;>1&lt;/sup> with error correcting support.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-25
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;footnote div&quot; data-attr-outputclass=&quot;footnote&quot;>&lt;div class=&quot;footnote-text p&quot; data-attr-outputclass=&quot;footnote-text&quot;>&lt;sup class=&quot;footnote-number ph sup&quot; data-attr-outputclass=&quot;footnote-number&quot;>1&lt;/sup> A GB (gigabyte) is equal to 1000 million bytes.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-26
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>&lt;br>&#xa;/* html code give below */&lt;br>&#xa;&amp;lt;!DOCTYPE html&amp;gt;&lt;br>&#xa;&amp;lt;html&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;lt;head&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;lt;title&amp;gt;Page Title&amp;lt;/title&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;lt;/head&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;lt;body&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;lt;h1&amp;gt;My First Heading&amp;lt;/h1&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;lt;p&amp;gt;My first paragraph.&amp;lt;/p&amp;gt;&lt;br>&#xa; &amp;nbsp; &amp;lt;/body&amp;gt;&lt;br>&#xa;&amp;lt;/html&amp;gt;&lt;br>&#xa; &lt;/code>"
+                            textIsRich="{Boolean}true"/>
+                        <text-27
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>&lt;br>&#xa;/* Css code give below */&lt;br>&#xa;&lt;br>&#xa;body {&lt;br>&#xa; &amp;nbsp; &amp;nbsp;background-color: lightblue;&lt;br>&#xa;}&lt;br>&#xa;&lt;br>&#xa;h1 {&lt;br>&#xa; &amp;nbsp;color: white;&lt;br>&#xa; &amp;nbsp;text-align: center;&lt;br>&#xa;}&lt;br>&#xa;&lt;br>&#xa;p {&lt;br>&#xa; font-family: verdana;&lt;br>&#xa;}&lt;br>&#xa;&lt;br>&#xa; &lt;/code>"
+                            textIsRich="{Boolean}true"/>
+                        <text-28
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>&lt;br>&#xa;/* Js code give below */&lt;br>&#xa;&lt;br>&#xa;let arr = [&quot;scale&quot;, &quot;happy&quot;, &quot;strength&quot;, &quot;peace&quot;, &quot;happy&quot;, &quot;happy&quot;]&lt;br>&#xa;&lt;br>&#xa;// Function to remove duplicates from an array&lt;br>&#xa;function removeDuplicates(arr) {&lt;br>&#xa;return arr.filter((item, index) =&amp;gt; arr.indexOf(item) === index);&lt;br>&#xa;}&lt;br>&#xa;&lt;br>&#xa;// Display the original array&lt;br>&#xa;document.getElementById(&quot;originalArray&quot;)[removed] = arr;&lt;br>&#xa;&lt;br>&#xa;// Remove duplicates and display the modified array&lt;br>&#xa;let uniqueArr = removeDuplicates(arr);&lt;br>&#xa;document.getElementById(&quot;uniqueArray&quot;)[removed] = uniqueArr;&lt;br>&#xa;&lt;br>&#xa;&lt;br>&#xa;// Also log the result to the console&lt;br>&#xa;console.log(uniqueArr);&lt;br>&#xa; &lt;/code>"
+                            textIsRich="{Boolean}true"/>
+                        <text-29
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>Make sure that the screen displays &lt;span class=&quot;ph tt display-inline&quot;>File successfully created&lt;/span> before proceeding to the next stage of the task.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-30
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The power produced by the electrohydraulic dam was 10&lt;sup class=&quot;ph sup&quot;>10&lt;/sup> more than the older electric plant. The difference was H&lt;sub class=&quot;ph sub display-inline&quot;>2&lt;/sub>O.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-31
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;pre-white-space lines&quot; data-attr-xml:space=&quot;preserve&quot;>Shall I compare thee to a summer's day?&lt;br>&#xa;Thou art more lovely and more temperate:&lt;br>&#xa;Rough winds do shake the darling buds of May,&lt;br>&#xa;and summer's lease hath all too short a date...&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-32
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>A &lt;em class=&quot;term display-inline&quot;>reference implementation&lt;/em> of DITA implements the standard, fallback behaviors intended for DITA elements.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-33
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;example&quot; class=&quot;example&quot;>&lt;h1 class=&quot;title&quot;>Example: Using the P Element&lt;/h1>&lt;code class=&quot;pre-white-space pre codeblock display-block&quot; data-attr-xml:space=&quot;preserve&quot;>This is an example of how to use the P element in HTML to create paragraphs.&lt;/code>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-34
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;pre class=&quot;pre-white-space pre&quot; data-attr-xml:space=&quot;preserve&quot;>MEMO: Automotive Team Fun Day Remember to bring your favorite car care tool, racing gloves, or other automotive gear to tomorrow's fun day outing at Speedway Park. Volunteers needed for the pit stop challenge.&lt;/pre>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+                <container
+                    cq:styleIds="[1739265684209]"
+                    jcr:created="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <toc_search
+                        jcr:created="{Date}2025-02-12T14:49:46.409+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2025-07-09T18:49:58.049+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title=" "
+                        sling:resourceType="aemg-docs/components/sites-components/toc-search"
+                        helpMessage="search through the toc"
+                        hideTitle="true"
+                        id="toc-search"
+                        name="toc-search"
+                        rows="2"
+                        type="text"
+                        usePlaceholder="true"/>
+                </container>
+            </container_689917996>
+            <readingprogressbar
+                jcr:created="{Date}2025-03-10T06:25:03.187Z"
+                jcr:createdBy="krishna.mulik@deptagency.com"
+                jcr:lastModified="{Date}2025-07-09T18:49:39.279+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/readingprogressbar"/>
+            <container
+                jcr:lastModified="{Date}2025-07-09T18:49:44.919+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

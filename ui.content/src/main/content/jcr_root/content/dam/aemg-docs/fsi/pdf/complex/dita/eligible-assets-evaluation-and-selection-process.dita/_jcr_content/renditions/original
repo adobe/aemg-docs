@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_173124b1-1ca4-4b46-a03b-059e7118c0d0" outputclass="graph_landscape-content">
+  <title>Eligible Assets Evaluation and Selection Process</title>
+  <shortdesc/>
+  <body>
+    <p> The Eligible Assets evaluation and selection process seeks to ensure that an amount equivalent to the net proceeds of any Green Financing Transaction is allocated to assets qualifying as Eligible Assets. </p>
+    <div outputclass="chart-container">Bar Chart</div>
+    <table id="table_2" outputclass="eligibility-bar-table">
+      <tgroup cols="3">
+        <colspec colname="col_1" colwidth="1*"/>
+        <colspec colname="col_2" colwidth="1*"/>
+        <colspec colname="col_3" colwidth="1*"/>
+        <thead>
+          <row>
+            <entry>Year</entry>
+            <entry> Assets Evaluation </entry>
+            <entry> Selection Process </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>2020</entry>
+            <entry>12</entry>
+            <entry>15</entry>
+          </row>
+          <row>
+            <entry>2021</entry>
+            <entry>19</entry>
+            <entry>9</entry>
+          </row>
+          <row>
+            <entry>2022</entry>
+            <entry>3</entry>
+            <entry>5</entry>
+          </row>
+          <row>
+            <entry>2024</entry>
+            <entry>5</entry>
+            <entry>8</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <div outputclass="graph-content"> As part of fsi financing approval process, the initial screening by the Sustainable Finance Forum (step 1 in the diagram above) will assess the asset(s) and endorse/approve the categorisation/labelling of the transactions in accordance with the FSI Group’s internal framework for classifying financing and investments as sustainable15 and the relevant principles issued by the Loan Market Associations (LMA, APLMA, LSTA16 ). FSI has developed an internal single, bank-wide sustainability taxonomy, to assist in the determination of whether a technology or activity is eligible to be classified as green or sustainable. The Sustainable Taxonomy is based on international standards and best practice, for example the Climate Bonds Taxonomy. The categorisation of activities as green or sustainable is conditional on certain criteria being met, and it also allows for regional variations.
+      <ul>
+        <li> The Battery Pack </li>
+        <li> Power Electronics and Controllers </li>
+        <li> Environmental and Economic Benefits </li>
+        <li> Barriers to Widespread Adoption </li>
+      </ul>
+      <!-- <p outputclass="graph-content">  Only approved assets are then considered as a potential Eligible Asset for allocation against aGreen Financing Transaction under this Framework. </p> --></div>
+  </body>
+</topic>

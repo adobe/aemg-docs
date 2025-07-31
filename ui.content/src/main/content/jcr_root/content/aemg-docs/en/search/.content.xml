@@ -8,8 +8,8 @@
         jcr:description="Troubleshoot common questions about AEMG features."
         jcr:primaryType="cq:PageContent"
         jcr:title="Search"
-        id="search-page-content"
         sling:resourceType="guides-components/components/page"
+        id="search-page-content"
         pageTitle="Search"
         pwaCachestrategy="staleWhileRevalidate"
         pwaDisplay="standalone"
@@ -26,9 +26,9 @@
                 <container
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="core/wcm/components/container/v1/container"
-                    layout="responsiveGrid"
                     editable="{Boolean}true"
-                    id="cmp-search-page-result">
+                    id="cmp-search-page-result"
+                    layout="responsiveGrid">
                     <searchbar
                         jcr:created="{Date}2021-01-07T15:13:08.386-07:00"
                         jcr:createdBy="admin"

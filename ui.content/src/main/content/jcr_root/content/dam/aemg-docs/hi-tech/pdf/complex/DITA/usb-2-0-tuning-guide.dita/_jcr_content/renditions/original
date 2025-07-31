@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_b9f1bbbe-ce18-42d0-8474-812d2390b30c">
+  <title>USB 2.0 Tuning Guide</title>
+  <!-- <shortdesc/> -->
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref="r_productname_variables/ph_enduser"/><indexterm>Hitech system highlight</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <section>
+      <title outputclass="chapter_sub-titles chapter_sub-titles-landscape">The all-new AI-Driven Quantum Processor</title>
+      <div outputclass="Images-content-section-container Images-content-section-container-landscape">
+        <div outputclass="content-figure-image content-figure-image-landscape">
+          <fig id="fig_2">
+            <title>Full Speed Device with pull up resistor connected to D+</title>
+            <div outputclass="images-main-container images-main-container-landscape">
+              <div outputclass="image-num-container image-num-container-landscape">
+                <p outputclass="number number-landscape">1</p>
+                <image href="GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png" id="image_21" outputclass="resistor-image resistor-image-landscape">
+                </image></div>
+              <div outputclass="image-num-container image-num-container-landscape">
+                <p outputclass="number number-landscape">2</p>
+                <image href="GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png" id="image_18" outputclass="resistor-image resistor-image-landscape">
+                </image></div>
+              <div outputclass="image-num-container image-num-container-landscape ">
+                <p outputclass="number number-landscape">3</p>
+                <image href="GUID-38c902ff-cf12-412f-98f6-b032c3d8364d.png" id="image_17" outputclass="resistor-image resistor-image-landscape">
+                </image></div>
+            </div>
+          </fig>
+        </div>
+        <div outputclass="content-section content-section-landscape">
+          <p>The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics.</p>
+          <p>The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics. </p>
+        </div>
+      </div>
+    </section>
+    <note type="tip">This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.</note>
+    <p>The online article <cite>Specialization in the Darwin Information Typing Architecture</cite> provides a detailed explanation of how to define new topic types.</p>
+    <ul>
+      <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+        <ul>
+          <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+            <ul>
+              <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air</li>
+              <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+              <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+              <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .</li>
+            </ul>
+          </li>
+          <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+          <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .</li>
+        </ul>
+      </li>
+      <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+      <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+      <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .
+        <ol id="ol_1">
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+        </ol>
+      </li>
+    </ul>
+    <section audience="admin">
+      <title>System Configuration Settings ? For admin</title>
+      <p>Admins can configure the database connection parameters under Settings &gt; System &gt; Database.</p>
+    </section>
+    <section audience="end-user">
+      <title>Getting Started ? For end-user</title>
+      <p>After logging in, users can explore available features from the Dashboard.</p>
+    </section>
+    <bodydiv outputclass="dynamicpdf">
+      
+    </bodydiv>
+  </body>
+</topic>

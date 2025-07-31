@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="GUID-ad0ae6f5-eaa9-4d7d-9f81-97c84309bc2e">
+  <title>Advance Technology Camprison</title>
+  <shortdesc/>
+  <body>
+    <table>
+      <title>Table: Advanced Technology Comparison</title>
+      <tgroup cols="6">
+        <colspec colname="col"/>
+        <colspec colname="col_1"/>
+        <colspec colname="col_2"/>
+        <colspec colname="col_3"/>
+        <colspec colname="col_4"/>
+        <colspec colname="col_5"/><!-- Header row with multiple header columns -->
+        <thead>
+          <row>
+            <entry>Technology Type</entry>
+            <entry>Processing Power (TFLOPS)</entry>
+            <entry>Energy Efficiency (W/TFLOP)</entry>
+            <entry>Latency (ms)</entry>
+            <entry>CO₂ Emissions (g/kWh)</entry>
+            <entry>Cost per Unit ($)</entry>
+          </row>
+        </thead>
+        <!-- Table body with detailed data -->
+        <tbody>
+          <row>
+            <entry>AI Accelerator (ASIC)</entry>
+            <entry>200</entry>
+            <entry>20</entry>
+            <entry>2</entry>
+            <entry>50</entry>
+            <entry>3000</entry>
+          </row>
+          <row>
+            <entry>Quantum Computer (QPU)</entry>
+            <entry>500</entry>
+            <entry>40</entry>
+            <entry>5</entry>
+            <entry>30</entry>
+            <entry>10000</entry>
+          </row>
+          <row>
+            <entry>High-Performance GPU</entry>
+            <entry>80</entry>
+            <entry>100</entry>
+            <entry>10</entry>
+            <entry>75</entry>
+            <entry>1200</entry>
+          </row>
+          <!-- Grouping related technology systems -->
+          <row>
+            <entry>Quantum Tech Group</entry>
+            <entry>780</entry>
+            <entry>60</entry>
+            <entry>5.7</entry>
+            <entry>45</entry>
+            <entry>2500</entry>
+          </row>
+          <!-- Footer row with a summary of the entire technology comparison -->
+          <row>
+            <entry><b>Total</b></entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table>
+      <title>Table: Camparing between two tables</title>
+      <tgroup cols="6">
+        <colspec colname="col"/>
+        <colspec colname="col_1"/>
+        <colspec colname="col_2"/>
+        <colspec colname="col_3"/>
+        <colspec colname="col_4"/>
+        <colspec colname="col_5"/><!-- Header row with multiple header columns -->
+        <thead>
+          <row>
+            <entry>Technology Type</entry>
+            <entry>Processing Power (TFLOPS)</entry>
+            <entry>Energy Efficiency (W/TFLOP)</entry>
+            <entry>Latency (ms)</entry>
+            <entry>CO₂ Emissions (g/kWh)</entry>
+            <entry>Cost per Unit ($)</entry>
+          </row>
+        </thead>
+        <!-- Table body with detailed data -->
+        <tbody>
+          <row>
+            <entry>AI Accelerator (ASIC)</entry>
+            <entry>200</entry>
+            <entry>20</entry>
+            <entry>2</entry>
+            <entry>50</entry>
+            <entry>3000</entry>
+          </row>
+          <row>
+            <entry>Quantum Computer (QPU)</entry>
+            <entry>500</entry>
+            <entry>40</entry>
+            <entry>5</entry>
+            <entry>30</entry>
+            <entry>10000</entry>
+          </row>
+          <row>
+            <entry>High-Performance GPU</entry>
+            <entry>80</entry>
+            <entry>100</entry>
+            <entry>10</entry>
+            <entry>75</entry>
+            <entry>1200</entry>
+          </row>
+          <!-- Grouping related technology systems -->
+          <row>
+            <entry>Quantum Tech Group</entry>
+            <entry>780</entry>
+            <entry>60</entry>
+            <entry>5.7</entry>
+            <entry>45</entry>
+            <entry>2500</entry>
+          </row>
+          <!-- Footer row with a summary of the entire technology comparison -->
+          <row>
+            <entry><b>Total</b></entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+            <entry>–</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>
+      <table id="table_2">
+        <title>Dummy table</title>
+        <tgroup cols="6">
+          <colspec colname="col_1"/>
+          <colspec colname="col_2"/>
+          <colspec colname="col_3"/>
+          <colspec colname="col_4"/>
+          <colspec colname="col_5"/>
+          <colspec colname="col_6"/>
+          <thead>
+            <row>
+              <entry>Technology Type</entry>
+              <entry>Processing Power (TFLOPS)</entry>
+              <entry>Energy Efficiency (W/TFLOP)</entry>
+              <entry>Latency (ms)</entry>
+              <entry>CO₂ Emissions (g/kWh)</entry>
+              <entry>Cost per Unit ($)</entry>
+            </row>
+          </thead>
+          <!-- Table body with detailed data -->
+          <tbody>
+            <row>
+              <entry>AI Accelerator (ASIC)</entry>
+              <entry>200</entry>
+              <entry>20</entry>
+              <entry>2</entry>
+              <entry>50</entry>
+              <entry>3000</entry>
+            </row>
+            <row>
+              <entry>Quantum Computer (QPU)</entry>
+              <entry>500</entry>
+              <entry>40</entry>
+              <entry>5</entry>
+              <entry>30</entry>
+              <entry>10000</entry>
+            </row>
+            <row>
+              <entry>High-Performance GPU</entry>
+              <entry>80</entry>
+              <entry>100</entry>
+              <entry>10</entry>
+              <entry>75</entry>
+              <entry>1200</entry>
+            </row>
+            <!-- Grouping related technology systems -->
+            <row>
+              <entry>Quantum Tech Group</entry>
+              <entry>780</entry>
+              <entry>60</entry>
+              <entry>5.7</entry>
+              <entry>45</entry>
+              <entry>2500</entry>
+            </row>
+            <!-- Footer row with a summary of the entire technology comparison -->
+            <row>
+              <entry><b>Total</b></entry>
+              <entry>–</entry>
+              <entry>–</entry>
+              <entry>–</entry>
+              <entry>–</entry>
+              <entry>–</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <dl>
+      <dlentry>
+        <dt>Autumn</dt>
+        <dd>Autumn is the season when the leaves change color, the air becomes crisp, and the days grow shorter, signaling the transition from summer to winter.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Ocean</dt>
+        <dd>The ocean is a vast and mysterious body of water that covers over 70% of the Earth's surface, home to countless marine species and shaping the planet's climate and weather patterns.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Mountains</dt>
+        <dd>Mountains are large landforms that rise prominently above the surrounding terrain, often formed by tectonic forces and erosion, and they can provide breathtaking views and a wide variety of ecosystems.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Technology</dt>
+        <dd>Technology refers to the application of scientific knowledge for practical purposes, often leading to the creation of tools, machines, and systems that improve human life and advance various industries.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Solar System</dt>
+        <dd>The Solar System consists of the Sun and all the objects bound by its gravity, including planets, moons, asteroids, and comets, all of which move in elliptical orbits around the Sun.</dd>
+      </dlentry>
+    </dl>
+    <p audience="admin" platform="mobile"> Combining two thing audience and platform and the attribute is admin and mobile respectivelyt</p>
+    <p audience="admin" platform="mobile"> Admins on mobile: Tap "Settings" &gt; "Manage Users." </p>
+    <p audience="admin" platform="desktop"> Admins on desktop: Click "Admin Panel" &gt; "User Management." </p>
+    <p audience="end-user" platform="mobile"> Users on mobile: Tap "Profile" to update information. </p>
+    <p audience="end-user" platform="desktop"> Users on desktop: Click your name at the top to update profile details. </p>
+  </body>
+</topic>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<val>
+    <prop action="exclude"/>
+    <prop action="exclude" att="audience" val="admin"/>
+    <prop action="exclude" att="audience" val="end-user"/>
+    <prop action="exclude" att="platform" val="desktop"/>
+    <prop action="exclude" att="platform" val="mobile"/>
+    <prop action="exclude" att="product" val="1009-ALNAC-4GS"/>
+    <prop action="exclude" att="product" val="1238-AMAZER-4G-LIFE"/>
+    <prop action="exclude" att="product" val="1486-Altrust"/>
+    <prop action="exclude" att="product" val="1589-APTERRA-HT-2"/>
+    <prop action="exclude" att="product" val="1812-Apterra-AT2"/>
+    <prop action="exclude" att="product" val="1958-ASPIRE-4G+"/>
+    <prop action="exclude" att="product" val="1965-Amazer-XP"/>
+    <prop action="exclude" att="product" val="1979-AMAZER-XL"/>
+    <prop action="exclude" att="product" val="2018-APTERRA-CROSS"/>
+    <prop action="exclude" att="product" val="2177-ALTRUST-GO"/>
+    <prop action="exclude" att="product" val="2219-MAHA-TROOPER"/>
+    <prop action="exclude" att="product" val="2220-GRIPPER"/>
+    <prop action="exclude" att="product" val="864-ALNAC-4G"/>
+    <prop action="exclude" att="product" val="866-AMAZER-XL"/>
+    <prop action="exclude" att="product" val="913-APTERRA-HL"/>
+    <prop action="exclude" att="product" val="914-APTERRA-HP"/>
+    <prop action="exclude" att="product" val="915-APTERRA-HT"/>
+</val>

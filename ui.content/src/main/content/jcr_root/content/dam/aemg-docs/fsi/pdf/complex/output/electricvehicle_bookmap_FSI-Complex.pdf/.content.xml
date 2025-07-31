@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f987680b-991b-43eb-92bf-e3f96686e774">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:40.876+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        pdfType="Map"
+        sourcePath="/content/dam/aemguidesDALP/automotives/pdf/complex/dita/electricvehicle_bookmap.ditamap">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:39.708+05:30"
+            dam:numPages="{Long}24"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="6c02fc868cc55e0bf8f4e607bfaf073195a92430"
+            dam:size="{Long}1482226"
+            dc:format="application/pdf"
+            dc:modified="{Date}2025-07-17T12:40:13.360+05:30"
+            dc:title="ElectricVehicle_BookMap"
+            jcr:lastModified="{Date}2025-07-17T12:40:35.811+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="ElectricVehicle_BookMap"
+            xmp:CreateDate="{Date}2025-02-03T19:51:16.000+05:30"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-07-17T12:40:35.000+05:30"
+            xmp:ModifyDate="{Date}2025-07-17T12:40:35.000+05:30"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

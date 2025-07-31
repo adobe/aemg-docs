@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_b9f1bbbe-ce18-42d0-8474-812d2390b30c">
+  <title>Hi-Tech System Highlight</title>
+  <shortdesc/>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""/><indexterm>A secondary, explanatory line</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <section>
+      <codeblock>
+/* html code give below */
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;title&gt;Page Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+   &lt;h1&gt;My First Heading&lt;/h1&gt;
+   &lt;p&gt;My first paragraph.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+ </codeblock>
+      <codeblock>
+
+/* Css code give below */
+body {
+ background-color: lightblue;
+}
+h1 {
+ color: white;
+ text-align: center;
+}
+p {
+ font-family: verdana;
+}
+
+
+ </codeblock>
+      <codeblock>
+/* Js code give below */
+let arr = ["scale", "happy", "strength", "peace", "happy", "happy"];
+
+// Function to remove duplicates from an array
+function removeDuplicates(arr) {
+return arr.filter((item, index) =&gt; arr.indexOf(item) === index);
+}
+
+// Display the original array
+document.getElementById("originalArray").innerText = arr;
+
+// Remove duplicates and display the modified array
+let uniqueArr = removeDuplicates(arr);
+document.getElementById("uniqueArray").innerText = uniqueArr;
+
+// Also log the result to the console
+console.log(uniqueArr);
+
+ </codeblock>
+      <title outputclass="chapter_sub-titles">The all-new AI-Driven Quantum Processor</title>
+      <p>The Quantum Processor represents a groundbreaking leap in computational power, merging quantum mechanics with AI-driven performance to solve problems once thought unsolvable.</p>
+      <p outputclass="text-base">A secondary, explanatory line</p>
+      <p>Make sure that the screen displays <tt>File successfully created</tt> before proceeding to the next stage of the task.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+      <p>The power produced by the electrohydraulic dam was 10<sup>10</sup> more than the older electric plant. The difference was H<sub>2</sub>O.</p>
+      <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+    </section>
+    <lines>Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+and summer's lease hath all too short a date...</lines>
+    <section>
+      <title outputclass="chapter_sub-titles">Crafted with Precision in Smart Manufacturing</title>
+      <p>The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+      <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+      <pre>MEMO: Automotive Team Fun Day Remember to bring your favorite car care tool, racing gloves, or other automotive gear to tomorrow's fun day outing at Speedway Park. Volunteers needed for the pit stop challenge.</pre>
+      <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. </p>
+    </section>
+    <example id="example">
+      <title>Example: Using the P Element</title>
+      <codeblock>This is an example of how to use the P element in HTML to create paragraphs.</codeblock>
+    </example>
+  </body>
+</topic>

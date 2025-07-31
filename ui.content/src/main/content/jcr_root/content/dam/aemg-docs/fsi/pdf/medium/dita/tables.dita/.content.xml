@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="a1f04863-ebb5-4505-95da-16b86085364c">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicated_publish="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicatedBy="krishna.mulik@deptagency.com"
+        cq:lastReplicatedBy_publish="krishna.mulik@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:39.659+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_728d536e-5563-4566-a7d0-494f7720a913"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Tables"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:59.844+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/tables.dita"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:33.614+05:30"
+            dam:sha1="9216776324bc18adae4d93b4cfb60d9fc28e5aa5"
+            dam:size="{Long}2469"
+            dc:description="A dedicated Green Finance Committee will assess and approve projects based on their environmental benefits and alignment with green financing standards."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:13.635+05:30"
+            dc:title="Tables"
+            jcr:lastModified="{Date}2025-07-17T12:40:39.659+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

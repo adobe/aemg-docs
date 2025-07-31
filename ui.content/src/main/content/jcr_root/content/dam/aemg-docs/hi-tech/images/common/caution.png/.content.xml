@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="922dc1a1-8553-4981-99b6-568a159ac466">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}1"
+        dam:processingId="8b5e2d60-44f6-451e-a277-9dd14d859825"
+        dam:processingRenditions="[cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.preview.mp4,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.preview.pdf,cqdam.machine.metadata.features.json,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2025-03-07T07:34:35.604Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:50.306+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        fmUuid="GUID-967000eb-d6b8-4069-972d-e6e78217a0b8">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for png files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            cq:tags="[properties:orientation/square]"
+            cq:tags_xmpArrayType="rdf:Bag"
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="Software: www.inkscape.org&#xa;"
+            dam:extracted="{Date}2025-07-09T18:13:49.897+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}96"
+            dam:Physicalheightininches="{Decimal}5.332666873931885"
+            dam:Physicalwidthindpi="{Long}96"
+            dam:Physicalwidthininches="{Decimal}5.332666873931885"
+            dam:predictedColors="{Long}[22095,36005]"
+            dam:predictedColors_xmpArrayType="rdf:Bag"
+            dam:Progressive="no"
+            dam:sha1="dca730376cc4f4ceaf02f39d8d07d66f90b31856"
+            dam:size="{Long}20169"
+            dc:format="image/png"
+            dc:modified="{Date}2025-07-09T17:29:31.416+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-09T18:13:50.289+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}512"
+            tiff:ImageWidth="{Long}512"
+            xmp:CreatorTool="www.inkscape.org"
+            docstate="Draft">
+            <imageFeatures
+                jcr:lastModified="{Date}2025-03-07T07:34:52.000Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2025-03-07T07:34:57.952Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.9494"
+                    name="MUSTARD"
+                    rank="{Long}1"
+                    rgb="{Long}[251,211,80]"/>
+                <color2
+                    jcr:lastModified="{Date}2025-03-07T07:34:57.953Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0506"
+                    name="EMERALD"
+                    rank="{Long}2"
+                    rgb="{Long}[88,108,116]"/>
+            </dam:colorDistribution>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <triangular
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.690Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.934"
+                    isCustom="{Boolean}false"
+                    name="triangular"/>
+                <traffic_sign
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.691Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.874"
+                    isCustom="{Boolean}false"
+                    name="traffic sign"/>
+                <road_sign
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.691Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.868"
+                    isCustom="{Boolean}false"
+                    name="road sign"/>
+                <clipart
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.692Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.85"
+                    isCustom="{Boolean}false"
+                    name="clipart"/>
+                <event_photography
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.693Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.837"
+                    isCustom="{Boolean}false"
+                    name="event photography"/>
+                <clearance
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.693Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.817"
+                    isCustom="{Boolean}false"
+                    name="clearance"/>
+                <security_system
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.694Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.805"
+                    isCustom="{Boolean}false"
+                    name="security system"/>
+                <registration_plate
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.695Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.801"
+                    isCustom="{Boolean}false"
+                    name="registration plate"/>
+                <rectangle
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.696Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.781"
+                    isCustom="{Boolean}false"
+                    name="rectangle"/>
+                <button
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.697Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.774"
+                    isCustom="{Boolean}false"
+                    name="button"/>
+                <leak
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.697Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.772"
+                    isCustom="{Boolean}false"
+                    name="leak"/>
+                <solution
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.698Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.767"
+                    isCustom="{Boolean}false"
+                    name="solution"/>
+                <shape
+                    jcr:lastModified="{Date}2025-03-07T07:35:00.699Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.764"
+                    isCustom="{Boolean}false"
+                    name="shape"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,8 @@
+   Task
+ Once you have set up SQLJ, you need to create a new SQLJ file.
+  Select
+  New files are created with default values based on a standard template.
+  Delete
+  old files are created with default values based on a standard template.
+  Save 
+  old files are save with default values based on a standard template.

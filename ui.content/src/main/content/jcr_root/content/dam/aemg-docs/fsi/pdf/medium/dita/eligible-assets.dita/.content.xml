@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="a2792e24-6682-4459-a11f-881458573617">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicated_publish="{Date}2025-03-07T17:11:17.602Z"
+        cq:lastReplicatedBy="krishna.mulik@deptagency.com"
+        cq:lastReplicatedBy_publish="krishna.mulik@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="eligible-assets.dita"
+        cq:parentPath="/content/dam/aemguidesDALP/fsi/pdf/medium/dita"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}8"
+        dam:processingId="1185ff29-f05d-411b-ac87-1666ed559905"
+        dam:processingRenditions="[cqdam.machine.metadata.features.json,cq5dam.preview.mp4,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.preview.pdf,cq5dam.zoom.2048.2048.jpeg,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2025-02-14T12:45:39.977Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.500+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="jcr:rootVersion"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_3b2e712b-be08-4c9a-b010-2df2bcc4681f,table_2"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Eligible Assets Evaluation and Selection Process"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:58.988+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/eligible-assets.dita"
+        fmUuid="GUID-3d14c636-4855-4ae1-a059-5d403195614f"
+        guidesDirectParentMaps="[GUID-469b1df4-f3bd-4b7c-8235-e15b12f415a9,GUID-57396616-3e81-44a6-9bad-59d63ed69b92,GUID-b5db9aa7-e22e-4191-bb98-c753c7b3a361,GUID-dfe2cfd3-cbf5-4ae9-8a22-42c2c7d6a1df,GUID-5c228fa4-6333-4607-93e3-6e1b38b4a37e]"
+        guidesParentMaps="[GUID-469b1df4-f3bd-4b7c-8235-e15b12f415a9,GUID-57396616-3e81-44a6-9bad-59d63ed69b92,GUID-b5db9aa7-e22e-4191-bb98-c753c7b3a361,GUID-dfe2cfd3-cbf5-4ae9-8a22-42c2c7d6a1df,GUID-5c228fa4-6333-4607-93e3-6e1b38b4a37e]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.729+05:30"
+            dam:sha1="d7e3b17e0d9b21ab1f56b8ecc91dd7fc80a5d74d"
+            dam:size="{Long}5995"
+            dc:description="A dedicated Green Finance Committee will assess and approve projects based on their environmental benefits and alignment with green financing standards."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:10.417+05:30"
+            dc:title="Eligible Assets"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.500+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

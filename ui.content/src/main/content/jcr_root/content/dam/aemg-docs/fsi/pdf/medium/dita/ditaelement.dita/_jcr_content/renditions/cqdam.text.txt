@@ -1,0 +1,65 @@
+   Dita_elements
+      Dita Elements 
+     The online article  Specialization in the Darwin Information Typing Architecture provides a detailed explanation of how to define new topic types.
+         Image File View Selection
+         Resulting Information
+         File Type
+         Image's file extension
+         Image Class
+         Image is raster, vector, metafile or 3D
+         Number of pages
+         Number of pages in the image
+         Fonts
+         Names of the fonts contained within a vector image
+        The Battery Pack 
+        Power Electronics and Controllers 
+        Environmental and Economic Benefits 
+        Barriers to Widespread Adoption 
+       Best First-Person Shooters
+           Half-Life 2 Fight aliens, wear a head crab, learn about gravity 
+           Halo: Combat Evolved Fight aliens, wear an AI, learn about screen peeking siblings 
+           Team Fortress 2 Fight non-alien residents, wear hats, learn about teamwork 
+           Tribes Ski, slip, and slide your way to victory 
+     The officer left a note saying  You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.
+     Tip Note
+      Caution Note
+     Danger Note
+     Restriction Note
+     A  reference implementation of DITA implements the standard, fallback behaviors intended for DITA elements.
+     The memory storage capacity of the computer is 2 GB 1 with error correcting support.
+        1 A GB (gigabyte) is equal to 1000 million bytes.
+      Information about dl :  <dl>
+     Unplug the unit  before placing the metal screwdriver against the terminal screw.
+      STOP! This is  very important!
+      Note 
+       MEMO: programming team fun day
+Remember to bring a kite, softball glove, or other favorite
+outdoor accessory to tomorrow's fun day outing at Zilker Park.
+Volunteers needed for the dunking booth.
+        This is a sample of my favorite sonnet. 
+     The advantages of using    DB2 Universal Database are well known.
+         Rotating Blade
+         Risk of severe injury from moving parts in electric vehicle systems.
+         Ensure all power sources are disconnected before performing maintenance or servicing.
+         Hot Surfaces
+         Touching heated parts of the battery or motor may cause burns.
+         Always wear appropriate protective gear and allow components to cool before handling.
+         Lifting Hazard
+         Lifting heavy vehicle parts incorrectly may result in injury.
+         Follow proper lifting techniques and safety guidelines.
+         Battery Low
+         Check the battery status regularly and charge the vehicle before the battery reaches critically low levels.
+     The officer left a note saying  You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.
+       Example
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus.
+     Tip Note
+      The latest electric vehicles are revolutionizing the automotive industry with their sustainable technology and zero-emission performance. Example of Italic
+     The car's speedometer shows  250 miles per hour, showcasing its world-class engineering and performance capabilities.
+     The tire pressure should be set to  32 PSI for optimal driving safety and comfort.
+     For coding enthusiasts,  car_model = "Mustang GT" is an example of how to store vehicle information in a programming context.
+     Check out the  sporty carbon fiber hood on the latest car models, which combines aesthetics with functionality.
+     The previous model has been  discontinued, making room for the new, more advanced version.
+     The new electric car comes with an  improved battery system, offering longer driving ranges and faster charging times. example of overline
+     The online article  Innovations in Automotive Electrification provides an in-depth look into how electric vehicle models are changing the automotive landscape.
+       Shall I compare thee to a road so wide? Thou art more powerful and more refined: Rough terrains may test thy engine's pride, Yet speed and strength, within thee, I find...
+      The memory storage capacity of the computer is 2 GB A GB (gigabyte) is equal to 1000 million bytes with error correcting support.give attractive style to footnote 

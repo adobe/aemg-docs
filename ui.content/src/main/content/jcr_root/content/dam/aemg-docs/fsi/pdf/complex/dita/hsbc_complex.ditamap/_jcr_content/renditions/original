@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="_a3bddfb8-cfc3-49f3-83cf-a02416500c73">
+  <title>hsbc_complex</title>
+  <bookmeta>
+    <critdates>
+      <created date="2024"></created>
+    </critdates>
+    <prodinfo>
+      <prodname> Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="2024.38"></vrm>
+      </vrmlist>
+      <brand>HSBC </brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2013</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc></toc>
+    </booklists>
+    <mapref format="ditamap" href="glossary/glossary.ditamap" type="map">
+    </mapref>
+    <!--  put glossary map here--><!-- <mapref format="ditamap" href="Glossary/glossary-.ditamap" type="map">    </mapref> -->
+  </frontmatter>
+  <chapter href="eligible-assets-evaluation-and-selection-process.dita" type="topic">
+  </chapter>
+  <chapter href="hsbc_chapter_1.dita" type="topic">
+  </chapter>
+  <chapter href="eligibility.dita" type="topic">
+  </chapter>
+  <!-- <chapter href="eligible-assets-evaluation-and-selection-process.dita" type="topic">  </chapter> -->
+  <chapter href="additional_information.dita" type="topic">
+  </chapter>
+  <chapter href="debit_card.dita" type="topic">
+  </chapter>
+  <chapter href="sample_dita.dita" type="topic">
+  </chapter>
+  <chapter href="hsbc_task.dita" type="task">
+  </chapter>
+  <!-- linkk chapter here -->
+  <backmatter>
+    <booklists>
+      <indexlist></indexlist>
+      <glossarylist>
+      </glossarylist>
+      <figurelist></figurelist>
+      <tablelist></tablelist>
+    </booklists>
+  </backmatter>
+</bookmap>

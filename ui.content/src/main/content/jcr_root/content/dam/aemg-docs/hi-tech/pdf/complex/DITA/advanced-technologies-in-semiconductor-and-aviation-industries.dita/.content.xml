@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="5bb1f7f7-2d54-4acb-87f1-120a24218dbb">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-12T14:10:15.067Z"
+        cq:lastReplicated_publish="{Date}2025-03-12T14:10:15.067Z"
+        cq:lastReplicatedBy="sadhna.singh@deptagency.com"
+        cq:lastReplicatedBy_publish="sadhna.singh@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}56"
+        dam:processingId="be2c3ede-cb9c-49d0-b799-630b01dc31bc"
+        dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cq5dam.preview.pdf,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.mp4,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.thumbnail.48.48.png]"
+        dam:processingRequestedDate="{Date}2025-03-13T09:56:12.455Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.961+05:30"
+        jcr:lastModifiedBy="sadhna.singh@deptagency.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,GUID-38c902ff-cf12-412f-98f6-b032c3d8364d.png,GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98.dita,]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[r_productname_variables/ph_enduser\,]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_4ed34acd-9b23-4254-a38c-558187b70da9,fig_2,image_18,image_15,image_17,messagepanel_1,example"
+        fmditaImages="[\,GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,\,GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,\,GUID-38c902ff-cf12-412f-98f6-b032c3d8364d.png]"
+        fmditaObjects="[]"
+        fmditaTitle="Advanced Technologies in Semiconductor and Aviation Industries"
+        fmditaXrefs="[\,GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98.dita#GUID-ad0ae6f5-eaa9-4d7d-9f81-97c84309bc2e]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-09T18:13:53.127+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/advanced-technologies-in-semiconductor-and-aviation-industries.dita"
+        fmUuid="GUID-8e1d9467-32d6-416a-9e93-0b4a4e8a60f7"
+        guidesDirectParentMaps="[GUID-9392d343-9564-48d4-8d5c-f841619fb137,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        guidesParentMaps="[GUID-9392d343-9564-48d4-8d5c-f841619fb137,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:56.898+05:30"
+            dam:sha1="a6bed3de04fb2d4af7711b76d2e888d6f76997a1"
+            dam:size="{Long}12382"
+            dc:description="A seamless blend of innovation and creativity, delivering exceptional results"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:45.157+05:30"
+            dc:title="Advanced Technologies in Semiconductor and Aviation Industries"
+            jcr:lastModified="{Date}2025-07-09T18:13:56.961+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+            tp_image="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

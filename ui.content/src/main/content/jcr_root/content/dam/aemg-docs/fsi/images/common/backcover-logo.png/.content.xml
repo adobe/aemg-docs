@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="0a4c5bd6-f27f-4132-a2f9-c2423051ad20">
+    <jcr:content
+        cq:lastModified="{Date}2025-02-25T13:28:27.806+05:30"
+        cq:lastModifiedBy="admin"
+        cq:name="backcover-logo.png"
+        cq:parentPath="/content/dam/aemguidesDALP/fsi/images"
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:34.855+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle="">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?>&#xa;&lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c148 79.164050, 2019/10/01-18:03:16        &quot;>&#xa; &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;>&#xa;  &lt;rdf:Description rdf:about=&quot;&quot;&#xa;    xmlns:dam=&quot;http://www.day.com/dam/1.0&quot;&#xa;    xmlns:tiff=&quot;http://ns.adobe.com/tiff/1.0/&quot;&#xa;    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&#xa;   dam:Physicalheightininches=&quot;0.43053969740867615&quot;&#xa;   dam:Physicalwidthininches=&quot;1.0832934379577637&quot;&#xa;   dam:Fileformat=&quot;PNG&quot;&#xa;   dam:Progressive=&quot;no&quot;&#xa;   dam:extracted=&quot;2025-07-17T12:40:00.681+05:30&quot;&#xa;   dam:Bitsperpixel=&quot;32&quot;&#xa;   dam:MIMEtype=&quot;image/png&quot;&#xa;   dam:Physicalwidthindpi=&quot;288&quot;&#xa;   dam:Physicalheightindpi=&quot;288&quot;&#xa;   dam:Numberofimages=&quot;1&quot;&#xa;   dam:Numberoftextualcomments=&quot;0&quot;&#xa;   dam:sha1=&quot;d02afc441bcf053702ee7037b3901c1508f39be3&quot;&#xa;   dam:size=&quot;5513&quot;&#xa;   tiff:ImageLength=&quot;124&quot;&#xa;   tiff:ImageWidth=&quot;312&quot;&#xa;   dc:format=&quot;image/png&quot;&#xa;   dc:modified=&quot;2025-07-17T12:40:06.511+05:30&quot;>&#xa;   &lt;dc:title>&#xa;    &lt;rdf:Alt>&#xa;     &lt;rdf:li xml:lang=&quot;x-default&quot;/>&#xa;    &lt;/rdf:Alt>&#xa;   &lt;/dc:title>&#xa;  &lt;/rdf:Description>&#xa; &lt;/rdf:RDF>&#xa;&lt;/x:xmpmeta>&#xa;&lt;?xpacket end=&quot;r&quot;?>&#xa;"
+            dam:extracted="{Date}2025-07-17T12:40:34.762+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}288"
+            dam:Physicalheightininches="{Decimal}0.43053969740867615"
+            dam:Physicalwidthindpi="{Long}288"
+            dam:Physicalwidthininches="{Decimal}1.0832934379577637"
+            dam:Progressive="no"
+            dam:sha1="90b6e3fa0005d54601f3fd08dfdcc1012ff96e11"
+            dam:size="{Long}8348"
+            dc:format="image/png"
+            dc:modified="{Date}2025-07-17T12:40:06.511+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-17T12:40:34.840+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}124"
+            tiff:ImageWidth="{Long}312"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

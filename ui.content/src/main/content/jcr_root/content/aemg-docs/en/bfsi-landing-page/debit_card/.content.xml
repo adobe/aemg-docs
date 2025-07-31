@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.415+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="debit_card"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/debit_card.dita"
+        fmUuidOfSource="GUID-db71b989-110a-4cf2-869f-f07f1718638a"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/debit_card.dita"
+        topicUUID="GUID-db71b989-110a-4cf2-869f-f07f1718638a"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="debit_card.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;luxury-experiences&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Luxury Experiences and Travel Perks&lt;/h2>&lt;div class=&quot;p&quot;>Enjoy exclusive benefits designed to elevate your experience with the FSI Premier Visa Signature Debit Card.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;vip-hotel-access&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>VIP Access to Prestigious Hotels&lt;/h2>&lt;div class=&quot;p&quot;>Benefit from VIP guest status at over 900 prestigious properties worldwide, including:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Mandarin Oriental&lt;/li>&lt;li class=&quot;li&quot;>Conrad&lt;/li>&lt;li class=&quot;li&quot;>Fairmont&lt;/li>&lt;li class=&quot;li&quot;>Astoria&lt;/li>&lt;li class=&quot;li&quot;>And many more luxury brands.&lt;/li>&lt;/ul>&lt;div class=&quot;p&quot;>These benefits are available through the Visa Luxury Hotel Collection program.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;airport-assistance&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Airport Assistance Limousine Transfers&lt;/h2>&lt;div class=&quot;p&quot;>Access exclusive discounts for:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Airport assistance&lt;/li>&lt;li class=&quot;li&quot;>Limousine transfers worldwide&lt;/li>&lt;/ul>&lt;div class=&quot;p&quot;>Enjoy seamless travel, wherever you are.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;hotel-perks&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Additional Hotel Perks&lt;/h2>&lt;div class=&quot;p&quot;>Receive added benefits during your hotel stays, including:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Automatic room upgrades (subject to availability)&lt;/li>&lt;li class=&quot;li&quot;>Extended check-out times&lt;/li>&lt;li class=&quot;li&quot;>USD 25 food and beverage credit at select hotels&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;spending-power-security&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Increased Spending Power and Security Features&lt;/h2>&lt;div class=&quot;p&quot;>Enjoy increased spending flexibility and robust security measures with your FSI Premier Visa Signature Debit Card.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;purchase-limits&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Higher Daily Purchase Limits&lt;/h2>&lt;div class=&quot;p&quot;>Benefit from higher daily limits on purchases:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>₹4 lakhs for ATM, POS, and online transactions&lt;/li>&lt;li class=&quot;li&quot;>₹2 lakhs for contactless payments&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;transaction-security&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Transaction Limits Security&lt;/h2>&lt;div class=&quot;p&quot;>Control your spending with enhanced security features:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Set transaction limits for you and your children’s cards&lt;/li>&lt;li class=&quot;li&quot;>Control permitted transaction types for added protection&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;insurance-coverage&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Comprehensive Insurance Coverage&lt;/h2>&lt;div class=&quot;p&quot;>Feel secure with maximum coverage of ₹5 lakhs, protecting you from:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Lost cards&lt;/li>&lt;li class=&quot;li&quot;>Card skimming&lt;/li>&lt;li class=&quot;li&quot;>Online fraud&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;dining-lifestyle&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Exclusive Dining and Lifestyle Benefits&lt;/h2>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-10
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;eazydiner-membership&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>EazyDiner Prime Membership&lt;/h2>&lt;div class=&quot;p&quot;>Receive a complimentary 3-month EazyDiner Prime Membership with the FSI Premier Visa Signature Debit Card, offering:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Up to 50% off at over 3,000 top-tier restaurants and bars across India and Dubai&lt;/li>&lt;li class=&quot;li&quot;>Exclusive dining experiences and discounts&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-11
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;visa-dine-save&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Visa Dine and Save Program&lt;/h2>&lt;div class=&quot;p&quot;>Enjoy additional dining discounts through the Visa Dine and Save program:&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Up to 20% off at participating restaurants worldwide&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;footnote div&quot; data-attr-outputclass=&quot;footnote&quot;>&lt;div class=&quot;footnote-text p&quot; data-attr-outputclass=&quot;footnote-text&quot;>&lt;sup class=&quot;footnote-number ph sup&quot; data-attr-outputclass=&quot;footnote-number&quot;>1&lt;/sup> A GB (gigabyte) is equal to 1000 million bytes.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-13
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;danger note hazardstatement&quot; data-attr-type=&quot;danger&quot;>&lt;span class=&quot;prefix-content&quot;>Danger: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Rotating Blade&lt;/li>&lt;li class=&quot;li consequence&quot;>Risk of severe injury from moving parts in electric vehicle systems.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Ensure all power sources are disconnected before performing maintenance or servicing.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-14
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;warning note hazardstatement&quot; data-attr-type=&quot;warning&quot;>&lt;span class=&quot;prefix-content&quot;>Warning: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Hot Surfaces&lt;/li>&lt;li class=&quot;li consequence&quot;>Touching heated parts of the battery or motor may cause burns.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Always wear appropriate protective gear and allow components to cool before handling.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-15
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;caution note hazardstatement&quot; data-attr-type=&quot;caution&quot;>&lt;span class=&quot;prefix-content&quot;>Caution: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Lifting Hazard&lt;/li>&lt;li class=&quot;li consequence&quot;>Lifting heavy vehicle parts incorrectly may result in injury.&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Follow proper lifting techniques and safety guidelines.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-16
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;notice note hazardstatement&quot; data-attr-type=&quot;notice&quot;>&lt;span class=&quot;prefix-content&quot;>Notice: &lt;/span>&lt;ul class=&quot;ul messagepanel&quot;>&lt;li class=&quot;li typeofhazard&quot;>Battery Low&lt;/li>&lt;li class=&quot;li howtoavoid&quot;>Check the battery status regularly and charge the vehicle before the battery reaches critically low levels.&lt;/li>&lt;/ul>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

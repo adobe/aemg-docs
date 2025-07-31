@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.415+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Additional Information"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/additional_information.dita"
+        fmUuidOfSource="GUID-c6603892-4759-4e00-813f-0377a4bf631f"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/additional_information.dita"
+        topicUUID="GUID-c6603892-4759-4e00-813f-0377a4bf631f"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="additional_information.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;w-form-customer-guidance&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>W Form and Customer Guidance&lt;/h2>&lt;div class=&quot;p&quot;>Please click for the IRS W forms, including instructions on how to complete them.&lt;/div>&lt;div class=&quot;p&quot;>In order to provide customers with further support when completing IRS W Forms, we have provided some additional customer guidance for:&lt;/div>&lt;div class=&quot;p&quot;> &lt;b class=&quot;ph b display-inline&quot;>W-9&lt;/b>, &lt;b class=&quot;ph b display-inline&quot;>W-8BEN&lt;/b>, and &lt;b class=&quot;ph b display-inline&quot;>W-8BEN-E&lt;/b>. &lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;withholding-statements&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Withholding Statements&lt;/h2>&lt;div class=&quot;p&quot;>A range of Withholding Statements have been produced, which can be used when providing a Form W-8IMY.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;giin&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Global Intermediary Identification Numbers&lt;/h2>&lt;div class=&quot;p&quot;>FSI has published its Global Intermediary Identification Numbers (FSI GIINs).&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;fatca-country-info&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Find out more about FATCA in your country or territory&lt;/h2>&lt;div class=&quot;p&quot;>To find out more about FATCA in your country or territory (including relevant tax forms and guidance) and how it affects you, please select the appropriate business line (and country or territory, if relevant) from the navigation headings above.&lt;/div>&lt;div class=&quot;p&quot;>Country or territory pages will continue to be updated with the most recent information as it becomes available.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;div&quot;>&lt;figure class=&quot;fig&quot; data-attr-expanse=&quot;column&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>The Handshake&lt;/figcaption>&lt;span class=&quot;placement-break align-&quot;>&lt;img src=&quot;&quot; class=&quot;image&quot; data-attr-placement=&quot;break&quot;>&lt;/span>&lt;/figure>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;fatca-info-requests&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>FATCA Information Requests&lt;/h2>&lt;div class=&quot;p&quot;>We may be contacting you to request further information or documentation in order to verify your tax status under FATCA. Please note that you may receive more than one request for information if you have multiple relationships with different members of the FSI Group.&lt;/div>&lt;div class=&quot;p&quot;>It is important that you respond to all requests for tax information even if you believe you have already supplied the requested information.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div id=&quot;tax-advisor&quot; class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Tax Advisor Contact&lt;/h2>&lt;div class=&quot;p&quot;>If you have any further queries regarding FATCA or local legislation and your tax position, please contact a professional tax advisor, as FSI is unable to provide tax advice.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;drive-modes&quot;>Drive Modes&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;battery&quot;>Battery&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-10
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;cruise-control&quot;>Cruise Control&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-11
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;airbags&quot;>airbags&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

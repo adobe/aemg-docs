@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-10T20:16:43.143+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/hitech-topic"
+        dc:description="Designed with precision and crafted to perfection, providing unmatched performance."
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Multiple Column View"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/multiple-column-view.dita"
+        fmUuidOfSource="GUID-00b4e278-593c-47a6-809a-290301ebdc33"
+        indexPath="/content/aemg-docs/en/hi-tech-landing"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/hi-tech-landing"
+        mapParent="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        mapUUID="GUID-9392d343-9564-48d4-8d5c-f841619fb137"
+        preset="hi-tec"
+        presetid="hi-tec"
+        rootMapUUID="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        sitePath="/content/aemg-docs/en/hi-tech-landing"
+        siteTitle="hi-tech-landing"
+        sourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/multiple-column-view.dita"
+        topicUUID="GUID-00b4e278-593c-47a6-809a-290301ebdc33"
+        tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+        uuid="multiple-column-view.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;col-2 bodydiv&quot; data-attr-outputclass=&quot;col-2&quot;>&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Evolution of Semiconductor Manufacturing&lt;/h2>&lt;div class=&quot;p&quot;>Semiconductor manufacturing has rapidly evolved from simple transistors to highly complex integrated circuits. As demands for faster processors and smaller form factors grow, manufacturers have developed innovative fabrication techniques, such as photolithography, to etch increasingly smaller components into silicon chips. This progression has fueled advancements in computing power, mobile devices, and artificial intelligence (AI) applications.&lt;/div>&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;hello&quot;>Saying hello&lt;/span>&lt;/div>&lt;/div>&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>The Role of AI and Quantum Computing in Semiconductor Development&lt;/h2>&lt;div class=&quot;p&quot;>Artificial Intelligence (AI) and quantum computing are expected to revolutionize the semiconductor industry. AI is already being leveraged to optimize the design and manufacturing processes of chips, while quantum computing holds the potential to solve problems that classical computers cannot address. .&lt;/div>&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;pediatrcian&quot;>pediatrician&lt;/span>&lt;/div>&lt;/div>&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Challenges in Semiconductor Production&lt;/h2>&lt;div class=&quot;p&quot;>While the semiconductor industry continues to push the boundaries of innovation, challenges persist. The increasing complexity of chip designs and the need for nanometer-level precision in production have driven costs up. Additionally, supply chain disruptions, particularly the sourcing of rare materials and semiconductor fabrication equipment, remain key concerns in the industry.&lt;/div>&lt;/div>&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Aviation Industry and Advanced Flight Technologies&lt;/h2>&lt;div class=&quot;p&quot;>The aviation industry is experiencing a technological renaissance with advancements in flight technologies. From electric and hybrid aircraft to autonomous flight systems, the aviation sector is rapidly integrating cutting-edge technologies to improve efficiency, safety, and environmental sustainability.&lt;/div>&lt;/div>&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles title&quot; data-attr-outputclass=&quot;chapter_sub-titles&quot;>Electric Aircraft and Sustainable Aviation&lt;/h2>&lt;div class=&quot;p&quot;>Electric aircraft represent a significant shift toward sustainability in the aviation industry. These aircraft use battery-powered electric engines or hybrid propulsion systems, reducing their reliance on traditional jet fuel. This move aligns with global goals to reduce carbon emissions and promote cleaner, more energy-efficient travel in the skies.&lt;/div>&lt;ol class=&quot;ol&quot;>&lt;li class=&quot;li&quot;> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air&lt;/li>&lt;li class=&quot;li&quot;> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life&lt;/li>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;li class=&quot;li&quot;> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh.&lt;/li>&lt;/ol>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The officer left a note saying &lt;q class=&quot;q display-inline&quot;>You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.&lt;/q>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+                <container
+                    cq:styleIds="[1739265684209]"
+                    jcr:created="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <toc_search
+                        jcr:created="{Date}2025-02-12T14:49:46.409+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2025-07-09T18:49:58.049+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title=" "
+                        sling:resourceType="aemg-docs/components/sites-components/toc-search"
+                        helpMessage="search through the toc"
+                        hideTitle="true"
+                        id="toc-search"
+                        name="toc-search"
+                        rows="2"
+                        type="text"
+                        usePlaceholder="true"/>
+                </container>
+            </container_689917996>
+            <readingprogressbar
+                jcr:created="{Date}2025-03-10T06:25:03.187Z"
+                jcr:createdBy="krishna.mulik@deptagency.com"
+                jcr:lastModified="{Date}2025-07-09T18:49:39.279+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/readingprogressbar"/>
+            <container
+                jcr:lastModified="{Date}2025-07-09T18:49:44.919+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

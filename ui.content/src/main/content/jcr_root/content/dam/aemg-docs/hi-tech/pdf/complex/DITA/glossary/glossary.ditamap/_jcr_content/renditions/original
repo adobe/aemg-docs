@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
+<map id="_41b86af2-9b28-4bf5-9d97-66bb8d3a6745">
+  <title>glossary</title>
+  <glossref href="saying-hello.dita" keys="hello">
+  </glossref>
+  <glossref href="saying-goodbye.dita" keys="goodbye">
+  </glossref>
+  <glossref href="pediatrician.dita" keys="pediatrcian">
+  </glossref>
+</map>

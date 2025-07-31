@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_b745b412-983b-4e04-9b4e-1c098264b23a">
+  <title>Test</title>
+  <body outputclass="display_flex">
+    <section outputclass="flex_col1">
+      <p outputclass="chapter_title">Host Mode Testing Registers</p>
+      <p outputclass="chapter_title_alt">Table 1 lists the USB 2.0 registers that must be toggled to force Test J, Test K, Test SE0 NAK, and Test Packet on the respective USB ports.</p>
+    </section>
+    <section outputclass="flex_col2">
+      <div outputclass="figure_container">
+        <div outputclass="figure_content_wrapper">
+          <div outputclass="fig_content">
+            <p outputclass="desc_circle">1</p>
+            <fig id="fig_2">
+              <image href="GUID-6df9ea0a-1d01-4c96-99a4-95f125844016.png" id="image_19">
+              </image>
+            </fig>
+          </div>
+          <p outputclass="figure_info">During the characterization stage of a USB device, ensuring compliance with the relevant specifications often involves fine-tuning various hardware parameters</p>
+        </div>
+        <div outputclass="figure_content_wrapper">
+          <div outputclass="fig_content">
+            <p outputclass="desc_circle">2</p>
+            <fig id="fig_6">
+              <image href="GUID-6df9ea0a-1d01-4c96-99a4-95f125844016.png" id="image_18">
+              </image>
+            </fig>
+          </div>
+          <p outputclass="figure_info">One such parameter is the HS_CURR_LEVEL (High-Speed Current Level), which can be adjusted by directly modifying the corresponding USB register specified in Table 2 of the relevant documentation.</p>
+        </div>
+      </div>
+      <table>
+        <tgroup cols="2">
+          <colspec colname="col"/>
+          <colspec colname="col_1"/>
+          <thead>
+            <row>
+              <entry>Description</entry>
+              <entry>Register Name and Setting</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Normal Operations</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0000</entry>
+            </row>
+            <row>
+              <entry>Test J</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0001</entry>
+            </row>
+            <row>
+              <entry>Test K</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0010</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+            <row>
+              <entry>Test SE0 NAK</entry>
+              <entry>X_USB2_PHY0.CLK_PORTPMSCHS_x[31:28] = 0011</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <div outputclass="">
+        <p outputclass="chapter_body_heading">HS_CURR_LEVEL Offset Adjustment Procedure</p>
+        <p outputclass="chapter_body_description">If the default values are not suitable to the customer design, adjust the HS_CURR_LEVEL register to pass the USB HS eye diagram.</p>
+        <p outputclass="chapter_body_description"> Follow this procedure: 1. Adjust the HS_CURR_LEVEL register as described in the "Tuning Procedure and Registers" section to pass the USB HS eye diagram.</p>
+      </div>
+      <note type="caution">Do not apply a global overwrite HS_CURR_LEVEL value for all silicon. Software should read the fuse USB drive strength and add an offset to it.</note>
+    </section>
+  </body>
+</topic>

@@ -5,4 +5,7 @@
     jcr:title="Site">
     <header/>
     <footer/>
+    <Automotive/>
+    <BFSI/>
+    <Hi-Tech/>
 </jcr:root>

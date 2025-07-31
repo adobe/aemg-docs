@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8d62edb6-8476-4b19-91db-8a0a31200744">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicated_publish="{Date}2025-03-12T14:55:52.395Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}3"
+        dam:processingId="edf585f9-b81e-4e45-991d-1855e0faa253"
+        dam:processingRenditions="[cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cq5dam.preview.mp4,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2025-03-13T07:48:08.755Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-18T15:37:39.625+05:30"
+        jcr:lastModifiedBy="fmdita-serviceuser"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_173124b1-1ca4-4b46-a03b-059e7118c0d0,table_2"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Eligible Assets Evaluation and Selection Process"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.637+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/eligible-assets-evaluation-and-selection-process.dita"
+        fmUuid="GUID-1c2a0877-3844-4d66-86ba-e7fc214bf822"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,GUID-42f4bf92-c81a-4492-8669-81bc591ccb64,GUID-e2df3ea6-c6eb-4d4b-9fb7-4f9aaeeb2eee,GUID-83d8f636-3fb9-41fa-8b67-a3e0b8f8f40a,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:40.926+05:30"
+            dam:sha1="03515cd1eff9237302696682bed3ed993cdd2a2b"
+            dam:size="{Long}2925"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:00.414+05:30"
+            dc:title="Eligible Assets Evaluation and Selection Process"
+            jcr:lastModified="{Date}2025-07-18T15:37:39.624+05:30"
+            jcr:lastModifiedBy="fmdita-serviceuser"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_icon="/content/dam/aemg-docs/sites-assets/fsi/leave.png"
+            tp_image="/content/dam/aemg-docs/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

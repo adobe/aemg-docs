@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="58ea151d-c891-4f9c-9de8-6832316c0637">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}3"
+        dam:processingId="dc425e18-13ba-4384-ad92-18e7921e33c5"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.preview.mp4,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2025-03-13T14:26:22.075Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:41.675+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-1e4073d3-eed0-49cf-9d02-82e8a561e45d"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Eligible Assets Evaluation and Selection Process"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-17T12:40:00.620+05:30|/content/dam/aemg-docs/fsi/pdf/simlpe/dita/eligible-assets-evaluation-and-selection-process.dita"
+        fmUuid="GUID-1e4073d3-eed0-49cf-9d02-82e8a561e45d"
+        guidesDirectParentMaps="[GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        guidesParentMaps="[GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:39.661+05:30"
+            dam:sha1="d9129018c6913c2308a460428b7989d200e12724"
+            dam:size="{Long}4607"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:08.947+05:30"
+            dc:title="Eligible Assets Evaluation and Selection Process"
+            jcr:lastModified="{Date}2025-07-17T12:40:41.675+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

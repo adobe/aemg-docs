@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2025-03-05T09:57:52.159Z"
+        cq:lastModifiedBy="prashant.singh@deptagency.com"
+        cq:lastReplicated="{Date}2025-03-05T11:15:44.044Z"
+        cq:lastReplicated_publish="{Date}2025-03-05T11:15:44.044Z"
+        cq:lastReplicatedBy="uman.ali@deptagency.com"
+        cq:lastReplicatedBy_publish="uman.ali@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:tags="[]"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/xf-web-variation"
+        cq:xfVariantType="web"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Guides Footer"
+        jcr:uuid="47305a14-4411-46cb-8d0f-367b06a1170c"
+        sling:resourceType="aemg-docs/components/xfpage">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <guides_footer
+                jcr:created="{Date}2025-02-20T16:02:50.940+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-03-05T09:57:51.993Z"
+                jcr:lastModifiedBy="prashant.singh@deptagency.com"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/guides-footer"
+                fileReference="/content/dam/aemg-docs/sites-assets/automotive/Frame 2 (1).png"/>
+        </root>
+    </jcr:content>
+</jcr:root>

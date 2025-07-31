@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="70e7d18e-b085-4624-b5bf-1670cb9cb5ab">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}7"
+        dam:processingId="56327f7f-7f5b-4a60-af93-d12f89db350a"
+        dam:processingRenditions="[cq5dam.preview.pdf,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cq5dam.preview.mp4]"
+        dam:processingRequestedDate="{Date}2025-04-01T07:48:51.365Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:58.240+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-5c58004b-4e75-493d-b30c-7a1e16be484f.dita]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_c2cad182-2229-4225-a482-3fa0431d50e2,ol_1,messagepanel_1,example"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Dita Element"
+        fmditaXrefs="[\,GUID-5c58004b-4e75-493d-b30c-7a1e16be484f.dita#_4ed34acd-9b23-4254-a38c-558187b70da9]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-09T18:13:54.499+05:30|/content/dam/aemg-docs/hi-tech/pdf/simple/dita/dita-element.dita"
+        fmUuid="GUID-86c4589d-966e-4490-840f-96aa7909c66e"
+        guidesDirectParentMaps="[GUID-6715487f-aa47-4873-877c-c9632ca8eaf9]"
+        guidesParentMaps="[GUID-6715487f-aa47-4873-877c-c9632ca8eaf9]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:57.686+05:30"
+            dam:sha1="6b797766ff786e612f397b410c555d9b8518842e"
+            dam:size="{Long}10943"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:48.338+05:30"
+            dc:title="Dita Element"
+            jcr:lastModified="{Date}2025-07-09T18:13:58.240+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

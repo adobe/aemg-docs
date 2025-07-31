@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="4f054347-688d-4fab-9f8b-831c21b858f7">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:40.464+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_579ddb9b-e52b-41e8-b362-30f79b347bd1"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Drive Modes"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.744+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/drive-modes.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:40.125+05:30"
+            dam:sha1="081dcb4ec647bb3cfa768eb13c18b622bea30429"
+            dam:size="{Long}359"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:00.706+05:30"
+            dc:title="Drive Modes"
+            jcr:lastModified="{Date}2025-07-17T12:40:33.724+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

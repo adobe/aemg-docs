@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.430+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Purpose of the guide"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_chapter_1.dita"
+        fmUuidOfSource="GUID-80385748-a7d9-4995-a6eb-da4e41bc50cb"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_chapter_1.dita"
+        topicUUID="GUID-80385748-a7d9-4995-a6eb-da4e41bc50cb"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="hsbc_chapter_1.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;figure class=&quot;fig&quot; data-attr-expanse=&quot;column&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>The Handshake&lt;/figcaption>&lt;span class=&quot;placement-break align-&quot;>&lt;img src=&quot;&quot; class=&quot;image&quot; data-attr-placement=&quot;break&quot;>&lt;/span>&lt;/figure>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;intro_subheading div&quot; data-attr-outputclass=&quot;intro_subheading&quot;>A secondary, usually explanatory line&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The online article &lt;span class=&quot;cite display-inline&quot;>Specialization in the Darwin Information Typing Architecture&lt;/span> provides a detailed explanation of how to define new topic types.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>A &lt;em class=&quot;term display-inline&quot;>reference implementation&lt;/em> of DITA implements the standard, fallback behaviors intended for DITA elements.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;intro_content p&quot; data-attr-outputclass=&quot;intro_content&quot;> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;div&quot;>&lt;figure class=&quot;fig&quot; data-attr-expanse=&quot;column&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>The Handshake&lt;/figcaption>&lt;span class=&quot;placement-break align-&quot;>&lt;img src=&quot;&quot; class=&quot;image&quot; data-attr-placement=&quot;break&quot;>&lt;/span>&lt;/figure>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;tip note&quot; data-attr-type=&quot;tip&quot;>&lt;span class=&quot;prefix-content&quot;>Tip: &lt;/span>Tip Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;caution note&quot; data-attr-type=&quot;caution&quot;>&lt;span class=&quot;prefix-content&quot;>Caution: &lt;/span> Caution Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;danger note&quot; data-attr-type=&quot;danger&quot;>&lt;span class=&quot;prefix-content&quot;>Danger: &lt;/span>Danger Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-10
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;restriction note&quot; data-attr-type=&quot;restriction&quot;>&lt;span class=&quot;prefix-content&quot;>Restriction: &lt;/span>Restriction Note&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-11
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;text-img-text-alignment div&quot; data-attr-outputclass=&quot;text-img-text-alignment&quot;>&lt;div class=&quot;width-25 intro_content div&quot; data-attr-outputclass=&quot;width-25 intro_content&quot;> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. &lt;/div>&lt;div class=&quot;width-25 intro_content div&quot; data-attr-outputclass=&quot;width-25 intro_content&quot;> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar.&lt;/div>&lt;div class=&quot;width-25 intro_content div&quot; data-attr-outputclass=&quot;width-25 intro_content&quot;> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. &lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-12
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;intro_content div&quot; data-attr-outputclass=&quot;intro_content&quot;> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-13
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;ffi&quot;>Foreign Financial Institution (FFI)&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-14
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;iga&quot;>Inter-Governmental Agreement (IGA)&lt;/span>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-15
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;> &lt;span class=&quot;read-only term abbreviated-form tcx-empty-element display-inline&quot; data-tcx-resolve-prefix=&quot;true&quot; data-attr-keyref=&quot;tin&quot;>Tax Identification Number (TIN)&lt;/span> &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-16
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;div&quot;> &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-17
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;footnote div&quot; data-attr-outputclass=&quot;footnote&quot;>&lt;div class=&quot;footnote-text p&quot; data-attr-outputclass=&quot;footnote-text&quot;>&lt;sup class=&quot;footnote-number ph sup&quot; data-attr-outputclass=&quot;footnote-number&quot;>1&lt;/sup> A GB (gigabyte) is equal to 1000 million bytes.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>
