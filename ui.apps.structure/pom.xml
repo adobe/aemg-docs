@@ -35,7 +35,7 @@
                         <filter><root>/apps</root></filter>
                         <filter><root>/apps/aemg-docs</root></filter>
 
-                        <!-- Common overlay roots -->
+                         <!-- Common overlay roots -->
                         <filter><root>/apps/sling</root></filter>
                         <filter><root>/apps/cq</root></filter>
                         <filter><root>/apps/dam</root></filter>
