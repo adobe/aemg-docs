@@ -2,7 +2,11 @@
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
+<<<<<<<< HEAD:ui.content/src/main/content/jcr_root/conf/guides/templates/fsi/settings/wcm/templates/fsi-guides-search-page/initial/.content.xml
         cq:template="/conf/guides/templates/fsi/settings/wcm/templates/fsi-guides-search-page"
+========
+        cq:template="/conf/guides/templates/hitech/settings/wcm/templates/hi-tech-guides-search-page"
+>>>>>>>> upstream/develop:ui.content/src/main/content/jcr_root/content/guides/hitech/en/en_us/v4/search/.content.xml
         jcr:primaryType="cq:PageContent"
         sling:resourceType="guides-components/components/guides-pages/fsi/fsi-guides-search-page"
         hideInNav="{Boolean}true">
