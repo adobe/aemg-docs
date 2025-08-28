@@ -37,7 +37,7 @@
                 disableShadowing="false"
                 filterSearchIcon="/content/dam/guides/common-images/icons/search.svg"
                 arrowIcon="/content/dam/guides/common-images/icons/bx_chevron-right.svg"
-                collapseIcon="/content/dam/guides/common-images/icons/collapse-icon.png"
+                collapseIcon="/content/dam/guides/common-images/icons/collapse-icon.svg"
                 navigationRoot="/content/guides/manufacturing"
                 structureStart="4"/>
             <version-selector
