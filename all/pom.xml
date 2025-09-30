@@ -72,7 +72,7 @@
                             <groupId>com.adobe.aem.dxml.aemgdocs</groupId>
                             <artifactId>aemg-docs.ui.content</artifactId>
                             <type>zip</type>
-                            <target>/apps/aemg-docs-packages/content/install</target>
+                            <target>/apps/aemg-docs-packages/application/install</target>
                         </embedded>
                         <embedded>
                             <groupId>com.adobe.aem.dxml.aemgdocs</groupId>
