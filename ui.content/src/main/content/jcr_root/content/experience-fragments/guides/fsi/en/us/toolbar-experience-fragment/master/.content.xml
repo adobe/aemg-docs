@@ -34,7 +34,7 @@
                 disableShadowing="false"
                 filterSearchIcon="/content/dam/guides/common-images/icons/search.svg"
                 arrowIcon="/content/dam/guides/common-images/icons/ch-right-arrow.svg"
-                collapseIcon="/content/dam/guides/common-images/icons/collapse-icon.png"
+                collapseIcon="/content/dam/guides/common-images/icons/collapse-icon.svg"
                 navigationRoot="/content/guides/fsi"
                 structureStart="4"/>
             <version-selector
