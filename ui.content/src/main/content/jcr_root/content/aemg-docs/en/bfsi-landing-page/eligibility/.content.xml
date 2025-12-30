@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.431+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Eligible Categories"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/eligibility.dita"
+        fmUuidOfSource="GUID-36efc796-e4f9-4b4e-b512-1622f5ae2aed"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/eligibility.dita"
+        topicUUID="GUID-36efc796-e4f9-4b4e-b512-1622f5ae2aed"
+        tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png"
+        uuid="eligibility.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;shortdesc&quot;>The below table sets out the list of eligible categories together with the eligibility criteria for each category and examples of any relevant exclusions.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;caption class=&quot; title&quot;>Eligible Categories&lt;/caption>&lt;colgroup>&lt;col name=&quot;col1&quot; style=&quot;width: 20%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;20*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; style=&quot;width: 20%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;20*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; style=&quot;width: 30%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;30*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col4&quot; style=&quot;width: 30%&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-colwidth=&quot;30*&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Sustainable Development Goal&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>ICMA GBP Project Category&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>Eligibility Criteria&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>Examples/Exclusions&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>SDG 7: Affordable and Clean Energy&lt;div class=&quot;div&quot;> &lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_4&quot; class=&quot;table_img image&quot; data-attr-outputclass=&quot;table_img&quot; data-attr-placement=&quot;inline&quot;>&lt;/span> &lt;/div>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>Renewable Energy&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Generation of energy from renewable sources&lt;/li>&lt;li class=&quot;li&quot;>Development, manufacturing, construction, operation and maintenance of renewable energy generation sources/technologies and its components&lt;/li>&lt;li class=&quot;li&quot;>Construction/expansion of associated distribution networks&lt;/li>&lt;/ul>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>&lt;div class=&quot;p&quot;>&lt;b class=&quot;ph b display-inline&quot;>Examples:&lt;/b>&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Wind (onshore and offshore), solar (solar photovoltaic and concentrated solar heat and power generation (CSP) projects), marine renewable projects for heating and cooling such as ocean thermals, tidal, geothermal, hydropower, green hydrogen produced using electrolysis of water with electricity generated by renewable energy, and biomass energy&lt;/li>&lt;/ul>&lt;div class=&quot;p&quot;>&lt;b class=&quot;ph b display-inline&quot;>Exclusions, include, but are not limited to:&lt;/b>&lt;/div>&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;>Projects with direct lifecycle emissions of over 100gCO2/kWh&lt;/li>&lt;li class=&quot;li&quot;>Concentrated solar heat and power generation where less than 85 per cent of the electricity generated from the facility is derived from solar energy sources&lt;/li>&lt;/ul>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The officer left a note saying &lt;q class=&quot;q display-inline&quot;>You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.&lt;/q>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;caption class=&quot; title&quot;> Advanced EV Comparison&lt;/caption>&lt;colgroup>&lt;col name=&quot;col1&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col4&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col5&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col6&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Vehicle Type&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>Battery Capacity (kWh)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>Range (miles)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>Charging Time (hours)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>CO₂ Emissions (g/km)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>Cost per Charge ($)&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Battery Electric Vehicle (BEV)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>75&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>250&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>6&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>0&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>15&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Plug-in Hybrid Electric Vehicle (PHEV)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>18&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>2.5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>10&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Hybrid Electric Vehicle (HEV)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>0&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>450+&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>n/a&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>90&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>8&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Electric Vehicle Group (BEV + PHEV)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>93&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>290&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>8.5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>12.5&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>&lt;b class=&quot;ph b display-inline&quot;>Total&lt;/b>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>–&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>All Eligible Assets will, to the extent applicable, adhere to the FSI Group's specific sustainability risk policies, including those covering agricultural commodities, chemicals, energy, forestry, mining and metals, thermal coal phase out, &lt;b class=&quot;ph b display-inline&quot;>UNESCO&lt;/b> World Heritage Sites and Ramsar-designated wetlands. We also apply the Equator Principles when financing relevant projects.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;ol_container div&quot; data-attr-outputclass=&quot;ol_container&quot;>&lt;div class=&quot;p&quot;>Best First-Person Shooters&lt;/div>&lt;ol class=&quot;ol&quot;>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Half-Life 2&lt;/b> Fight aliens, wear a head crab, learn about gravity &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Halo: Combat Evolved&lt;/b> Fight aliens, wear an AI, learn about screen peeking siblings &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Team Fortress 2&lt;/b> Fight non-alien residents, wear hats, learn about teamwork &lt;/li>&lt;li class=&quot;li&quot;> &lt;b class=&quot;ph b display-inline&quot;>Tribes&lt;/b> Ski, slip, and slide your way to victory &lt;/li>&lt;/ol>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>These policies can be found on FSI website: &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;dl class=&quot;dl&quot;>&lt;div class=&quot;dlhead&quot;>&lt;dt class=&quot;dthd&quot;>Image File View Selection&lt;/dt>&lt;dd class=&quot;ddhd&quot;>Resulting Information&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>File Type&lt;/dt>&lt;dd class=&quot;dd&quot;>Image's file extension&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Image Class&lt;/dt>&lt;dd class=&quot;dd&quot;>Image is raster, vector, metafile or 3D&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Number of pages&lt;/dt>&lt;dd class=&quot;dd&quot;>Number of pages in the image&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Fonts&lt;/dt>&lt;dd class=&quot;dd&quot;>Names of the fonts contained within a vector image&lt;/dd>&lt;/div>&lt;/dl>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;remove_padding p&quot; data-attr-outputclass=&quot;remove_padding&quot;> &lt;a class=&quot;xref tcx-empty-element&quot; data-tcx-resolve-prefix=&quot;true&quot; href=&quot;https://www.fsi.com/our-approach/risk-and-responsibility/sustainability-risk&quot; data-attr-href=&quot;https://www.fsi.com/our-approach/risk-and-responsibility/sustainability-risk&quot; data-attr-scope=&quot;external&quot;>https://www.fsi.com/our-approach/risk-and-responsibility/sustainability-risk&lt;/a>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

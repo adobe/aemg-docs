@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8df72ac4-b614-4a55-9bef-80e63f2f025b">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}29"
+        dam:processingId="7059c7d9-0985-4c29-89a0-2564bd04d7c0"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cq5dam.preview.pdf,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cqdam.metadata.xml,cq5dam.preview.mp4]"
+        dam:processingRequestedDate="{Date}2025-03-17T14:06:08.175Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:58.210+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-931320d8-b562-44b0-9789-94ef66376945.png]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-9495ed6b-25ac-43f7-8dca-f93f5fbb5f8f,fig_2,image_2"
+        fmditaImages="[\,GUID-931320d8-b562-44b0-9789-94ef66376945.png]"
+        fmditaObjects="[]"
+        fmditaTitle="Preferred Tools for USB Characterization at HiTech"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-09T18:13:54.671+05:30|/content/dam/aemg-docs/hi-tech/pdf/simple/dita/preferred-tools.dita"
+        fmUuid="GUID-9495ed6b-25ac-43f7-8dca-f93f5fbb5f8f"
+        guidesDirectParentMaps="[GUID-6715487f-aa47-4873-877c-c9632ca8eaf9]"
+        guidesParentMaps="[GUID-6715487f-aa47-4873-877c-c9632ca8eaf9]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:57.515+05:30"
+            dam:sha1="826389f21f68c3a994f84c89c8e0af74780ac7f7"
+            dam:size="{Long}2544"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:48.159+05:30"
+            dc:title="Preferred Tools for USB Characterization at HiTech"
+            jcr:lastModified="{Date}2025-07-09T18:13:58.210+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

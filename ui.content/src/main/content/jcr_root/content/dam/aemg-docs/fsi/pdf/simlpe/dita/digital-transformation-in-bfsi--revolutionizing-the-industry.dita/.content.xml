@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f41c1c92-462b-4682-91ba-f38511bd9fc4">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}22"
+        dam:processingId="dbcc5bdf-db5c-4ca1-a04b-2904054b02af"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cq5dam.preview.mp4,cqdam.machine.metadata.tags.json,cq5dam.preview.pdf,cqdam.metadata.xml,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2025-03-13T14:32:32.581Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.387+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-55007b7e-67eb-480a-b525-8172b3ba0a40"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Digital Transformation in BFSI: Revolutionizing the Industry"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-17T12:40:00.456+05:30|/content/dam/aemg-docs/fsi/pdf/simlpe/dita/digital-transformation-in-bfsi--revolutionizing-the-industry.dita"
+        fmUuid="GUID-55007b7e-67eb-480a-b525-8172b3ba0a40"
+        guidesDirectParentMaps="[GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        guidesParentMaps="[GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:40.828+05:30"
+            dam:sha1="22100b0f180128d39c531077c5ad1d68dbebde2d"
+            dam:size="{Long}4512"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:08.352+05:30"
+            dc:title="Digital Transformation in BFSI: Revolutionizing the Industry"
+            jcr:lastModified="{Date}2025-07-17T12:40:42.387+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

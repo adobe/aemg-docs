@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-469b1df4-f3bd-4b7c-8235-e15b12f415a9">
+  <title>Testing </title>
+  <bookmeta>
+    <linktext/>
+    <critdates>
+      <created date="2024"/>
+    </critdates>
+    <prodinfo>
+      <prodname> Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="2024.38"/>
+      </vrmlist>
+      <brand>FSI Brand</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2013</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>XYZ</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+    <mapref format="ditamap" href="GUID-0175e121-4ce3-4d5e-988b-4af2ae0fc01b.ditamap" type="map">
+    </mapref>
+  </frontmatter>
+  <chapter href="GUID-b8a9b6db-8a24-4ffa-80cc-5fd454dd4ebd.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-f54c8a13-af03-4242-b7bf-26814515125c.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3d14c636-4855-4ae1-a059-5d403195614f.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-13e64298-e5c1-4aea-84d5-af15fa5ce519.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-49a27471-39f8-4bf9-bd54-49d385e24fd6.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-b8a9b6db-8a24-4ffa-80cc-5fd454dd4ebd.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3d14c636-4855-4ae1-a059-5d403195614f.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-f54c8a13-af03-4242-b7bf-26814515125c.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-f54c8a13-af03-4242-b7bf-26814515125c.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-f54c8a13-af03-4242-b7bf-26814515125c.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-f54c8a13-af03-4242-b7bf-26814515125c.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-b8a9b6db-8a24-4ffa-80cc-5fd454dd4ebd.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3d14c636-4855-4ae1-a059-5d403195614f.dita" type="topic">
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist/>
+      <glossarylist>
+      </glossarylist>
+    </booklists>
+  </backmatter>
+</bookmap>

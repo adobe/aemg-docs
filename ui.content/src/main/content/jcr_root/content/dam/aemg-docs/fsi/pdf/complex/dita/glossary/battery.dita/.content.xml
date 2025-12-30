@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="0cd9583c-976b-442b-b788-7ad3f52e1d62">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:41.945+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_74094364-669d-4ed6-bc1b-9b90eec2481d"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Battery"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.723+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/battery.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:39.770+05:30"
+            dam:sha1="7f33763cc6fdc28cc8471997a5e45c3d1470851e"
+            dam:size="{Long}334"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:07.462+05:30"
+            dc:title="Battery"
+            jcr:lastModified="{Date}2025-07-17T12:40:41.945+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

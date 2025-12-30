@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-10T21:24:38.546+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/hitech-topic"
+        dc:description="A seamless blend of innovation and creativity, delivering exceptional results"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="USB 2.0 Tuning Guide"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/usb-2-0-tuning-guide.dita"
+        fmUuidOfSource="GUID-9e3d9cb5-3d1d-4c75-91c9-c5901d71e3f3"
+        indexPath="/content/aemg-docs/en/hi-tech-landing"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/hi-tech-landing"
+        mapParent="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        mapUUID="GUID-9392d343-9564-48d4-8d5c-f841619fb137"
+        preset="hi-tec"
+        presetid="hi-tec"
+        rootMapUUID="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        sitePath="/content/aemg-docs/en/hi-tech-landing"
+        siteTitle="hi-tech-landing"
+        sourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/usb-2-0-tuning-guide.dita"
+        topicUUID="GUID-9e3d9cb5-3d1d-4c75-91c9-c5901d71e3f3"
+        tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+        uuid="usb-2-0-tuning-guide.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:lastModified="{Date}2025-07-10T21:24:38.537+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        id="topic-body"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section&quot;>&lt;h2 class=&quot;chapter_sub-titles chapter_sub-titles-landscape title&quot; data-attr-outputclass=&quot;chapter_sub-titles chapter_sub-titles-landscape&quot;>The all-new AI-Driven Quantum Processor&lt;/h2>&lt;div class=&quot;Images-content-section-container Images-content-section-container-landscape div&quot; data-attr-outputclass=&quot;Images-content-section-container Images-content-section-container-landscape&quot;>&lt;div class=&quot;content-figure-image content-figure-image-landscape div&quot; data-attr-outputclass=&quot;content-figure-image content-figure-image-landscape&quot;>&lt;figure id=&quot;fig_2&quot; class=&quot;fig&quot;>&lt;figcaption class=&quot;title&quot;>&lt;span class=&quot;prefix-content&quot;>Figure: &lt;/span>Full Speed Device with pull up resistor connected to D+&lt;/figcaption>&lt;div class=&quot;images-main-container images-main-container-landscape div&quot; data-attr-outputclass=&quot;images-main-container images-main-container-landscape&quot;>&lt;div class=&quot;image-num-container image-num-container-landscape div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape&quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>1&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_21&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;div class=&quot;image-num-container image-num-container-landscape div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape&quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>2&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_18&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;div class=&quot;image-num-container image-num-container-landscape  div&quot; data-attr-outputclass=&quot;image-num-container image-num-container-landscape &quot;>&lt;div class=&quot;number number-landscape p&quot; data-attr-outputclass=&quot;number number-landscape&quot;>3&lt;/div>&lt;span class=&quot;placement-inline align-&quot;>&lt;img src=&quot;&quot; id=&quot;image_17&quot; class=&quot;resistor-image resistor-image-landscape image&quot; data-attr-outputclass=&quot;resistor-image resistor-image-landscape&quot; data-attr-placement=&quot;inline&quot;>&lt;/span>&lt;/div>&lt;/div>&lt;/figure>&lt;/div>&lt;div class=&quot;content-section content-section-landscape div&quot; data-attr-outputclass=&quot;content-section content-section-landscape&quot;>&lt;div class=&quot;p&quot;>The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics.&lt;/div>&lt;div class=&quot;p&quot;>The Quantum Processor is engineered with cutting-edge precision, utilizing AI-driven design to optimize for speed, efficiency, and energy consumption. Every component is meticulously crafted using smart manufacturing technologies that incorporate robotics, automation, and predictive analytics. &lt;/div>&lt;/div>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;tip note&quot; data-attr-type=&quot;tip&quot;>&lt;span class=&quot;prefix-content&quot;>Tip: &lt;/span>This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>The online article &lt;span class=&quot;cite display-inline&quot;>Specialization in the Darwin Information Typing Architecture&lt;/span> provides a detailed explanation of how to define new topic types.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air&lt;ul class=&quot;ul&quot;>&lt;li class=&quot;li&quot;> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air&lt;/li>&lt;li class=&quot;li&quot;> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life&lt;/li>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;li class=&quot;li&quot;> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .&lt;/li>&lt;/ul>&lt;/li>&lt;li class=&quot;li&quot;> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life&lt;/li>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;li class=&quot;li&quot;> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .&lt;/li>&lt;/ul>&lt;/li>&lt;li class=&quot;li&quot;> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life&lt;/li>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;li class=&quot;li&quot;> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .&lt;ol id=&quot;ol_1&quot; class=&quot;ol&quot;>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;li class=&quot;li&quot;> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky&lt;/li>&lt;/ol>&lt;/li>&lt;/ul>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@admin&quot; class=&quot;section&quot;>&lt;h2 class=&quot;title&quot;>System Configuration Settings ? For admin&lt;/h2>&lt;div class=&quot;p&quot;>Admins can configure the database connection parameters under Settings &amp;gt; System &amp;gt; Database.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@end-user&quot; class=&quot;section&quot;>&lt;h2 class=&quot;title&quot;>Getting Started ? For end-user&lt;/h2>&lt;div class=&quot;p&quot;>After logging in, users can explore available features from the Dashboard.&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;dynamicpdf bodydiv&quot; data-attr-outputclass=&quot;dynamicpdf&quot;> &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+                <container
+                    cq:styleIds="[1739265684209]"
+                    jcr:created="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <toc_search
+                        jcr:created="{Date}2025-02-12T14:49:46.409+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2025-07-09T18:49:58.049+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title=" "
+                        sling:resourceType="aemg-docs/components/sites-components/toc-search"
+                        helpMessage="search through the toc"
+                        hideTitle="true"
+                        id="toc-search"
+                        name="toc-search"
+                        rows="2"
+                        type="text"
+                        usePlaceholder="true"/>
+                </container>
+            </container_689917996>
+            <readingprogressbar
+                jcr:created="{Date}2025-03-10T06:25:03.187Z"
+                jcr:createdBy="krishna.mulik@deptagency.com"
+                jcr:lastModified="{Date}2025-07-09T18:49:39.279+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/readingprogressbar"/>
+            <container
+                jcr:lastModified="{Date}2025-07-09T18:49:44.919+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

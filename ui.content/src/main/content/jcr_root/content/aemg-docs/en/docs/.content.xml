@@ -67,14 +67,12 @@
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="guides-components/components/categorylist"
                         id="tiles-container2"
-                        layout="responsiveGrid">
-                    </container_copy>
+                        layout="responsiveGrid"/>
                     <container
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="core/wcm/components/container/v1/container"
                         id="refs-title-container"
-                        layout="responsiveGrid">
-                    </container>
+                        layout="responsiveGrid"/>
                 </container>
             </container>
         </root>

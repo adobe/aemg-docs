@@ -1,0 +1,104 @@
+   Dita Element
+     This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.
+     The online article  Specialization in the Darwin Information Typing Architecture provides a detailed explanation of how to define new topic types.
+        The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+            The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+                The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+                As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life
+                In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+                The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .
+            As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life
+            In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+            The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .
+        As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life
+        In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+        The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .
+            In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+            In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+         Autumn
+         Autumn is the season when the leaves change color, the air becomes crisp, and the days grow shorter, signaling the transition from summer to winter.
+         Ocean
+         The ocean is a vast and mysterious body of water that covers over 70% of the Earth's surface, home to countless marine species and shaping the planet's climate and weather patterns.
+         Mountains
+         Mountains are large landforms that rise prominently above the surrounding terrain, often formed by tectonic forces and erosion, and they can provide breathtaking views and a wide variety of ecosystems.
+         Technology
+         Technology refers to the application of scientific knowledge for practical purposes, often leading to the creation of tools, machines, and systems that improve human life and advance various industries.
+         Solar System
+         The Solar System consists of the Sun and all the objects bound by its gravity, including planets, moons, asteroids, and comets, all of which move in elliptical orbits around the Sun.
+        The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+        As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life
+        In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky
+        The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh.
+     The officer left a note saying  You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.
+     The advantages of using    DB2 Universal Database are well known.
+     This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.
+     Please be cautious and ensure that you double-check all the details before proceeding, as any small mistake could lead to unexpected complications or errors.
+     This is a dangerous warning that should not be ignored under any circumstances; failure to follow the guidelines provided here could result in serious consequences or harm to yourself or others.
+     There are certain restrictions you must adhere to in this situation, as failing to follow the rules could lead to delays, issues, or violations of legal or organizational policies.
+         Rotating blade.
+         Moving parts can crush and cut.
+         Follow lockout procedure before servicing.
+         Hot surfaces inside.
+         Contact might cause burn.
+         Wear protective gear before servicing internal parts.
+         Battery low
+         Push and hold for charge state test.
+         Lifting Hazard. 
+         Might result in injury.
+          See safety manual for lifting instructions.
+      global goals to reduce   italicized  carbon emissions and promote 
+      Caution: Indicates a potentially hazardous situation which, if not avoided,  might result in minor or moderate injury.
+     Autonomous flight systems are poised   This is a demo with overline  to transform 
+      chips requires This text is crossed out with line-through rigorous 
+         Might result in injury.
+         Lifting Hazard
+         See safety manual for lifting instructions.
+      Advanced Technologies in Semiconductor and Aviation Industries 
+     A  reference implementation of DITA implements the standard, fallback behaviors intended for DITA elements.
+     The memory storage capacity of the computer is 2 GB 1 with error correcting support.
+      1 A GB (gigabyte) is equal to 1000 million bytes.
+/* html code give below */
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Page Title</title>
+</head>
+<body>
+  <h1>My First Heading</h1>
+  <p>My first paragraph.</p>
+</body>
+</html>
+/* Css code give below */
+body {
+background-color: lightblue;
+}
+h1 {
+color: white;
+text-align: center;
+}
+p {
+font-family: verdana;
+}
+/* Js code give below */
+let arr = ["scale", "happy", "strength", "peace", "happy", "happy"];
+// Function to remove duplicates from an array
+function removeDuplicates(arr) {
+return arr.filter((item, index) => arr.indexOf(item) === index);
+}
+// Display the original array
+document.getElementById("originalArray").innerText = arr;
+// Remove duplicates and display the modified array
+let uniqueArr = removeDuplicates(arr);
+document.getElementById("uniqueArray").innerText = uniqueArr;
+// Also log the result to the console
+console.log(uniqueArr);
+     Make sure that the screen displays  File successfully created before proceeding to the next stage of the task.
+     The power produced by the electrohydraulic dam was 10 10 more than the older electric plant. The difference was H 2O.
+     Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+and summer's lease hath all too short a date...
+     A  reference implementation of DITA implements the standard, fallback behaviors intended for DITA elements.
+       Example: Using the P Element
+       This is an example of how to use the P element in HTML to create paragraphs.
+     MEMO: Automotive Team Fun Day Remember to bring your favorite car care tool, racing gloves, or other automotive gear to tomorrow's fun day outing at Speedway Park. Volunteers needed for the pit stop challenge.

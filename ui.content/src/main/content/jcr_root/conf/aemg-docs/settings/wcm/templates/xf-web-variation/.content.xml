@@ -2,9 +2,17 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-02-27T09:38:27.799Z"
+        cq:lastReplicated_publish="{Date}2025-02-27T09:38:27.799Z"
+        cq:lastReplicatedBy="sadhna.singh@deptagency.com"
+        cq:lastReplicatedBy_publish="sadhna.singh@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:templateType="/conf/aemg-docs/settings/wcm/template-types/xf"
         jcr:description="My Site Experience Fragment Template"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Header footer"
+        jcr:title="Web Variation"
         status="enabled"/>
 </jcr:root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="57b8d139-d8a7-4530-a350-1b536e2f2713">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:36.611+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_b9f1bbbe-ce18-42d0-8474-812d2390b30c"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Financial Product Highlight"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:40:01.447+05:30|/content/dam/aemg-docs/fsi/pdf/simlpe/dita/vehicle-highlight.dita"
+        guidesDirectParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap]"
+        guidesParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:36.564+05:30"
+            dam:sha1="5b6641937aafb7298122d5cfff696e8bb3e96558"
+            dam:size="{Long}3897"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:14.316+05:30"
+            dc:title="Vehicle Highlight"
+            jcr:lastModified="{Date}2025-07-17T12:40:34.202+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

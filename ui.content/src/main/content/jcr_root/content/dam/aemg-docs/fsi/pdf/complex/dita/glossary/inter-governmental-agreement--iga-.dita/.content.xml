@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="112c25ef-f9ee-451e-b2bd-275cdd5944c2">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:37.719+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_679d8771-3d87-4738-aec9-31bc352ff754"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Inter-Governmental Agreement (IGA)"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:39:57.774+05:30|/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/inter-governmental-agreement--iga-.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/fsi/pdf/complex/dita/hsbc_complex.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/glossary/glossary.ditamap,/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap,/content/dam/aemguidesDALP/fsi/pdf/complex/dita/hsbc_complex.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:37.660+05:30"
+            dam:sha1="6c08ef9b4aedfa55ff87a92f30f3b2b894e7df9b"
+            dam:size="{Long}436"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:06.020+05:30"
+            dc:title="Inter-Governmental Agreement (IGA)"
+            jcr:lastModified="{Date}2025-07-17T12:40:34.032+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

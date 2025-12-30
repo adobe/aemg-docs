@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7fe5a276-6822-4904-9295-35a20dbe9afd">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:41.945+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_4ed34acd-9b23-4254-a38c-558187b70da9"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Sustainable Finance and Smart Integration in BFSI"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-17T12:40:01.358+05:30|/content/dam/aemg-docs/fsi/pdf/simlpe/dita/sustainable-finance.dita"
+        guidesDirectParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap]"
+        guidesParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:40.686+05:30"
+            dam:sha1="842e3ffa09ee5fd72607d6b1ce3ab7d6adb8ef99"
+            dam:size="{Long}4238"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:14.226+05:30"
+            dc:title="Sustainable Finance"
+            jcr:lastModified="{Date}2025-07-17T12:40:41.945+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

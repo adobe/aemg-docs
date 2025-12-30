@@ -1,0 +1,127 @@
+   Advance Technology Camprison
+       Table: Advanced Technology Comparison
+             Technology Type
+             Processing Power (TFLOPS)
+             Energy Efficiency (W/TFLOP)
+             Latency (ms)
+             CO₂ Emissions (g/kWh)
+             Cost per Unit ($)
+             AI Accelerator (ASIC)
+             200
+             20
+             2
+             50
+             3000
+             Quantum Computer (QPU)
+             500
+             40
+             5
+             30
+             10000
+             High-Performance GPU
+             80
+             100
+             10
+             75
+             1200
+             Quantum Tech Group
+             780
+             60
+             5.7
+             45
+             2500
+              Total
+             –
+             –
+             –
+             –
+             –
+       Table: Camparing between two tables
+             Technology Type
+             Processing Power (TFLOPS)
+             Energy Efficiency (W/TFLOP)
+             Latency (ms)
+             CO₂ Emissions (g/kWh)
+             Cost per Unit ($)
+             AI Accelerator (ASIC)
+             200
+             20
+             2
+             50
+             3000
+             Quantum Computer (QPU)
+             500
+             40
+             5
+             30
+             10000
+             High-Performance GPU
+             80
+             100
+             10
+             75
+             1200
+             Quantum Tech Group
+             780
+             60
+             5.7
+             45
+             2500
+              Total
+             –
+             –
+             –
+             –
+             –
+         Dummy table
+               Technology Type
+               Processing Power (TFLOPS)
+               Energy Efficiency (W/TFLOP)
+               Latency (ms)
+               CO₂ Emissions (g/kWh)
+               Cost per Unit ($)
+               AI Accelerator (ASIC)
+               200
+               20
+               2
+               50
+               3000
+               Quantum Computer (QPU)
+               500
+               40
+               5
+               30
+               10000
+               High-Performance GPU
+               80
+               100
+               10
+               75
+               1200
+               Quantum Tech Group
+               780
+               60
+               5.7
+               45
+               2500
+                Total
+               –
+               –
+               –
+               –
+               –
+         Autumn
+         Autumn is the season when the leaves change color, the air becomes crisp, and the days grow shorter, signaling the transition from summer to winter.
+         Ocean
+         The ocean is a vast and mysterious body of water that covers over 70% of the Earth's surface, home to countless marine species and shaping the planet's climate and weather patterns.
+         Mountains
+         Mountains are large landforms that rise prominently above the surrounding terrain, often formed by tectonic forces and erosion, and they can provide breathtaking views and a wide variety of ecosystems.
+         Technology
+         Technology refers to the application of scientific knowledge for practical purposes, often leading to the creation of tools, machines, and systems that improve human life and advance various industries.
+         Solar System
+         The Solar System consists of the Sun and all the objects bound by its gravity, including planets, moons, asteroids, and comets, all of which move in elliptical orbits around the Sun.
+      Combining two thing audience and platform and the attribute is admin and mobile respectivelyt
+      Admins on mobile: Tap "Settings" > "Manage Users." 
+      Admins on desktop: Click "Admin Panel" > "User Management." 
+      Users on mobile: Tap "Profile" to update information. 
+      Users on desktop: Click your name at the top to update profile details. 

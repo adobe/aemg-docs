@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f85e6771-6b66-4c7f-8c20-a447889f5d24">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}8"
+        dam:processingId="f0d46e4f-716b-43a4-928c-fde9f976bd32"
+        dam:processingRenditions="[cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.preview.mp4,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cqdam.metadata.xml,cqdam.machine.metadata.features.json,cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2025-03-27T13:15:04.101Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:41.660+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_ac784bce-00e1-4f35-85ca-bc8a6e8c4bb0"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Dita_elements"
+        fmditaXrefs="[\,https://www.oxygenxml.com/dita/1.3/specs/langRef/base/dl.html]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-17T12:39:58.912+05:30|/content/dam/aemg-docs/fsi/pdf/medium/dita/ditaelement.dita"
+        fmUuid="GUID-9f85eb2d-2c91-452e-862b-e052dca752d1"
+        guidesDirectParentMaps="[GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba]"
+        guidesParentMaps="[GUID-7612fe3c-5fcf-4807-9478-34a3fc3543ba]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.997+05:30"
+            dam:sha1="70401370ca0b8240bfbf2d6d23af71e6713de4e6"
+            dam:size="{Long}8051"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:08.083+05:30"
+            dc:title="Dita_elements"
+            jcr:lastModified="{Date}2025-07-17T12:40:41.660+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_button="Know More"
+            tp_image="/content/dam/aemguidesDALP/sites-assets/fsi/leave.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

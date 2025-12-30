@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f5a94d3c-f274-4d01-a4bb-7256449276aa">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}1"
+        dam:processingId="dd2879cd-55cd-483c-8f3b-b4cae3725201"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cq5dam.preview.pdf,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cq5dam.preview.mp4]"
+        dam:processingRequestedDate="{Date}2025-04-14T10:14:23.030Z"
+        dam:runDMProcess="{Boolean}false"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:42.277+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.0"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        fmUuid="GUID-4f6e5f12-3673-426f-9803-5b72b54ea8a4">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:38.523+05:30"
+            dam:sha1="b524c3b453cbc53525d31546919d033cca322e01"
+            dam:size="{Long}212"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:08.547+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-17T12:40:42.277+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd">
+<map id="_e80260e2-2b71-4bc5-a915-fdff7d0fa5d9">
+  <title>glossmap</title>
+  <glossref href="GUID-419218df-72dc-4e2e-8ec7-430adcfde7cc.dita" keys="hud">
+  </glossref>
+  <glossref href="GUID-048c19b4-77db-4882-abbe-95eb0667e66d.dita" keys="fi">
+  </glossref>
+  <glossref href="GUID-e04bf2b6-382f-44cd-aaed-5546cb14aae5.dita" keys="test" type="glossentry">
+  </glossref>
+</map>

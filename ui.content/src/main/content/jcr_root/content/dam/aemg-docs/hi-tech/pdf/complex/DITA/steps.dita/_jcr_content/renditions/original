@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd">
+<task id="_9f86748f-b527-42a5-99f6-77e54a1f3e7f">
+  <title>Task</title>
+  <taskbody>
+<context>Once you have set up SQLJ, you need to create a new SQLJ file.</context>
+<steps>
+<step>
+ <cmd>Select</cmd>
+ <info>New files are created with default values based on a standard template.</info>
+</step>
+  <step>
+ <cmd>Delete</cmd>
+ <info>old files are created with default values based on a standard template.</info>
+</step>
+  <step>
+ <cmd>Save </cmd>
+ <info>old files are save with default values based on a standard template.</info>
+</step>
+</steps>
+</taskbody>
+</task>

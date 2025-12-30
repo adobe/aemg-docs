@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8ff8db9f-d195-477e-99fa-4c95d3aff0ab">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-05T11:27:29.484Z"
+        cq:lastReplicated_publish="{Date}2025-03-05T11:27:29.484Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="advanced-technology-comparison.dita"
+        cq:parentPath="/content/dam/aemg-docs/hi-tech/pdf/medium/dita"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}8"
+        dam:processingId="abdc9c35-22e4-4ed2-bc97-7c53bfe18819"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.preview.pdf,cq5dam.preview.mp4,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2025-03-12T07:13:55.497Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.252+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="jcr:rootVersion"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_728d536e-5563-4566-a7d0-494f7720a913"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Testing of Advanced Technology Comparison"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-09T18:13:53.703+05:30|/content/dam/aemg-docs/hi-tech/pdf/medium/dita/advanced-technology-comparison.dita"
+        fmUuid="GUID-788d93b0-1a1e-4e9e-a492-661290c1a59d"
+        guidesDirectParentMaps="[GUID-2b774578-7f32-4bd6-810c-09881bb27f9f]"
+        guidesParentMaps="[GUID-2b774578-7f32-4bd6-810c-09881bb27f9f]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:54.515+05:30"
+            dam:sha1="27df15ea1d4d1a7a977591041bacc7ebca0e0d8f"
+            dam:size="{Long}2852"
+            dc:description="This guide details the standards for providing green loans to finance sustainable projects. It ensures funds are allocated to environmentally responsible investments."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:46.947+05:30"
+            dc:title="Advanced Technology Comparison"
+            jcr:lastModified="{Date}2025-07-09T18:13:56.252+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

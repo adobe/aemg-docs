@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="4801f9ce-ee2c-447a-bada-abdd33122f7d">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-17T12:40:39.106+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaTitle=""
+        pdfType="Map"
+        sourcePath="/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/azentiobanking-map.ditamap">
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:34.050+05:30"
+            dam:numPages="{Long}6"
+            dam:Physicalheightininches="{Decimal}11.692913486111111"
+            dam:Physicalwidthininches="{Decimal}8.267717152777777"
+            dam:sha1="93e6383525bfcc52b8763ca9844603bb9246b35f"
+            dam:size="{Long}90709"
+            dc:format="application/pdf"
+            dc:modified="{Date}2025-07-17T12:40:14.307+05:30"
+            dc:title=""
+            jcr:lastModified="{Date}2025-07-17T12:40:39.078+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            xmp:CreateDate="{Date}2024-12-02T21:03:24.000+05:30"
+            xmp:CreatorTool="AEM Guides"
+            xmp:MetadataDate="{Date}2025-07-17T12:40:14.000+05:30"
+            xmp:ModifyDate="{Date}2025-07-17T12:40:14.000+05:30"
+            docstate="Draft"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

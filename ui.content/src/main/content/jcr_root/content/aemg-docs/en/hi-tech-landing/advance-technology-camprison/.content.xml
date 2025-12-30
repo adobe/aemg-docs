@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-10T20:16:43.124+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/hitech-topic"
+        dc:description="A seamless blend of innovation and creativity, delivering exceptional results"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Advance Technology Camprison"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/advance-technology-camprison.dita"
+        fmUuidOfSource="GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98"
+        indexPath="/content/aemg-docs/en/hi-tech-landing"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/hi-tech-landing"
+        mapParent="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        mapUUID="GUID-9392d343-9564-48d4-8d5c-f841619fb137"
+        preset="hi-tec"
+        presetid="hi-tec"
+        rootMapUUID="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap"
+        sitePath="/content/aemg-docs/en/hi-tech-landing"
+        siteTitle="hi-tech-landing"
+        sourcePath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/advance-technology-camprison.dita"
+        topicUUID="GUID-6e0e9cb4-bd5a-4a9b-8326-88218f3dca98"
+        tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+        uuid="advance-technology-camprison.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;caption class=&quot; title&quot;>Table: Advanced Technology Comparison&lt;/caption>&lt;colgroup>&lt;col name=&quot;col1&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col4&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col5&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col6&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Technology Type&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>Processing Power (TFLOPS)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>Energy Efficiency (W/TFLOP)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>Latency (ms)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>CO₂ Emissions (g/kWh)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>Cost per Unit ($)&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>AI Accelerator (ASIC)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>200&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>20&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>2&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>50&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>3000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Computer (QPU)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>500&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>30&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>10000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>High-Performance GPU&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>80&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>100&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>10&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>75&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>1200&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Tech Group&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>780&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>60&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5.7&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>45&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>2500&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>&lt;b class=&quot;ph b display-inline&quot;>Total&lt;/b>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>–&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;caption class=&quot; title&quot;>Table: Camparing between two tables&lt;/caption>&lt;colgroup>&lt;col name=&quot;col1&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col4&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col5&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col6&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Technology Type&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>Processing Power (TFLOPS)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>Energy Efficiency (W/TFLOP)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>Latency (ms)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>CO₂ Emissions (g/kWh)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>Cost per Unit ($)&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>AI Accelerator (ASIC)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>200&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>20&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>2&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>50&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>3000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Computer (QPU)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>500&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>30&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>10000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>High-Performance GPU&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>80&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>100&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>10&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>75&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>1200&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Tech Group&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>780&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>60&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5.7&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>45&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>2500&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>&lt;b class=&quot;ph b display-inline&quot;>Total&lt;/b>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>–&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-3
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;p&quot;>&lt;div id=&quot;table_2&quot; class=&quot;table&quot;>&lt;table class=&quot;tgroup&quot;>&lt;caption class=&quot; title&quot;>Dummy table&lt;/caption>&lt;colgroup>&lt;col name=&quot;col1&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col2&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col3&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col4&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col5&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;col name=&quot;col6&quot; class=&quot;colspec tcx-empty-element&quot; data-attr-rowheader=&quot;headers&quot;>&lt;/colgroup>&lt;thead class=&quot;thead&quot;>&lt;tr class=&quot;row&quot;>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Technology Type&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>Processing Power (TFLOPS)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>Energy Efficiency (W/TFLOP)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>Latency (ms)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>CO₂ Emissions (g/kWh)&lt;/th>&lt;th class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>Cost per Unit ($)&lt;/th>&lt;/tr>&lt;/thead>&lt;tbody class=&quot;tbody&quot;>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>AI Accelerator (ASIC)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>200&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>20&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>2&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>50&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>3000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Computer (QPU)&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>500&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>40&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>30&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>10000&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>High-Performance GPU&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>80&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>100&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>10&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>75&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>1200&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>Quantum Tech Group&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>780&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>60&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>5.7&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>45&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>2500&lt;/td>&lt;/tr>&lt;tr class=&quot;row&quot;>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col1&quot;>&lt;b class=&quot;ph b display-inline&quot;>Total&lt;/b>&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col2&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col3&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col4&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col5&quot;>–&lt;/td>&lt;td class=&quot;entry&quot; data-attr-colname=&quot;col6&quot;>–&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-4
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;dl class=&quot;dl&quot;>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Autumn&lt;/dt>&lt;dd class=&quot;dd&quot;>Autumn is the season when the leaves change color, the air becomes crisp, and the days grow shorter, signaling the transition from summer to winter.&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Ocean&lt;/dt>&lt;dd class=&quot;dd&quot;>The ocean is a vast and mysterious body of water that covers over 70% of the Earth's surface, home to countless marine species and shaping the planet's climate and weather patterns.&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Mountains&lt;/dt>&lt;dd class=&quot;dd&quot;>Mountains are large landforms that rise prominently above the surrounding terrain, often formed by tectonic forces and erosion, and they can provide breathtaking views and a wide variety of ecosystems.&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Technology&lt;/dt>&lt;dd class=&quot;dd&quot;>Technology refers to the application of scientific knowledge for practical purposes, often leading to the creation of tools, machines, and systems that improve human life and advance various industries.&lt;/dd>&lt;/div>&lt;div class=&quot;dlentry&quot;>&lt;dt class=&quot;dt&quot;>Solar System&lt;/dt>&lt;dd class=&quot;dd&quot;>The Solar System consists of the Sun and all the objects bound by its gravity, including planets, moons, asteroids, and comets, all of which move in elliptical orbits around the Sun.&lt;/dd>&lt;/div>&lt;/dl>"
+                            textIsRich="{Boolean}true"/>
+                        <text-5
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@admin&quot; data-tcx-attr-platform=&quot;platform@mobile&quot; class=&quot;p&quot;> Combining two thing audience and platform and the attribute is admin and mobile respectivelyt&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-6
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@admin&quot; data-tcx-attr-platform=&quot;platform@mobile&quot; class=&quot;p&quot;> Admins on mobile: Tap &quot;Settings&quot; &amp;gt; &quot;Manage Users.&quot; &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-7
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@admin&quot; data-tcx-attr-platform=&quot;platform@desktop&quot; class=&quot;p&quot;> Admins on desktop: Click &quot;Admin Panel&quot; &amp;gt; &quot;User Management.&quot; &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-8
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@end-user&quot; data-tcx-attr-platform=&quot;platform@mobile&quot; class=&quot;p&quot;> Users on mobile: Tap &quot;Profile&quot; to update information. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-9
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div data-tcx-attr-audience=&quot;audience@end-user&quot; data-tcx-attr-platform=&quot;platform@desktop&quot; class=&quot;p&quot;> Users on desktop: Click your name at the top to update profile details. &lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+                <container
+                    cq:styleIds="[1739265684209]"
+                    jcr:created="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2025-02-11T15:07:15.924+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <toc_search
+                        jcr:created="{Date}2025-02-12T14:49:46.409+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2025-07-09T18:49:58.049+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title=" "
+                        sling:resourceType="aemg-docs/components/sites-components/toc-search"
+                        helpMessage="search through the toc"
+                        hideTitle="true"
+                        id="toc-search"
+                        name="toc-search"
+                        rows="2"
+                        type="text"
+                        usePlaceholder="true"/>
+                </container>
+            </container_689917996>
+            <readingprogressbar
+                jcr:created="{Date}2025-03-10T06:25:03.187Z"
+                jcr:createdBy="krishna.mulik@deptagency.com"
+                jcr:lastModified="{Date}2025-07-09T18:49:39.279+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/sites-components/readingprogressbar"/>
+            <container
+                jcr:lastModified="{Date}2025-07-09T18:49:44.919+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

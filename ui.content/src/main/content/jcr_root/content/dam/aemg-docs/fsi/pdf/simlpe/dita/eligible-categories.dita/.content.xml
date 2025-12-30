@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="c95683eb-074f-4909-932b-00e46bbf2a95">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}5"
+        dam:processingId="90886cb1-f450-423e-92ea-2b8f58f341f0"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cqdam.text.txt,cq5dam.preview.mp4,cq5dam.preview.pdf,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2025-03-13T14:22:08.404Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-17T12:40:37.946+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-4d77a60c-6d05-40ca-9d21-17540db08462,image_4"
+        fmditaImages="[\,GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png]"
+        fmditaObjects="[]"
+        fmditaTitle="Eligible Categories"
+        fmditaXrefs="[\,https://www.hsbc.com/our-approach/risk-and-responsibility/sustainability-risk]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-17T12:40:00.730+05:30|/content/dam/aemg-docs/fsi/pdf/simlpe/dita/eligible-categories.dita"
+        fmUuid="GUID-4d77a60c-6d05-40ca-9d21-17540db08462"
+        guidesDirectParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap,GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        guidesParentMaps="[/content/dam/aemguidesDALP/fsi/pdf/simlpe/dita/ev-book-map.ditamap,/content/dam/aemg-docs/fsi/pdf/simlpe/dita/ev-book-map.ditamap,GUID-f7627a30-cc6d-41b2-9a45-a7b2a5ff3ca6]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-17T12:40:36.518+05:30"
+            dam:sha1="d1fb5a509d7a55f89fa704c3250014cd82af1812"
+            dam:size="{Long}2921"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-17T12:40:12.322+05:30"
+            dc:title="Eligible Categories"
+            jcr:lastModified="{Date}2025-07-17T12:40:37.946+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

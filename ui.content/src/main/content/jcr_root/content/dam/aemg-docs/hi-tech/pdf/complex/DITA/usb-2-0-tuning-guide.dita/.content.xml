@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e7d3ebee-d3a2-4dd5-87ad-4a68ee924e28">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-12T14:09:59.097Z"
+        cq:lastReplicated_publish="{Date}2025-03-12T14:09:59.097Z"
+        cq:lastReplicatedBy="sadhna.singh@deptagency.com"
+        cq:lastReplicatedBy_publish="sadhna.singh@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:name="usb-2-0-tuning-guide.dita"
+        cq:parentPath="/content/dam/aemg-docs/hi-tech/pdf/complex/DITA"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}80"
+        dam:processingId="58493584-1689-4aa6-92a2-b9dbc90a5214"
+        dam:processingRenditions="[cq5dam.preview.mp4,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.319.319.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2025-04-17T12:20:57.385Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.110+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.1"
+        fmDependents="[GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,GUID-38c902ff-cf12-412f-98f6-b032c3d8364d.png,]"
+        fmdita-dita-template="{Boolean}false"
+        fmditaConrefs="[r_productname_variables/ph_enduser\,]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_b9f1bbbe-ce18-42d0-8474-812d2390b30c,fig_2,image_21,image_18,image_17,ol_1"
+        fmditaImages="[\,GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,\,GUID-05f16f14-cd1e-43b1-b8ef-5b3639408efa.png,\,GUID-38c902ff-cf12-412f-98f6-b032c3d8364d.png]"
+        fmditaObjects="[]"
+        fmditaTitle="USB 2.0 Tuning Guide"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-09T18:13:53.569+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/usb-2-0-tuning-guide.dita"
+        fmUuid="GUID-9e3d9cb5-3d1d-4c75-91c9-c5901d71e3f3"
+        guidesDirectParentMaps="[GUID-9392d343-9564-48d4-8d5c-f841619fb137,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        guidesParentMaps="[GUID-9392d343-9564-48d4-8d5c-f841619fb137,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:54.954+05:30"
+            dam:sha1="7a17777fc121341f8a6893f3e4937694ef59527e"
+            dam:size="{Long}6225"
+            dc:description="A seamless blend of innovation and creativity, delivering exceptional results"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:45.226+05:30"
+            dc:title="USB 2.0 Tuning Guide"
+            jcr:lastModified="{Date}2025-07-09T18:13:56.110+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{&quot;audience&quot;:&quot;end-user,admin&quot;}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png"
+            tp_image="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

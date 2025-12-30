@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_c2cad182-2229-4225-a482-3fa0431d50e2">
+  <title>Dita Element</title>
+  <body>
+    <p/>
+    <note type="tip">This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.</note>
+    <p>The online article <cite>Specialization in the Darwin Information Typing Architecture</cite> provides a detailed explanation of how to define new topic types.</p>
+    <ul>
+      <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+        <ul>
+          <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air
+            <ul>
+              <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air</li>
+              <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+              <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+              <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .</li>
+            </ul>
+          </li>
+          <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+          <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .</li>
+        </ul>
+      </li>
+      <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+      <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+      <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh .
+        <ol id="ol_1">
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+          <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+        </ol>
+      </li>
+    </ul>
+    <dl>
+      <dlentry>
+        <dt>Autumn</dt>
+        <dd>Autumn is the season when the leaves change color, the air becomes crisp, and the days grow shorter, signaling the transition from summer to winter.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Ocean</dt>
+        <dd>The ocean is a vast and mysterious body of water that covers over 70% of the Earth's surface, home to countless marine species and shaping the planet's climate and weather patterns.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Mountains</dt>
+        <dd>Mountains are large landforms that rise prominently above the surrounding terrain, often formed by tectonic forces and erosion, and they can provide breathtaking views and a wide variety of ecosystems.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Technology</dt>
+        <dd>Technology refers to the application of scientific knowledge for practical purposes, often leading to the creation of tools, machines, and systems that improve human life and advance various industries.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>Solar System</dt>
+        <dd>The Solar System consists of the Sun and all the objects bound by its gravity, including planets, moons, asteroids, and comets, all of which move in elliptical orbits around the Sun.</dd>
+      </dlentry>
+    </dl>
+    <ol>
+      <li> The sun was setting behind the mountains, casting a warm golden glow across the horizon, while the sound of the river flowing nearby added a peaceful melody to the evening air</li>
+      <li> As the stars began to appear in the clear sky, the air grew cooler, and the night creatures began to stir, creating a symphony of sounds that filled the forest with life</li>
+      <li> In the distance, the faint glow of a campfire flickered, inviting weary travelers to rest and share stories under the vast, twinkling expanse of the starlit sky</li>
+      <li> The bustling city streets were alive with the sound of honking cars, the chatter of pedestrians, and the scent of fresh.</li>
+    </ol>
+    <p>The officer left a note saying <q>You have been summoned to appear on the 4th day of January on charges of attempted reader bribery.</q></p>
+    <p>The advantages of using <tm tmtype="tm" trademark="DB2 Universal Database"> <tm tmclass="ibm" tmtype="reg" trademark="DB2">DB2</tm> Universal Database</tm> are well known.</p>
+    <note type="tip">This is a helpful tip to ensure that you follow the correct steps during the process, as it will make the entire task smoother and more efficient in the long run.</note>
+    <note type="caution">Please be cautious and ensure that you double-check all the details before proceeding, as any small mistake could lead to unexpected complications or errors.</note>
+    <note type="danger">This is a dangerous warning that should not be ignored under any circumstances; failure to follow the guidelines provided here could result in serious consequences or harm to yourself or others.</note>
+    <note type="restriction">There are certain restrictions you must adhere to in this situation, as failing to follow the rules could lead to delays, issues, or violations of legal or organizational policies.</note>
+    <hazardstatement type="danger">
+      <messagepanel>
+        <typeofhazard>Rotating blade.</typeofhazard>
+        <consequence>Moving parts can crush and cut.</consequence>
+        <howtoavoid>Follow lockout procedure before servicing.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    <hazardstatement type="warning">
+      <messagepanel>
+        <typeofhazard>Hot surfaces inside.</typeofhazard>
+        <consequence>Contact might cause burn.</consequence>
+        <howtoavoid>Wear protective gear before servicing internal parts.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    <hazardstatement type="notice">
+      <messagepanel>
+        <typeofhazard>Battery low</typeofhazard>
+        <howtoavoid>Push and hold for charge state test.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    <hazardstatement type="caution">
+      <messagepanel id="messagepanel_1">
+        <typeofhazard>Lifting Hazard. </typeofhazard>
+        <howtoavoid>Might result in injury.</howtoavoid>
+        <howtoavoid> See safety manual for lifting instructions.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    <p> global goals to reduce <i> italicized </i> carbon emissions and promote </p>
+    <p> Caution: Indicates a potentially hazardous situation which, if not avoided, <b>might</b> result in minor or moderate injury.</p>
+    <p>Autonomous flight systems are poised <overline> This is a demo with overline </overline> to transform </p>
+    <p> chips requires<line-through>This text is crossed out with line-through</line-through> rigorous </p>
+    <hazardstatement type="restriction">
+      <messagepanel>
+        <typeofhazard>Might result in injury.</typeofhazard>
+        <howtoavoid>Lifting Hazard</howtoavoid>
+        <howtoavoid>See safety manual for lifting instructions.</howtoavoid>
+      </messagepanel>
+    </hazardstatement>
+    <p><xref href="GUID-5c58004b-4e75-493d-b30c-7a1e16be484f.dita#_4ed34acd-9b23-4254-a38c-558187b70da9" scope="local">Advanced Technologies in Semiconductor and Aviation Industries </xref></p>
+    <p>A <term>reference implementation</term> of DITA implements the standard, fallback behaviors intended for DITA elements.</p>
+    <p>The memory storage capacity of the computer is 2 GB<sup outputclass="footnote-ref">1</sup> with error correcting support.</p>
+    <p outputclass="footnote-text"><sup outputclass="footnote-number">1</sup> A GB (gigabyte) is equal to 1000 million bytes.</p>
+    <codeblock>
+/* html code give below */
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;title&gt;Page Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1&gt;My First Heading&lt;/h1&gt;
+  &lt;p&gt;My first paragraph.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+ </codeblock>
+    <codeblock>
+
+/* Css code give below */
+body {
+background-color: lightblue;
+}
+h1 {
+color: white;
+text-align: center;
+}
+p {
+font-family: verdana;
+}
+
+ </codeblock>
+    <codeblock>
+/* Js code give below */
+let arr = ["scale", "happy", "strength", "peace", "happy", "happy"];
+
+// Function to remove duplicates from an array
+function removeDuplicates(arr) {
+return arr.filter((item, index) =&gt; arr.indexOf(item) === index);
+}
+
+// Display the original array
+document.getElementById("originalArray").innerText = arr;
+
+// Remove duplicates and display the modified array
+let uniqueArr = removeDuplicates(arr);
+document.getElementById("uniqueArray").innerText = uniqueArr;
+
+// Also log the result to the console
+console.log(uniqueArr);
+ </codeblock>
+    <p>Make sure that the screen displays <tt>File successfully created</tt> before proceeding to the next stage of the task.</p>
+    <p>The power produced by the electrohydraulic dam was 10<sup>10</sup> more than the older electric plant. The difference was H<sub>2</sub>O.</p>
+    <lines>Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+and summer's lease hath all too short a date...</lines>
+    <p>A <term>reference implementation</term> of DITA implements the standard, fallback behaviors intended for DITA elements.</p>
+    <example id="example">
+      <title>Example: Using the P Element</title>
+      <codeblock>This is an example of how to use the P element in HTML to create paragraphs.</codeblock>
+    </example>
+    <pre>MEMO: Automotive Team Fun Day Remember to bring your favorite car care tool, racing gloves, or other automotive gear to tomorrow's fun day outing at Speedway Park. Volunteers needed for the pit stop challenge.</pre>
+  </body>
+</topic>

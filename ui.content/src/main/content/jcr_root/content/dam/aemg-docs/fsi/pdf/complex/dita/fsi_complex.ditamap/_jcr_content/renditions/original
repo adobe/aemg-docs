@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64">
+  <title>fsi_complex</title>
+  <bookmeta>
+    <critdates>
+      <created date="2024"></created>
+    </critdates>
+    <prodinfo>
+      <prodname>Green Financing Framework</prodname>
+      <vrmlist>
+        <vrm version="2024.38"></vrm>
+      </vrmlist>
+      <brand>FSI Brand</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>2015</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc></toc>
+    </booklists>
+    <mapref format="ditamap" href="glossary/glossary.ditamap" type="map">
+    </mapref>
+    <!--  put glossary map here--><!-- <mapref format="ditamap" href="Glossary/glossary-.ditamap" type="map">    </mapref> -->
+  </frontmatter>
+  <chapter href="../../../../../aemguidesDALP/fsi/pdf/complex/dita/eligible-assets-evaluation-and-selection-process.dita" type="topic">
+  </chapter>
+  <chapter href="task.dita" type="task">
+  </chapter>
+  <chapter href="sample_dita.dita" type="topic">
+  </chapter>
+  <chapter href="debit_card.dita" type="topic">
+  </chapter>
+  <chapter href="additional_information.dita" type="topic">
+  </chapter>
+  <chapter href="hsbc_chapter_1.dita" type="topic">
+  </chapter>
+  <chapter href="eligibility.dita" type="topic">
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist></indexlist>
+      <glossarylist>
+      </glossarylist>
+      <figurelist></figurelist>
+      <tablelist></tablelist>
+    </booklists>
+  </backmatter>
+</bookmap>

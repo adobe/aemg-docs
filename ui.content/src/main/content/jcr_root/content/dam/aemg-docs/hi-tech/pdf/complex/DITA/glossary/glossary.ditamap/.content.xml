@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="9c437dc0-4c66-4dfb-8aa4-430d32d7aeaa">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.705+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[saying-hello.dita,saying-goodbye.dita,pediatrician.dita]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_41b86af2-9b28-4bf5-9d97-66bb8d3a6745"
+        fmditaKeydefrefs="[\,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-hello.dita,\,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-goodbye.dita,\,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/pediatrician.dita]"
+        fmditaKeySpace="\{&quot;goodbye&quot;:&quot;/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-goodbye.dita&quot;,&quot;pediatrcian&quot;:&quot;/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/pediatrician.dita&quot;,&quot;hello&quot;:&quot;/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-hello.dita&quot;}"
+        fmditaMaprefs="[]"
+        fmditaTitle="glossary"
+        fmditaTopicrefs="[]"
+        fmPostProcessedAt="2025-07-09T18:13:53.143+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap]"
+        templateDescription="Template for map"
+        templateTitle="Map">
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:56.676+05:30"
+            dam:sha1="d19b43889d5b6ffa41eb212421c31ac41de4123c"
+            dam:size="{Long}407"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:45.651+05:30"
+            dc:title="glossary"
+            jcr:lastModified="{Date}2025-07-09T18:13:56.409+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- map/map "
+            docstate="Draft">
+            <namedoutputs jcr:primaryType="nt:unstructured">
+                <aemsite
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-09T17:29:48.933+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="AEM Site"
+                    fmdita-outputType="AEMSITE"
+                    lastModified="2025-07-09T17:29:48.933+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <pdf
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-09T17:29:48.934+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="PDF"
+                    fmdita-outputType="PDF"
+                    lastModified="2025-07-09T17:29:48.934+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <html5
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-09T17:29:48.934+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="HTML5"
+                    fmdita-outputType="HTML5"
+                    lastModified="2025-07-09T17:29:48.934+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <epub
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-09T17:29:48.934+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="EPUB"
+                    fmdita-outputType="EPUB"
+                    lastModified="2025-07-09T17:29:48.934+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+                <custom
+                    jcr:primaryType="nt:unstructured"
+                    created="2025-07-09T17:29:48.935+05:30"
+                    createdBy="fmdita-serviceuser"
+                    fmdita-outputTitle="CUSTOM"
+                    fmdita-outputType="CUSTOM"
+                    lastModified="2025-07-09T17:29:48.935+05:30"
+                    lastModifiedBy="fmdita-serviceuser"/>
+            </namedoutputs>
+        </metadata>
+    </jcr:content>
+</jcr:root>

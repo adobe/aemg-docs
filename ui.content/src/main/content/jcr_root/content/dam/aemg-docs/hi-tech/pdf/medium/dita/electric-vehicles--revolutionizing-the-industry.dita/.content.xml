@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e6907971-a341-40bc-8047-1d225ac2e945">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-05T11:27:29.484Z"
+        cq:lastReplicated_publish="{Date}2025-03-05T11:27:29.484Z"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicatedBy_publish="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}3"
+        dam:processingId="3595bd97-53cf-4002-bd74-6f0ec683e3f5"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.colors.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cq5dam.preview.mp4,cqdam.metadata.xml]"
+        dam:processingRequestedDate="{Date}2025-03-28T09:49:27.401Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:56.318+05:30"
+        jcr:lastModifiedBy="prashant.singh@deptagency.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[GUID-a212b459-ff3b-4129-b567-97190a704569.dita]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_db013647-7120-46ff-bfed-9c3b32cc2472,messagepanel_1"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle=" Artificial Intelligence: Revolutionizing the Hi-Tech Industry"
+        fmditaXrefs="[\,GUID-a212b459-ff3b-4129-b567-97190a704569.dita#_4ed34acd-9b23-4254-a38c-558187b70da9]"
+        fmPostProcessedAt="2025-07-09T18:13:53.744+05:30|/content/dam/aemg-docs/hi-tech/pdf/medium/dita/electric-vehicles--revolutionizing-the-industry.dita"
+        fmUuid="GUID-3e15d47a-10f5-4b8f-8e4a-d005de0d0427"
+        guidesDirectParentMaps="[GUID-2b774578-7f32-4bd6-810c-09881bb27f9f,GUID-f0a769e8-b6a0-48ee-be06-13ff30a695d4]"
+        guidesParentMaps="[GUID-2b774578-7f32-4bd6-810c-09881bb27f9f,GUID-f0a769e8-b6a0-48ee-be06-13ff30a695d4]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:56.283+05:30"
+            dam:sha1="3a78b769ea11adc3bf92f51f121dc121012bb2b9"
+            dam:size="{Long}7209"
+            dc:description="This guide details the standards for providing green loans to finance sustainable projects. It ensures funds are allocated to environmentally responsible investments."
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:46.494+05:30"
+            dc:title="Electric Vehicles: Revolutionizing the Industry"
+            jcr:lastModified="{Date}2025-07-09T18:13:54.671+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

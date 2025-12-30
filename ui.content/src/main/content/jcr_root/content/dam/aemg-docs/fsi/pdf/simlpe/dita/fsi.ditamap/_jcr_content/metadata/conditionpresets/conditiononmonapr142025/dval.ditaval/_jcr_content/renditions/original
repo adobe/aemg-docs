@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<val>
+    <prop action="exclude"/>
+    <prop action="exclude" att="audience" val="admin"/>
+    <prop action="exclude" att="audience" val="end-user"/>
+</val>

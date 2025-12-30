@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="cbe5858d-28dc-4667-9326-6421247187b4">
+    <jcr:content
+        cq:isDelivered="{Boolean}false"
+        cq:lastReplicated="{Date}2025-03-07T18:58:50.459Z"
+        cq:lastReplicated_publish="{Date}2025-03-07T18:58:50.459Z"
+        cq:lastReplicatedBy="krishna.mulik@deptagency.com"
+        cq:lastReplicatedBy_publish="krishna.mulik@deptagency.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:assetState="processed"
+        dam:processingAttempts="{Long}9"
+        dam:processingId="e8a0e32f-d84a-4bd0-b502-559046f88068"
+        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.mp4,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cqdam.text.txt,cq5dam.preview.pdf]"
+        dam:processingRequestedDate="{Date}2025-03-07T17:54:56.281Z"
+        dam:runDMProcess="{Boolean}true"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2025-07-09T18:13:58.098+05:30"
+        jcr:lastModifiedBy="krishna.mulik@deptagency.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2]"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        dxmlLastCreatedVersion="1.0"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="GUID-ac6dcc04-40d9-40a7-92b5-b784c9dfc6f2"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Eligible Assets Evaluation and Selection Process"
+        fmditaXrefs="[]"
+        fmDocIdStatus="completed"
+        fmPostProcessedAt="2025-07-09T18:13:54.373+05:30|/content/dam/aemg-docs/hi-tech/pdf/medium/dita/topic.dita"
+        fmUuid="GUID-ac6dcc04-40d9-40a7-92b5-b784c9dfc6f2"
+        guidesDirectParentMaps="[GUID-f0a769e8-b6a0-48ee-be06-13ff30a695d4]"
+        guidesParentMaps="[GUID-f0a769e8-b6a0-48ee-be06-13ff30a695d4]"
+        templateDescription="Generic topic template"
+        templateTitle="Topic">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.mp4
+                jcr:primaryType="nt:unstructured"
+                message="Format mp4 is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.zoom.2048.2048.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.preview.pdf
+                jcr:primaryType="nt:unstructured"
+                message="Format pdf is not supported for xml files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:58.066+05:30"
+            dam:sha1="e5122a7b04574dfe42d8dea94bf16d8ab9383a3e"
+            dam:size="{Long}4896"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:45.960+05:30"
+            dc:title="Eligible Assets Evaluation and Selection Process"
+            jcr:lastModified="{Date}2025-07-09T18:13:58.003+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic "
+            docstate="Draft"
+            tp_coverimage="/content/dam/aemg-docs/sites-assets/hi-tech/headphonelist.png">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+        </metadata>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap/dtd/bookmap.dtd">
+<bookmap id="GUID-2b774578-7f32-4bd6-810c-09881bb27f9f">
+  <title>Hi Tech</title>
+  <bookmeta>
+    <linktext/>
+    <critdates>
+      <created date="2024"/>
+    </critdates>
+    <prodinfo>
+      <prodname>Jetson AGX Orin Series Modules Tuning and Compliance Guide</prodname>
+      <vrmlist>
+        <vrm version="2024.38"/>
+      </vrmlist>
+      <brand>HSBC</brand>
+    </prodinfo>
+    <bookid>
+    <booknumber>83-384-48</booknumber>
+    </bookid>
+    <bookrights>
+    <copyrfirst>
+    <year>May 2024</year>
+    </copyrfirst>
+    <bookowner>
+    <organization>Adobe</organization>
+    </bookowner>
+    </bookrights>
+    <data>
+    <title>data</title>
+    </data>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+    <mapref format="ditamap" href="GUID-884cdf69-d90d-48f1-9898-cf062c1a5772.ditamap" type="map">
+    </mapref>
+  </frontmatter>
+  <chapter href="GUID-b199df51-ff8a-48d6-bc03-d39930224006.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-1aabd2d7-90e6-4518-add5-1e428acc5dcf.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-788d93b0-1a1e-4e9e-a492-661290c1a59d.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3e15d47a-10f5-4b8f-8e4a-d005de0d0427.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-52cd88ed-f3a2-4d9f-b203-2d2c04cd8601.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-083af9e5-246b-4a44-991e-73590edef7db.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-e1199f71-3b32-44f8-89ef-135f5942aa30.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-1aabd2d7-90e6-4518-add5-1e428acc5dcf.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-52cd88ed-f3a2-4d9f-b203-2d2c04cd8601.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-e1199f71-3b32-44f8-89ef-135f5942aa30.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3e15d47a-10f5-4b8f-8e4a-d005de0d0427.dita" type="topic">
+  </chapter>
+  <chapter href="GUID-3492e61b-9a0f-4df1-a208-94d36addc9cc.dita" type="task">
+  </chapter>
+  <backmatter>
+    <booklists>
+      <indexlist/>
+      <glossarylist>
+      </glossarylist>
+    </booklists>
+  </backmatter>
+</bookmap>

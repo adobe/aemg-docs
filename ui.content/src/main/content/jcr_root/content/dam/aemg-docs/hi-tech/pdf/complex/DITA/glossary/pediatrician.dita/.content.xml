@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="d4c11225-5940-4920-a1ad-9c313662d394">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T18:13:55.938+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_5900b5f2-14bd-428e-ae03-c43570e8d0eb"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="pediatrician"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-09T18:13:53.158+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/pediatrician.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:55.521+05:30"
+            dam:sha1="6c5273eaaa4e995763cde9a2d731b5fce72c88ad"
+            dam:size="{Long}307"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:47.049+05:30"
+            dc:title="pediatrician"
+            jcr:lastModified="{Date}2025-07-09T18:13:55.938+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

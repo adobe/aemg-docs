@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "technicalContent/dtd/task.dtd">
+<task id="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0">
+  <title>Task</title>
+  <shortdesc/>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""/> Task</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>Once you have set up your vehicle maintenance system, you need to perform a series of tasks to ensure the vehicle is in top condition.</context>
+    <steps>
+      <step>
+        <cmd>Inspect</cmd>
+        <info>Inspect the vehicle's engine, tires, and fluid levels to ensure everything is functioning properly before starting the maintenance process.</info>
+      </step>
+      <step>
+        <cmd>Replace</cmd>
+        <info>Replace old engine oil and filters, as well as worn-out brake pads, ensuring your vehicle's performance remains optimal.</info>
+      </step>
+      <step>
+        <cmd>Test</cmd>
+        <info>Test the battery, lights, and electronic systems to confirm all components are in good working order, reducing the risk of failures.</info>
+      </step>
+      <!-- <step>
+        <cmd>Clean</cmd>
+        <info>Clean the vehicle, both inside and out, to maintain its appearance and prevent wear and tear caused by dirt and grime accumulation.</info>
+      </step> -->
+    </steps>
+  </taskbody>
+</task>

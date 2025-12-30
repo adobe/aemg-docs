@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_a0769d50-58af-4f3c-9962-cf1a18044896">
+  <title>Purpose of the guide</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""/><indexterm>Higher Daily Purchase Limits</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body><!-- <div outputclass="intro_heading">Purpose of the guide</div> -->
+    <fig expanse="column">
+      <title>The Handshake</title>
+      <image href="GUID-7b64a8ca-687a-457a-92aa-116000c96638.png" placement="break">
+      <alt>The Handshake</alt>
+      </image>
+    </fig>
+    <div outputclass="intro_subheading">A secondary, usually explanatory line</div>
+    <p>The online article <cite>Specialization in the Darwin Information Typing Architecture</cite> provides a detailed explanation of how to define new topic types.</p>
+    <p>A <term>reference implementation</term> of DITA implements the standard, fallback behaviors intended for DITA elements.</p>
+    <p outputclass="intro_content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. </p>
+    <div>
+      <fig expanse="column">
+        <title>The Handshake</title>
+        <image href="GUID-72e3e910-e1f3-4061-b8f2-b68f35ed99ca.png" placement="break">
+        <alt>The Handshake</alt>
+        </image>
+      </fig>
+    </div>
+    <note type="tip">Tip Note</note>
+    <note type="caution"> Caution Note</note>
+    <note type="danger">Danger Note</note>
+    <note type="restriction">Restriction Note</note>
+    <div outputclass="text-img-text-alignment">
+      <div outputclass="width-25 intro_content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. </div>
+      <div outputclass="width-25 intro_content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar.<!-- <div outputclass="content-card_img"> </div>        <image href="../../../images/common/bar-chart-img.png" id="image_2">        </image>--></div>
+      <div outputclass="width-25 intro_content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. </div>
+    </div>
+    <div outputclass="intro_content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus. </div>
+    <p><abbreviated-form keyref="ffi"/></p>
+    <p><abbreviated-form keyref="iga"/></p>
+    <p> <abbreviated-form keyref="tin"/> </p>
+    <div> </div>
+    <div outputclass="footnote">
+      <p outputclass="footnote-text"><sup outputclass="footnote-number">1</sup> A GB (gigabyte) is equal to 1000 million bytes.</p>
+    </div>
+  </body>
+</topic>

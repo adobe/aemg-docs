@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2025-07-23T16:56:43.381+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/aemg-docs/settings/wcm/templates/bfsi-topic"
+        dc:description="This document outlines the criteria, management, and reporting standards for issuing green bonds. It aligns with ICMA Green Bond Principles to ensure transparency and impact-driven financing."
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Task"
+        sling:resourceType="aemg-docs/components/page"
+        aiChatEnabled="{Boolean}false"
+        basePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        effectiveSourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/task.dita"
+        fmUuidOfSource="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0"
+        indexPath="/content/aemg-docs/en/bfsi-landing-page"
+        localName="chapter"
+        mapID="/content/aemg-docs/en/bfsi-landing-page"
+        mapParent="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        mapUUID="GUID-42f4bf92-c81a-4492-8669-81bc591ccb64"
+        preset="fsi-site"
+        presetid="fsi-site"
+        rootMapUUID="/content/dam/aemg-docs/fsi/pdf/complex/dita/fsi_complex.ditamap"
+        sitePath="/content/aemg-docs/en/bfsi-landing-page"
+        siteTitle="bfsi-landing-page"
+        sourcePath="/content/dam/aemg-docs/fsi/pdf/complex/dita/task.dita"
+        topicUUID="GUID-ac3ad309-d3e7-4033-b33f-473008216cc0"
+        uuid="task.dita">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="aemg-docs/components/container"
+            layout="responsiveGrid">
+            <container
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemg-docs/components/container"
+                layout="responsiveGrid"/>
+            <container_689917996
+                jcr:created="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2025-02-07T14:55:59.253+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="core/wcm/components/container/v1/container">
+                <container1
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="core/wcm/components/container/v1/container">
+                    <injected-container
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="core/wcm/components/container/v1/container"
+                        replacementTokenField="text">
+                        <text-1
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;div class=&quot;section context&quot;>Once you have set up your vehicle maintenance system, you need to perform a series of tasks to ensure the vehicle is in top condition.&lt;/div>"
+                            textIsRich="{Boolean}true"/>
+                        <text-2
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="core/wcm/components/text/v2/text"
+                            text="&lt;ol class=&quot;ol steps&quot;>&lt;li class=&quot;li step&quot;>&lt;span class=&quot;ph cmd display-inline&quot;>Inspect&lt;/span>&lt;div class=&quot;itemgroup info&quot;>&lt;span class=&quot;prefix-content&quot;>ADDITIONAL INFORMATION: &lt;/span>Inspect the vehicle's engine, tires, and fluid levels to ensure everything is functioning properly before starting the maintenance process.&lt;/div>&lt;/li>&lt;li class=&quot;li step&quot;>&lt;span class=&quot;ph cmd display-inline&quot;>Replace&lt;/span>&lt;div class=&quot;itemgroup info&quot;>&lt;span class=&quot;prefix-content&quot;>ADDITIONAL INFORMATION: &lt;/span>Replace old engine oil and filters, as well as worn-out brake pads, ensuring your vehicle's performance remains optimal.&lt;/div>&lt;/li>&lt;li class=&quot;li step&quot;>&lt;span class=&quot;ph cmd display-inline&quot;>Test&lt;/span>&lt;div class=&quot;itemgroup info&quot;>&lt;span class=&quot;prefix-content&quot;>ADDITIONAL INFORMATION: &lt;/span>Test the battery, lights, and electronic systems to confirm all components are in good working order, reducing the risk of failures.&lt;/div>&lt;/li>&lt;/ol>"
+                            textIsRich="{Boolean}true"/>
+                    </injected-container>
+                </container1>
+            </container_689917996>
+        </root>
+    </jcr:content>
+</jcr:root>

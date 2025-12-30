@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "technicalContent/dtd/topic.dtd">
+<topic id="_3b2e712b-be08-4c9a-b010-2df2bcc4681f">
+  <title>Eligible Assets Evaluation and Selection Process</title>
+  <shortdesc>The Eligible Assets evaluation and selection process ensures that financial transactions in the BFSI sector are allocated to assets meeting specified criteria for sustainability and risk management.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm><term conkeyref=""></term><indexterm>Early Innovations in Financial Services</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+  <body>
+    <section>
+      <title outputclass="chapter_sub-titles">Evolution of the BFSI Industry</title>
+      <p>The BFSI sector has undergone significant transformation, from the early days of traditional banking to the modern digital landscape. The advent of digital banking, mobile payments, and online insurance services has reshaped the industry. Today, financial institutions are embracing digital transformation to offer better customer service, improve operational efficiency, and manage risk effectively.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">Early Innovations in Financial Services</title>
+      <p>The origins of banking can be traced back to ancient civilizations, where rudimentary systems for exchanging goods and services were developed. Over time, banking evolved with the introduction of paper money, checks, and the establishment of central banks. The 20th century saw the rise of commercial banking, along with innovations in credit and investment services.</p>
+    </section>
+    <section>
+      <div outputclass="chart-container">Polar Chart</div>
+      <table outputclass="eligbility-cat-table" id="table_2">
+        <title>Eligibility Table</title>
+        <tgroup cols="2">
+          <colspec colwidth="1*" colname="col_1"></colspec>
+          <colspec colwidth="1*" colname="col_2"></colspec>
+          <thead>
+            <row>
+              <entry>Categories</entry>
+              <entry>Values (in percentage)</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Research and Development</entry>
+              <entry>70</entry>
+            </row>
+            <row>
+              <entry> Corporate Responsibility</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Customer Service</entry>
+              <entry>35</entry>
+            </row>
+            <row>
+              <entry>Operations and Production</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Sales and Marketing</entry>
+              <entry>5</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">The Rise of Digital Banking</title>
+      <p>Digital banking has revolutionized the way consumers access financial services. The proliferation of online banking platforms and mobile apps has enabled seamless transactions, improved customer experience, and better financial management for individuals and businesses alike.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">The Role of Sustainability in Financial Design</title>
+      <p>In response to growing environmental concerns, the BFSI sector is increasingly focusing on sustainable finance. Financial institutions are integrating environmental, social, and governance (ESG) criteria into their lending and investment practices, promoting sustainability and reducing the negative impact on the planet.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">Environmental Impact of Traditional Financial Models</title>
+      <p>Traditional financial services often contributed to environmental degradation through investments in industries with high carbon footprints. The financial sector&#39;s indirect role in environmental harm has led to calls for greater accountability and a shift towards more sustainable investment strategies.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">Transition to Sustainable Financial Practices</title>
+      <p>To address sustainability concerns, many financial institutions are transitioning to green finance models, where investments are directed towards environmentally responsible projects. This includes financing renewable energy, green bonds, and eco-friendly businesses.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">The Shift Toward Sustainable Investing</title>
+      <p>Sustainable investing is gaining traction as investors seek to align their portfolios with their values. Financial institutions are offering a growing range of ESG-compliant products, such as green bonds and socially responsible investment (SRI) funds, to attract environmentally conscious investors.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">Growth of Sustainable Finance Market</title>
+      <p>The global sustainable finance market has seen significant growth, driven by increasing demand from investors, regulators, and consumers for responsible financial products. This shift is also supported by governmental initiatives promoting ESG practices and sustainable business operations.</p>
+    </section>
+    <section>
+      <title outputclass="chapter_sub-titles">Government Regulations and Incentives</title>
+      <p>Governments around the world are enacting regulations to encourage sustainable financial practices. These include mandates for transparency in ESG reporting, tax incentives for green investments, and stricter rules on climate-related disclosures. These policies are helping shape the future of the BFSI sector towards greater environmental responsibility.</p>
+    </section>
+  </body>
+</topic>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="dc4d9cb5-7d53-4f49-8a63-f6b73f7aca23">
+    <jcr:content
+        dam:assetState="processed"
+        jcr:lastModified="{Date}2025-07-09T18:13:57.120+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        dita_encoding="UTF-8"
+        fmDependents="[]"
+        fmdita-dita-template="{Boolean}false"
+        fmdita-newfile="{Boolean}true"
+        fmditaConrefs="[]"
+        fmditaDynamicTitle="{Boolean}false"
+        fmditaIds="_ec8962ff-3ecc-4727-b178-6f56081d3f90"
+        fmditaImages="[]"
+        fmditaObjects="[]"
+        fmditaTitle="Saying hello"
+        fmditaXrefs="[]"
+        fmPostProcessedAt="2025-07-09T18:13:53.210+05:30|/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/saying-hello.dita"
+        guidesDirectParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        guidesParentMaps="[/content/dam/aemg-docs/ditafolder/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/hi-tech-complex-new.ditamap,/content/dam/aemg-docs/hi-tech/pdf/complex/DITA/glossary/glossary.ditamap]"
+        templateDescription="Template for glossary topic"
+        templateTitle="Glossary">
+        <metadata
+            dam:extracted="{Date}2025-07-09T18:13:54.515+05:30"
+            dam:sha1="c04ebb2f59c763ac8bf04b4516ed2c68931dd853"
+            dam:size="{Long}307"
+            dc:format="application/xml"
+            dc:modified="{Date}2025-07-09T17:29:46.589+05:30"
+            dc:title="Saying hello"
+            jcr:lastModified="{Date}2025-07-09T18:13:57.120+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            attrValList="\{}"
+            dita_class="- topic/topic concept/concept glossentry/glossentry "
+            docstate="Draft"/>
+    </jcr:content>
+</jcr:root>

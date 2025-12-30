@@ -4,4 +4,5 @@
     cq:allowedTemplates="[/conf/aemg-docs/settings/wcm/templates/(?!page-).*]"
     jcr:primaryType="sling:OrderedFolder"
     jcr:title="AEMG Docs Fragments">
+    <en/>
 </jcr:root>

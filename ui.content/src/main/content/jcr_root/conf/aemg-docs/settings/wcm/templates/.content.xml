@@ -2,8 +2,19 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="cq:Page">
+    <hi-tec-search/>
+    <kb-content/>
+    <topic-content/>
     <page-content/>
-    <topic-page-template/>
-    <xf-web-variation/>
     <rep:policy/>
+    <automotive-search/>
+    <bfsi-search/>
+    <hi-tech-landing/>
+    <bfsi-landing/>
+    <hitech-topic/>
+    <bfsi-topic/>
+    <automotive-topic/>
+    <automotive-landing/>
+    <xf-web-variation/>
+    <bfsi-landing1/>
 </jcr:root>
